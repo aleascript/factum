@@ -237,7 +237,7 @@ Nous voilà maintenant au cœur du moteur de résolution du jeu.
 
 Les résolutions se font toujours sous forme d'opposition 2 à 2. 
 
-Il y a le camp du ou des protagonistes et le camp de l'adversité, de l'obstacle, des antagonistes donc. 
+Il y a d'un côté le camp du ou des protagonistes et de l'autre le camp de l'adversité, de l'obstacle, des antagonistes.
 
 **Joueur contre joueur**
 

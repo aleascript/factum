@@ -42,6 +42,8 @@ Le destin mesure la prise de risque des protagonistes. Elle est commune à la pa
 
 C'est un nombre qui vaut zéro en début de partie et peut être ensuite négatif ou positif. 
 
+Le joueur en charge de gérer le Destin est appelé la Destinée. 
+
 ## Les oppositions 
 
 Quand un protagoniste veut agir contre un obstacle, on parle d'opposition. 
@@ -61,6 +63,12 @@ Si le nombre de dés du protagoniste est supérieur au nombre de dés de l'obsta
 Si le nombre de dés du protagoniste est inférieur au nombre de dés de l'obstacle, on dit que le protagoniste est l'outsider.
 
 En cas d'égalité, on parle d'opposition équilibrée. 
+
+**Joueur contre joueur**
+
+Il est possible qu'un protagoniste s'oppose à un autre. Dans ce cas, on considère que le protagoniste agresseur est l'obstacle, l'antagonisme du conflit et que le protagoniste agressé est le protagoniste du conflit. L'objectif de la résolution est donc celui de l'agressé.
+
+Mais dans ce cas, il n'y a pas lieu de recalculer le Destin sauf si la Destinée souhaite modifier l'équilibre de l'opposition en faisant intervenir des traits extérieurs pour tel ou tel camp. On pourra alors ajouter au destin la différence entre les dés ajoutés par la Destinée. _Exemple: si la Destinée ajoute un dé pour un joueur et ajoute deux dés pour l'autre joueur, on ajoutera un point de destin au final._
 
 ## Influence sur le destin 
 
@@ -149,3 +157,35 @@ Si le litige est entre les protagonistes, on pourra jouer les oppositions en par
 
 # Les modes de jeu 
 
+## Mode tresse 
+
+Dans ce mode, on a: 
+
+* **Cosmos**: le joueur en charge du monde et du destin
+* **Chaos**: le joueur en charge des menaces et de l'intrigue
+* **Héros**: les joueurs en charge des protagonistes
+
+## Mode legacy 
+
+Dans ce mode, on a: 
+
+* La **Destinée**: le joueur en charge du monde, des menaces et de l'intrigue (il cumule Cosmos et Chaos du mode tresse en fait).
+* Les **Héros**: les joueurs en charge des protagonistes
+
+## Mode solo
+
+Un seul joueur joue le rôle de Chaos, Cosmos et des Héros. Il s'appuie dans ce cas sur les Oracles pour rajouter de la surprise et sur le destin pour connaitre l'orientation des événements: positifs ou négatifs ou neutres. 
+
+# Déroulement d'une partie 
+
+## Le cadrage
+
+## Les préparatifs
+
+### Préparation du monde 
+
+### Préparation des héros 
+
+### Préparation de l'histoire 
+
+## L'immersion 
