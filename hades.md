@@ -201,6 +201,10 @@ Dans ce mode, on a:
 * **Chaos**: le joueur en charge des menaces et de l'intrigue
 * **Héros**: les joueurs en charge des protagonistes
 
+Le mode tresse c'est une sorte de jeu de rôles à 2 MJ mais qui ont tous les deux des rôles distincts. 
+
+Le mode tresse veut aussi faciliter les parties sur le pouce pour décharger le meneur. 
+
 Note: personnalités des joueurs et rôles dans le mode tresse. 
 
 - Héros = moi je, immersion
@@ -340,7 +344,7 @@ En mode tresse, c'est Chaos qui s'en charge.
 * Je force les héros à agir ou réagir
 * Je laisse peu de répit aux héros
 * Je ne m’attache pas trop aux personnages représentant l’adversité
-* Je peux me saisir d’un figurant créé par le Cosmos
+* Je peux me saisir d’un figurant créé par Cosmos
 
 ## Principes pour Cosmos 
 
@@ -452,11 +456,14 @@ Qu'est ce qui rend intéressant ?
 - une intrigue
 - etc...
 
-Cosmos ne crée pas les éléments scènes, menaces, intrigues a priori.
+
+Cosmos se focalisera plutot sur les objets, personnage et lieu tandis que Chaos se focalisera plutot sur les scènces, menaces et intrigues. 
+
 Rappel: show, not tell.
+
 C'est à dire que le focus est développé en live.
 
-### Objet
+### Objet 
 * unique
 * convoité
 * n'est pas ce qu'il paraît ou ce qu'on croit
