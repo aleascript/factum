@@ -241,6 +241,8 @@ Cette règle nécessite de jouer qu'avec des d6 pour le coup.
 
 Mais cela lisse les résultats un peu plus tout en conservant la probabilité faible du -1 plus il y a de dés. 
 
+Cela ajoute aussi des surprises quant au résultat. 
+
 Ca rajoute aussi un peu de peps aux lancers aussi. 
 
 
