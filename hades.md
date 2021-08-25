@@ -341,6 +341,8 @@ En mode tresse, c'est Chaos qui s'en charge.
   - un choix peut être simple (sans opposition) mais aussi dans une
   opposition (le choix d'objectif)
   - corollaire : je fais sentir aux héros les conséquences de leurs choix
+* Je peux choisir l'interprétation d'un résultat (au nom de l'histoire). 
+Sinon par défaut l'interprétation est faite par Cosmos.
 * Je joue les situations a fond
 * What could go wrong?
 * Je construis une intrigue
@@ -356,15 +358,21 @@ En mode tresse, c'est Chaos qui s'en charge.
 
 * Je propose un univers intéressant
 * Je réponds aux questions des autres joueurs sur cet univers
+    - Les autres joueurs vous poseront souvent des questions: qu'est ce qu'on voit ? y a t'il ça ou ça ? Immergez vous mentalement dans votre monde et commencez simple par répondre ce qui est évident. 
 * Je décris cet univers
+    - Evitez de monopoliser la parole donc si vous décrivez un personnage ou un lieu, décrivez le par un trait caractéristique. Si les joueurs s'interesse à ce nouvel objet, vous pourrez alors le détailler plus tard. D'ailleurs ca sera peut etre Chaos qui le fera en l'intégrant dans son intrigue. 
 * Je tends des perches aux autres joueurs en manque d’inspiration
+    - Rappelez vous, c'est Chaos qui est en charge de faire avancer son intrigue. 
 * Je peux créer des merveilles: ce sont des révélations sur le monde
   qui n’impactent pas l’intrigue directement mais qui permettent
   d’ouvrir des portes
-* J’interprète les résultats des oppositions
+* J’interprète les résultats des oppositions sauf si Chaos décide de le faire (au nom de l'intrigue).
 * Je gère les dés du destin
-* Je peux avantager ou désavantager les héros en fonction des dés
-  rouges (pro héros) ou bleus (pro chaos) en ma possession.
+    - Quand une opposition a lieu, prendre le nombre de dés manquants pour équilibrer l'opposition. Se défausser des paires opposées pour n'avoir qu'une couleur en dé.
+    - Exemple: dés rouges = dés héros et dés bleu = dés chaos. Imaginons que Cosmos ait 2 dés bleu en réserve. Soudain surgit une opposition dans laquelle Cosmos dépense 1d bleu et qui aboutit à 3d/5d. Cosmos n'a donc plus qu'1 dé bleu en réserve. Pour équilibrer l'opposition, il faudrait 2 dés rouges donc Cosmos prend 2 dés rouges. Il a déjà un bleu. Il rejette donc 1 bleu, 1 rouge et au final il a donc en réserve 1 dé rouge.  
+    - Note: 2 dés bleus = -2 en Destin / 1 dé rouge = +1 en Destin. Mais en utilisant les dés cela évite de maintenir un compteur et tout se fait par manipulation d'objets du jeu dans le jeu. Cela peut paraitre compliqué mais c'est en fait assez intuitif en pratique. 
+* Je peux avantager ou désavantager les héros en fonction des dés rouges (pro héros) ou bleus (pro chaos) en ma possession. 
+    - Note: rien de m'y oblige mais cela permet de participer et d'équilibrer les oppositions. C'est comme si on était un spectateur qui pouvait agir sur le récit par rapport à ses souhaits ou à ce qui lui parait plus plausible ou plus en phase avec le rythme du récit. 
 * J’arbitre en cas de litige
 * J’interprète les figurants
 * Je peux demander à Chaos de sonner la cavalerie ou le faire moi-même
@@ -594,7 +602,7 @@ Les interprétations se basent sur la numérologie du résultat d'un D6.
 |:---:|---|---|---|---|---|---|
 | **Champ** | **Lieu**, objet, matériel, terre à terre | **Rencontre**, personne, nouveauté | **Relations**, émotions, motivations, ce qui relie | **Loi**, autorité, dilemme moral, ce qui nous dépasse | **Ressource**, ce qui est vital, tentation, manque | **Mystère**, surprise, inattendu, hors-champ |
 | **Action** |  Affronter | Contourner | Négocier | Résoudre | Encaisser | Observer |
-| **Déclencheur**| Mais (contrariété) | Et aussi (surenchère) | Ou bien (choix) | Si...alors (subir conséquences) | Tant que, du fait de ... (rechercher les causes) | Afin de ... (aller au delà)  
+| **Déclencheur**| Mais (contrariété) | Et aussi (surenchère) | Ou bien (choix) | Si...alors (subir conséquences) | Tant que, du fait de ... (rechercher les causes) | Afin de ... (aller au delà)  |
 | **Emotion** | Peur | Colère | Joie |  Dégoût | Tristesse | Honte |
 | **Caractéristique** | Force | Dextérité | Charisme | Intelligence | Constitution | Sagesse |
 | **Conflit** | Ouverture vs Fermeture | Soi vs Autre | Harmonie vs Désordre | Changement vs Tradition | Vie vs Mort | Illusion vs Vérité |
