@@ -14,7 +14,7 @@ Un trait est un diminutif de trait caractéristique. Il s'applique autant aux pe
 
 Dans certains cas, le même trait peut fournir un avantage alors que dans d'autres, il fournira un désavantage. 
 
-Un trait applicable fournir 1D dans une opposition. 
+Un trait applicable fournit 1D dans une opposition. 
 
 ### Typologie non exhaustive des traits
 
@@ -37,7 +37,8 @@ On peut tout à fait envisager d’utiliser un modèle à caractéristiques de t
 
 * FOR, DEX, CHAR, INT, CON, SAG
 * Physique, Mental, Esprit
-  Cela peut avoir une incidence sur la création du personnage. 
+
+Cela peut avoir une incidence sur la création du personnage. 
   
 Exemples:
 * A 6 caractéristiques, choisir 2 traits forts et 1 trait faible.
@@ -83,7 +84,7 @@ N'oubliez pas non plus les jauges en lien avec l'opposition qui peuvent alors fo
 
 Par défaut, une opposition est donc 1D contre 1D.
 
-On notera par la suite: xD/yD pour x dés protagoniste contre y dés obstacle. 
+On notera par la suite: x/y pour x dés protagoniste contre y dés obstacle. 
 
 Si le nombre de dés du protagoniste est supérieur au nombre de dés de l'obstacle, on dit que le protagoniste est le favori. 
 
@@ -111,9 +112,11 @@ zoom.
 On ajoute au destin la différence entre le nombre de dés de l'obstacle et le nombre de dés du protagoniste. 
 
 Exemples: 
-- 2D/2D: le destin n'évolue pas.
-- 3D/2D: le destin perd un point
-- 4D/6D: le destin gagne deux points
+- 2/2: le destin n'évolue pas.
+- 3/2: le destin perd un point
+- 4/6: le destin gagne deux points
+
+On peut utiliser un compteur mais on peut aussi utiliser des dés de couleur différente. Exemple: dés rouge pour les protagonistes et dés bleus pour les obstacles. On procède de la sorte, quand a déterminé la valeur de l'opposition (x/y), on a donc x dés rouges et y dés bleus. Si x et y sont différents, on prend la différence dans les dés de la couleur pour qu'on ait une opposition équilibrée et on les met de côté. Ainsi on a un pool de dés rouges et bleus à côté dont on élimine les duo rouge/bleu pour n'avoir qu'une seule couleur. Un nombre de dés bleus égale un destin négatif de la valeur du nombre dés ou un nombre de dés rouge égale un destin positif de la valeur du nombre dés.  
 
 ## Jets de dés 
 
