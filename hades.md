@@ -116,7 +116,7 @@ Exemples:
 - 3/2: le destin perd un point
 - 4/6: le destin gagne deux points
 
-On peut utiliser un compteur mais on peut aussi utiliser des dés de couleur différente. Exemple: dés rouge pour les protagonistes et dés bleus pour les obstacles. On procède de la sorte, quand a déterminé la valeur de l'opposition (x/y), on a donc x dés rouges et y dés bleus. Si x et y sont différents, on prend la différence dans les dés de la couleur pour qu'on ait une opposition équilibrée et on les met de côté. Ainsi on a un pool de dés rouges et bleus à côté dont on élimine les duo rouge/bleu pour n'avoir qu'une seule couleur. Un nombre de dés bleus égale un destin négatif de la valeur du nombre dés ou un nombre de dés rouge égale un destin positif de la valeur du nombre dés.  
+On peut utiliser un compteur mais on peut aussi utiliser des dés de couleur différente. Exemple: dés rouge pour les protagonistes et dés bleus pour les obstacles. On procède de la sorte: quand on a déterminé la valeur de l'opposition (x/y), on a donc x dés rouges et y dés bleus. Si x et y sont différents, on prend la différence dans les dés de la couleur pour qu'on ait une opposition équilibrée et on les met de côté. Ainsi on a un pool de dés rouges et bleus à côté dont on élimine les duo rouge/bleu pour n'avoir qu'une seule couleur. Un nombre de dés rouges (dés protagonistes) donne la valeur positive du destin alors qu'un nombre de dés bleus (dés obstacles) donne la valeur du destin négative.
 
 ## Jets de dés 
 
@@ -139,12 +139,12 @@ On peut utiliser un compteur mais on peut aussi utiliser des dés de couleur dif
     
 ## Interprétation 
 
-* **Fiasco**: _(NON ET)_ l'objectif n'est pas atteint et le protagoniste subit une perte (jauge, trait).
-* **Echec**: _(NON)_ l'objectif n'est pas atteint. 
-* **Echec partiel**: _(NON MAIS)_ l'objectif n'est pas atteint mais une opportunité s'ouvre (pour réessayer éventuellement avec un bonus). 
-* **Succès partiel**: _(OUI MAIS)_ l'objectif est atteint mais revu à la baisse. Quand l'objectif ne peut pas être mitigé, l'objectif est alors atteint mais le protagoniste subit une perte (jauge, trait).
-* **Succès**: _(OUI)_ l'objectif est atteint.
-* **Exploit**: _(OUI ET)_ l'objectif est atteint et le protagoniste remporte un gain inattendu (jauge, trait).
+* **Fiasco** (_Déplorable_): _(NON ET)_ l'objectif n'est pas atteint et le protagoniste subit une perte (jauge, trait).
+* **Echec** (_Raté_): _(NON)_ l'objectif n'est pas atteint. 
+* **Echec partiel** (_Gêné_): _(NON MAIS)_ l'objectif n'est pas atteint mais une opportunité s'ouvre (pour réessayer éventuellement avec un bonus). 
+* **Succès partiel** (_Mitigé_): _(OUI MAIS)_ l'objectif est atteint mais revu à la baisse. Quand l'objectif ne peut pas être mitigé, l'objectif est alors atteint mais le protagoniste subit une perte (jauge, trait).
+* **Succès** (_Réussi_): _(OUI)_ l'objectif est atteint.
+* **Exploit** (_Formidable_): _(OUI ET)_ l'objectif est atteint et le protagoniste remporte un gain inattendu (jauge, trait).
 
 ### La question du loot (butin)
 
@@ -220,6 +220,14 @@ Note: personnalités des joueurs et rôles dans le mode tresse.
 - Héros = moi je, immersion
 - Chaos = le troll, aime jouer les méchants
 - Cosmos = le cinéphile, le littéraire, l'arbitre
+
+En mode tresse, c'est Cosmos qui gère le destin. Et dans les oppositions, il intervient pour ajouter des dés aux protagonistes ou à l'obstacle suivant les dés du destin qu'il a en main. Il doit bien sûr justifier les dés posés par des éléments du contexte. 
+
+C'est également Cosmos qui interprète le résultat de l'opposition sauf si Chaos prend la main au nom de l'histoire. 
+
+Cela ne gêne normalement pas la fiction car juste après l'interprétation, Chaos peut tout à fait retourner dans la fiction et raconter un élément propre à l'intrigue. 
+
+_Règle optionnelle: quand Chaos se saisit de l'interprétation d'un résultat au nom de l'histoire, le destin gagne un point et donc Cosmos gagne un dé protagoniste (rouge). A appliquer si Chaos a tendance à empiéter sur les interprétations de Cosmos._
 
 ## Mode legacy 
 
