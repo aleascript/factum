@@ -51,10 +51,10 @@ Les jauges mesurent l'épuisement d'un état ou d'une ressource quelconque.
 Elles se mesurent sur 3 niveaux: 
 * I: dégradée
 * II: faible 
-* III: épuisée
+* ~~II~~: épuisée
 
-Généralement un état à III signifie la fin du protagoniste. 
-Alors qu'une ressource à III signifie plutôt l'impossibilité de réaliser des actions en lien avec cette ressource. 
+Généralement un état à ~~II~~ signifie la fin du protagoniste. 
+Alors qu'une ressource à ~~II~~ signifie plutôt l'impossibilité de réaliser des actions en lien avec cette ressource. 
 
 Seuls les protagonistes ont des jauges. Mais on peut envisager de fournir des jauges pour des adversaires importants de la fiction. Ce sont les **boss** de la fiction. Dans ce cas, un succès des héros contre le boss en question pourra lui enlever une ressource ou avoir un impact de jauge. Si les héros réalisent un exploit on pourra envisager l'élimination du boss (sauf en cas de veto au niveau de l'intrigue et dans ce cas, on pourra avoir un impact de jauge important II au lieu de I ce qui rend le boss particulièrement affaibli en attendant qu'il se requinque).
 
