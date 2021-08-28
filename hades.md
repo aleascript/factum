@@ -272,14 +272,18 @@ Durée: 30 minutes
 
 Dans cette étape, il faut préparer les protagonistes, le monde et l'intrigue qui sera jouée.
 
+Durée: 30 minutes
+
 ### Préparation du monde 
 
 En mode tresse, c'est Cosmos qui s'en charge.  
 
+Cosmos peut utiliser des feuilles A4 pliées en 2 sous forme de petits livrets pour développer ses lexiques.
+
 Dans cette phase: 
 
 - on crée des lexiques de noms
-- on étoffe les éléments du cadrage
+- on étoffe les éléments du cadrage (sous forme de lexiques)
 - on présente aux autres ce que tout le monde doit connaître sur le monde
 
 Note: on peut échanger des petits papiers avec Chaos pour cacher des infos aux Héros.
@@ -308,6 +312,8 @@ Les réponses pourront servir de traits par la suite dans les oppositions.
 ### Préparation de l'histoire 
 
 En mode tresse, c'est Chaos qui s'en charge. 
+
+Chaos peut utiliser des feuilles A4 pliée en 2 mais utilisée horizontalement une fois pliée pour pouvoir cacher l'info aux autres.
 
 - on pioche 2 intrigues et on en choisit 1 ou on mixe les 2. 
 - on réfléchit à des enjeux éventuels (en gros des questions auxquels il faudra répondre pendant le jeu)
