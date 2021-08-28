@@ -639,7 +639,7 @@ Les interprétations se basent sur la numérologie du résultat d'un D6.
 | **Champ** | **Lieu**, objet, matériel, terre à terre | **Rencontre**, personne, nouveauté | **Relations**, émotions, motivations, ce qui relie | **Loi**, autorité, dilemme moral, ce qui nous dépasse | **Ressource**, ce qui est vital, tentation, manque | **Mystère**, surprise, inattendu, hors-champ |
 | **Action** |  Affronter | Contourner | Négocier | Résoudre | Encaisser | Observer |
 | **Déclencheur**| Mais (contrariété) | Et aussi (surenchère) | Ou bien (choix) | Si...alors (subir conséquences) | Tant que, du fait de ... (rechercher les causes) | Afin de ... (aller au delà)  |
-| **Emotion** | Peur | Colère | Joie |  Dégoût | Tristesse | Honte |
+| **Emotion** | Peur | Colère | Joie |  Dégoût | Envie, Tristesse | Surprise, Honte |
 | **Caractéristique** | Force | Dextérité | Charisme | Intelligence | Constitution | Sagesse |
 | **Conflit** | Ouverture vs Fermeture | Soi vs Autre | Harmonie vs Désordre | Changement vs Tradition | Vie vs Mort | Illusion vs Vérité |
 | **Direction** | En-bas | Devant | Gauche | Droite | Derrière | En-haut |
