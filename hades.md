@@ -56,7 +56,7 @@ Elles se mesurent sur 3 niveaux:
 Généralement un état à III signifie la fin du protagoniste. 
 Alors qu'une ressource à III signifie plutôt l'impossibilité de réaliser des actions en lien avec cette ressource. 
 
-Seuls les protagonistes ont des jauges. Mais on peut envisager de fournir des jauges pour des adversaires importants de la fiction. 
+Seuls les protagonistes ont des jauges. Mais on peut envisager de fournir des jauges pour des adversaires importants de la fiction. Ce sont les **boss** de la fiction. Dans ce cas, un succès des héros contre le boss en question pourra lui enlever une ressource ou avoir un impact de jauge. Si les héros réalisent un exploit on pourra envisager l'élimination du boss (sauf en cas de veto au niveau de l'intrigue et dans ce cas, on pourra avoir un impact de jauge important II au lieu de I ce qui rend le boss particulièrement affaibli en attendant qu'il se requinque).
 
 Une jauge influence aussi les oppositions: 
 * Une jauge à I donne 1D de malus 
@@ -146,6 +146,13 @@ On peut utiliser un compteur mais on peut aussi utiliser des dés de couleur dif
 * **Succès**: _(OUI)_ l'objectif est atteint.
 * **Exploit**: _(OUI ET)_ l'objectif est atteint et le protagoniste remporte un gain inattendu (jauge, trait).
 
+### La question du loot (butin)
+
+Très répandu dans le jeu de rôles, il s'agit de piller les ressources de l'adversaire vaincu. Cela paraît incompatible avec la règle des gains qui sont obtenus uniquement en cas d'exploit. On peut s'en sortir de la manière suivante: 
+
+- distinguer les gains utiles uniquement pour la session en cours (donc non durables). Ces derniers peuvent être obtenus sur des succès simples. 
+- utiliser le **jeu à somme nulle** pour justifier que des gains ne sont pas si utiles que ça: une armure trop lourde à porter ou qui n'est pas à sa taille, une arme qu'on ne sait pas vraiment utilisée, etc... Ainsi si le Héros veut utiliser le gain il aura un avantage mais aussi un handicap (+1/+1 donc).
+
 ## Fortunes 
 
 * Quand l'opposition est équilibrée ou que le protagoniste est favori, on gagne 1 point de fortune en cas de fiasco. 
@@ -221,9 +228,15 @@ Dans ce mode, on a:
 * La **Destinée**: le joueur en charge du monde, des menaces et de l'intrigue (il cumule Cosmos et Chaos du mode tresse en fait).
 * Les **Héros**: les joueurs en charge des protagonistes
 
+Lors du cadrage, la **Destinée** répondra aux questions du cadrage mais pourra proposer des choix aux **Héros**. 
+
+Note: généralement la Destinée a déjà un univers prêt à jouer dans ce type de mode. 
+
 ## Mode solo
 
 Un seul joueur joue le rôle de Chaos, Cosmos et des Héros. Il s'appuie dans ce cas sur les Oracles pour rajouter de la surprise et sur le destin pour connaitre l'orientation des événements: positifs ou négatifs ou neutres. 
+
+Une autre façon de jouer est de faire en solo des cadrages et des préparations pour préparer une prochaine partie en mode legacy.
 
 # Déroulement d'une partie 
 
@@ -631,7 +644,12 @@ Référence https://fudge.ouvaton.org/GrandeListe.html
 
 Voici la traduction de la traduction de l'article de S. John Ross.
 
-On peut se servir des trames suivantes comme déclencheur dans la méthode du scenario express ou les envisager de manière autonomes. On peut aussi les traiter comme un épisode particulier d'une campagne. Et il est tout à fait possible de les mixer ensemble également.
+On peut utiliser les intrigues: 
+- dans la préparation de l'histoire
+- en cours de partie si on veut créer une "quête secondaire"
+- lors du climax si l'on veut créer une ouverture vers le prochain épisode
+
+Evidemment on peut mixer les intrigues entre elles. 
 
 ## Généralités
 
