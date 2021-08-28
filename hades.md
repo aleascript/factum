@@ -612,7 +612,8 @@ Vous devez faire un choix entre N éléments prédéterminés. Dans ce cas jetez
 Autre méthode si vous avez un jeu de cartes (ce qui est probable pour la sélection des intrigues):
 * Tirez une carte par élément. L'élément de la liste qui l'emporte est celui qui a la meilleure carte. Ordre croissant des couleurs: carreau, trèfle, coeur, pique.  
 
-Autre méthode quand on a une liste très longue: faire à la louche par dichotomie. On divise en 3 ou 6 la liste initiale et on jette un dé pour savoir dans quelle partie on est puis on itère sur la partie sélectionnée. Ne pas être trop précis dans cette méthode, c'est juste pour cibler une réponse. 
+Autre méthode quand on a une liste très longue: 
+* Faire à la louche par dichotomie. On divise en 3 ou 6 la liste initiale et on jette un dé pour savoir dans quelle partie on est puis on itère sur la partie sélectionnée. Ne pas être trop précis dans cette méthode, c'est juste pour cibler une réponse. 
 
 ## Jets de distance 
 
