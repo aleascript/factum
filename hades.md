@@ -409,22 +409,6 @@ Exemples:
 * Des listes décrivant telle ou telle ambiance, lieu
 * Des listes de vêtements, d’attitudes, etc...
 
-## Litiges
-
-Spécifier le litige
-
-* Désaccords ou préférences ?
-* Technique, fictionnel ou relationnel ?
-
-Outil pour trancher:
-- l'unanimité: il faut que héros + chaos + cosmos tombent d'accord
-- la majorité: il faut qu'on ait 2 rôles sur 3 seulement (héros/chaos,
-  cosmos/chaos, héros,cosmos ou héros/chaos/cosmos).
-  Note: s'il y a plusieurs héros, les héros doivent se mettre d'abord
-  d'accord entre eux pour exprimer leur avis. Dans certains cas, le
-  choix se fait uniquement entre les héros impliqués et concernés par le
-  litige.
-
 ## Les menaces
 
 Les menaces (ou agendas, fronts) sont des outils promus par les jeux
@@ -480,6 +464,7 @@ C'est à dire que le focus est développé en live.
 ### Objet 
 * unique
 * convoité
+* illégal
 * n'est pas ce qu'il paraît ou ce qu'on croit
 * incompréhensible
 * inviolable
@@ -521,6 +506,8 @@ C'est à dire que le focus est développé en live.
 * la personne est morte ou a disparu quand les héros arrivent
 
 ### Lieu:
+* malfamé
+* interdit
 * labyrinthique
 * hanté
 * illusion
@@ -546,7 +533,7 @@ C'est à dire que le focus est développé en live.
 * émerveillement
 * ... 
   
-## Menaces:
+### Menaces:
 * la menace en cache une plus grande
 * avancer d'un cran
 * révéler une catastrophe imminente
@@ -566,6 +553,22 @@ C'est à dire que le focus est développé en live.
 * piste : nouvelle, brouillage ou disparition
 * implication personnelle
 * ...
+
+## Litiges
+
+Spécifier le litige
+
+* Désaccords ou préférences ?
+* Technique, fictionnel ou relationnel ?
+
+Outil pour trancher:
+- l'unanimité: il faut que héros + chaos + cosmos tombent d'accord
+- la majorité: il faut qu'on ait 2 rôles sur 3 seulement (héros/chaos,
+  cosmos/chaos, héros,cosmos ou héros/chaos/cosmos).
+  Note: s'il y a plusieurs héros, les héros doivent se mettre d'abord
+  d'accord entre eux pour exprimer leur avis. Dans certains cas, le
+  choix se fait uniquement entre les héros impliqués et concernés par le
+  litige.
 
 # Les Oracles 
 
