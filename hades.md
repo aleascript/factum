@@ -44,6 +44,7 @@ On peut tout à fait envisager d’utiliser un modèle à caractéristiques de t
 Cela peut avoir une incidence sur la création du personnage. 
   
 Exemples:
+
 * A 6 caractéristiques, choisir 2 traits forts et 1 trait faible.
 * A 3 caractéristiques, choisir 1 trait fort et 1 trait faible.
 
@@ -52,6 +53,7 @@ Exemples:
 Les jauges mesurent l'épuisement d'un état ou d'une ressource quelconque. 
 
 Elles se mesurent sur 3 niveaux: 
+
 * I: dégradée
 * II: faible 
 * ~~II~~: épuisée
@@ -62,6 +64,7 @@ Alors qu'une ressource à ~~II~~ signifie plutôt l'impossibilité de réaliser 
 Seuls les protagonistes ont des jauges. Mais on peut envisager de fournir des jauges pour des adversaires importants de la fiction. Ce sont les **boss** de la fiction. Dans ce cas, un succès des héros contre le boss en question pourra lui enlever une ressource ou avoir un impact de jauge. Si les héros réalisent un exploit on pourra envisager l'élimination du boss (sauf en cas de veto au niveau de l'intrigue et dans ce cas, on pourra avoir un impact de jauge important II au lieu de I ce qui rend le boss particulièrement affaibli en attendant qu'il se requinque).
 
 Une jauge influence aussi les oppositions: 
+
 * Une jauge à I donne 1D de malus 
 * Une jauge à II donne 2D de malus
 
@@ -115,6 +118,7 @@ zoom.
 On ajoute au destin la différence entre le nombre de dés de l'obstacle et le nombre de dés du protagoniste. 
 
 Exemples: 
+
 - 2/2: le destin n'évolue pas.
 - 3/2: le destin perd un point
 - 4/6: le destin gagne deux points
@@ -185,6 +189,7 @@ Un trait héroïque peut aussi de transformer un trait de couleur en trait aptit
 * Il faut que le destin ne soit pas nul 
 
 Résultat du Deus Ex Alea:
+
 * Le perdant de la confrontation obtient gratuitement autant de points que son amplitude de destin et il peut alors les utiliser pour décaler le résultat dans le sens qu'il veut.
 * Le Destin repart ensuite à 0.
 
@@ -403,7 +408,7 @@ Sinon par défaut l'interprétation est faite par Cosmos.
 * Je gère les dés du destin
     - Quand une opposition a lieu, prendre le nombre de dés manquants pour équilibrer l'opposition. Se défausser des paires opposées pour n'avoir qu'une couleur en dé.
     - Exemple: dés rouges = dés obstacle et dés bleu = dés héros. Imaginons que Cosmos ait 2 dés rouges en réserve. Soudain surgit une opposition dans laquelle Cosmos dépense 1d rouge et qui aboutit à 3d/5d. Cosmos n'a donc plus qu'1 dé rouge en réserve. Pour équilibrer l'opposition, il faudrait 2 dés bleus donc Cosmos prend 2 dés bleus. Il a déjà un rouge. Il rejette donc 1 duo bleu/rouge au final il a donc en réserve 1 dé bleu.
-    - Note: 2 dés bleus = -2 en Destin / 1 dé rouge = +1 en Destin. Mais en utilisant les dés cela évite de maintenir un compteur et tout se fait par manipulation d'objets du jeu dans le jeu. Cela peut paraitre compliqué mais c'est en fait assez intuitif en pratique. 
+    - Note: 2 dés rouges = -2 en Destin / 1 dé bleu = +1 en Destin. Mais en utilisant les dés cela évite de maintenir un compteur et tout se fait par manipulation d'objets du jeu dans le jeu. Cela peut paraitre compliqué mais c'est en fait assez intuitif en pratique. 
 * Je peux avantager ou désavantager les héros en fonction des dés rouges (pro héros) ou bleus (pro chaos) en ma possession. 
     - Note: rien de m'y oblige mais cela permet de participer et d'équilibrer les oppositions. C'est comme si on était un spectateur qui pouvait agir sur le récit par rapport à ses souhaits ou à ce qui lui parait plus plausible ou plus en phase avec le rythme du récit. 
 * J’arbitre en cas de litige
@@ -434,62 +439,23 @@ Le Cosmos peut s’appuyer sur des lexiques pour préparer le monde et
 ses descriptions. Tout particulièrement pendant la session zéro mais
 aussi au fil du jeu, il est utile de noter des listes rapidement
 utilisables.
+
 Exemples:
+
 * Des listes de noms
 * Des listes décrivant telle ou telle ambiance, lieu
 * Des listes de vêtements, d’attitudes, etc...
 
-## Les menaces
-
-Les menaces (ou agendas, fronts) sont des outils promus par les jeux
-propulsés par l’Apocalypse.
-
-Au lieu d’écrire une trame toute faite, on décrit une menace sous
-forme de processus dont les étapes se manifestent quand les Héros
-échouent ou sont inactifs.
-
-En général, on a 6 étapes qui vont crescendo. La dernière étape étant
-alors la manifestation de la catastrophe imminente.
-
-Une menace est également composée de lieux, factions, personnages
-(sbires, etc...) , dangers divers associés à elle.
-
-La menace est à rattacher à l’intrigue en cours de manière directe
-pour une one shot ou de manière directe ou indirecte pour une
-campagne. Pour cela penser à l’enjeu de l’intrigue et cela devrait
-vous permettre d’élaborer une menace associée.
-
-Exemple: enquête -> enjeux pour trouver le coupable:
-- prouver son innocence: 1. auditionné 2. soupconné 3. suspect 4.
-  arrêté 5. jugement 6. châtiment
-- le recruteur veut accuser untel mais untel est innocent: 1. fausses
-  infos 2. surveillés 3. empêchés 4. attaqués 5. calomniés 6. éliminés
-  (d’ici là les Héros se seront sans doute retournés contre le
-  recruteur).
-- le tueur va recommencer: 1. Enquete normale 2. faux coupable arrêté 3. autre meurtre 4. autre meurtre proche des héros 5. le coupable s’en
-   prend aux héros directement 6. le coupable s’en sort
-   
-Ces étapes vous permettront de faire avancer l’intrigue et de monter
-la pression d’un cran pour les Héros. A user et abuser surtout en cas
-d’échec sur les jets ou si les héros ne font rien pour s’impliquer dans l’intrigue.
-
-## Qu'est ce qui rend quelque chose intéressant ? (Cosmos & Chaos)
+## Lexiques génériques: qu'est ce qui rend quelque chose intéressant ? 
  
-Qu'est ce qui rend intéressant ?
-- un objet
-- un personnage
-- un lieu
-- une scène
-- une menace
-- une intrigue
-- etc...
+Ce qui permet de marquer les autres joueurs c'est de créer des éléments narratifs intéressants. Posez-vous donc la question suivant: qu'est ce qui rend intéressant: un objet, un personnage, un lieu, une scène, une menace, une intrigue, etc... ?
 
+Rappel: show, not tell. C'est à dire que le focus est développé en live.
 
-Cosmos se focalisera plutot sur les objets, personnage et lieu tandis que Chaos se focalisera plutot sur les scènces, menaces et intrigues. 
+Voici quelques lexiques applicables à n'importe quel contexte. 
 
-Rappel: show, not tell.
+Ces lexiques sont à disposition de Chaos mais Cosmos peut également se servir des lexiques pour les objets, lieux et personnages. 
 
-C'est à dire que le focus est développé en live.
 
 ### Objet 
 * unique
@@ -508,7 +474,7 @@ C'est à dire que le focus est développé en live.
 * extrêmement fragile ou indestructible
 * ... 
   
-### Rencontre:
+### Rencontre
 * a une particularité physique remarquable
 * fourbe (traîtrise, vol, assassinat)
 * veut utiliser les héros uniquement pour son propre bénéfice
@@ -535,7 +501,7 @@ C'est à dire que le focus est développé en live.
 * rejeté par les siens
 * la personne est morte ou a disparu quand les héros arrivent
 
-### Lieu:
+### Lieu
 * malfamé
 * interdit
 * labyrinthique
@@ -549,7 +515,7 @@ C'est à dire que le focus est développé en live.
 * piégé
 * ...
 
-### Scènes:
+### Scène
 * action
 * une bagarre explose
 * énigme à résoudre
@@ -563,7 +529,7 @@ C'est à dire que le focus est développé en live.
 * émerveillement
 * ... 
   
-### Menaces:
+### Menace
 * la menace en cache une plus grande
 * avancer d'un cran
 * révéler une catastrophe imminente
@@ -577,12 +543,47 @@ C'est à dire que le focus est développé en live.
 * apparition d'une nouvelle menace
 * ... 
   
-### Intrigues:
+### Intrigue
 * nouvelle intrigue (story b)
 * coup de théâtre, rebondissement
 * piste : nouvelle, brouillage ou disparition
 * implication personnelle
 * ...
+
+## Les menaces
+
+Les menaces (ou agendas, fronts) sont des outils promus par les jeux
+propulsés par l’Apocalypse.
+
+Au lieu d’écrire une trame toute faite, on décrit une menace sous
+forme de processus dont les étapes se manifestent quand les Héros
+échouent ou sont inactifs.
+
+En général, on a 6 étapes qui vont crescendo. La dernière étape étant
+alors la manifestation de la catastrophe imminente.
+
+Une menace est également composée de lieux, factions, personnages
+(sbires, etc...) , dangers divers associés à elle.
+
+La menace est à rattacher à l’intrigue en cours de manière directe
+pour une one shot ou de manière directe ou indirecte pour une
+campagne. Pour cela penser à l’enjeu de l’intrigue et cela devrait
+vous permettre d’élaborer une menace associée.
+
+Exemple: enquête -> enjeux pour trouver le coupable:
+
+- prouver son innocence: 1. auditionné 2. soupconné 3. suspect 4.
+  arrêté 5. jugement 6. châtiment
+- le recruteur veut accuser untel mais untel est innocent: 1. fausses
+  infos 2. surveillés 3. empêchés 4. attaqués 5. calomniés 6. éliminés
+  (d’ici là les Héros se seront sans doute retournés contre le
+  recruteur).
+- le tueur va recommencer: 1. Enquete normale 2. faux coupable arrêté 3. autre meurtre 4. autre meurtre proche des héros 5. le coupable s’en
+   prend aux héros directement 6. le coupable s’en sort
+   
+Ces étapes vous permettront de faire avancer l’intrigue et de monter
+la pression d’un cran pour les Héros. A user et abuser surtout en cas
+d’échec sur les jets ou si les héros ne font rien pour s’impliquer dans l’intrigue.
 
 ## Litiges
 
@@ -592,13 +593,12 @@ Spécifier le litige
 * Technique, fictionnel ou relationnel ?
 
 Outil pour trancher:
+
 - l'unanimité: il faut que héros + chaos + cosmos tombent d'accord
 - la majorité: il faut qu'on ait 2 rôles sur 3 seulement (héros/chaos,
   cosmos/chaos, héros,cosmos ou héros/chaos/cosmos).
-  Note: s'il y a plusieurs héros, les héros doivent se mettre d'abord
-  d'accord entre eux pour exprimer leur avis. Dans certains cas, le
-  choix se fait uniquement entre les héros impliqués et concernés par le
-  litige.
+  
+Note: s'il y a plusieurs héros, les héros doivent se mettre d'abord d'accord entre eux pour exprimer leur avis. Dans certains cas, le choix se fait uniquement entre les héros impliqués et concernés par le litige.
 
 # Les Oracles 
 
@@ -613,9 +613,11 @@ Note: ces jets de dés ne sont évidemment pas des oppositions.
 Vous devez faire un choix entre N éléments prédéterminés. Dans ce cas jetez un dé par élément: celui qui a le plus grand score l'emporte. En cas de gagnants ex-aequo incompatibles, relancez un jet de choix entre les gagnants jusqu'à ce qu'il n'y ait plus d'incompatibilité.
 
 Autre méthode si vous avez un jeu de cartes (ce qui est probable pour la sélection des intrigues):
+
 * Tirez une carte par élément. L'élément de la liste qui l'emporte est celui qui a la meilleure carte. Ordre croissant des couleurs: carreau, trèfle, coeur, pique.  
 
-Autre méthode quand on a une liste très longue: 
+Autre méthode quand on a une liste très longue :
+
 * Faire à la louche par dichotomie. On divise en 3 ou 6 la liste initiale et on jette un dé pour savoir dans quelle partie on est puis on itère sur la partie sélectionnée. Ne pas être trop précis dans cette méthode, c'est juste pour cibler une réponse. 
 
 ## Jets de distance 
@@ -665,6 +667,7 @@ Référence https://fudge.ouvaton.org/GrandeListe.html
 Voici la traduction de la traduction de l'article de S. John Ross.
 
 On peut utiliser les intrigues: 
+
 - dans la préparation de l'histoire
 - en cours de partie si on veut créer une "quête secondaire"
 - lors du climax si l'on veut créer une ouverture vers le prochain épisode
@@ -674,7 +677,8 @@ Evidemment on peut mixer les intrigues entre elles.
 ## Généralités
 
 ### Utilisez les métaphores
-S. John Ross a écrit ces intrigues dans un langage orienté vers un genre aventure-action, parce que c'est là la forme la plus courante des scénarios de jeu de rôle. Mais si vous avez l'habitude de jouer un autre style, vous pouvez quand même utiliser cette liste. Il vous suffit de remplacer un objet par une information, un endroit par une personne, un ennemi par un sentiment négatif, de même qu'une station spatiale peut être un donjon et un résidu magique une empreinte digitale.
+
+John Ross a écrit ces intrigues dans un langage orienté vers un genre aventure-action, parce que c'est là la forme la plus courante des scénarios de jeu de rôle. Mais si vous avez l'habitude de jouer un autre style, vous pouvez quand même utiliser cette liste. Il vous suffit de remplacer un objet par une information, un endroit par une personne, un ennemi par un sentiment négatif, de même qu'une station spatiale peut être un donjon et un résidu magique une empreinte digitale.
 
 ### Double Couche
 Un principe de base intéressant est le jeu caméléon, où une aventure semble être d'un certain genre mais se révèle être autre chose. Parfois le passage de l'un à l'autre est innocent est naturel - Survie, par exemple, peut servir d'introduction à La Zone, et Étrange est une introduction logique à Portail. Parfois le passage est plus sinistre ou délibéré, avec des PNJs qui vendent une mission d'un type alors qu'on comprend ensuite qu'il se passe autre chose. Cela peut tout de même être innocent, si les PNJs se sont trompés, ou s'ils avaient désespérément besoin d'aide et craignait que personne ne vienne résoudre leur véritable problème.
@@ -690,6 +694,7 @@ Beaucoup de MJs arrivent à la Grande Liste en état de panique scénaristique. 
 
 ### Et pour finir, voici:
 La Petite Liste des Variantes Qui Fonctionnent Avec Presque Toutes Les Intrigues
+
 * Les Héros doivent collaborer avec un PNJ ou une organisation qu'ils préfèrent éviter en temps normal (des rivaux, des Méchants, ou juste un expert insupportable envoyé pour les "aider"). 
 * Les Victimes sont en fait les Méchants et inversement. 
 * Les Héros rencontrent des PNJs qui acceptent de les aider à condition qu'eux-mêmes les aident pour leur propre cause. 
@@ -745,13 +750,14 @@ La Petite Liste des Variantes Qui Fonctionnent Avec Presque Toutes Les Intrigues
 | 30 | Surveillance: ne pas toucher  | Reine &#9829; |
 | 31 | Survie: ne mangez pas les mauves   | Roi &#9829; |
 | 32 | Trésor | As &#9829; |
-| 33 | La Zone | Joker 🃟 |
-| 34 | De l’autre côté de la barrière | Joker 🂿 |
+| 33 | La Zone | Joker Rouge 🃟 |
+| 34 | De l’autre côté de la barrière | Joker Noir 🂿 |
 
 ### Amnésie
 Un Héros ou plus se réveillent sans souvenirs récents, et se retrouvent au cœur d'un problème qu'ils ne comprennent pas. Ils doivent trouver la raison de cette amnésie, et résoudre les problèmes.
 
 Variations
+
 * Les Héros se sont rendus amnésiques volontairement, et essayent de comprendre leur propre travail 
 Base Cachée
 Les Héros, au cours d'un voyage ou d'une exploration, tombent sur un nid de Méchant qui préparent un Truc Méchant. Ils doivent relayer l'information aux Gentils, ou s'infiltrer et démanteler l'opération eux-mêmes, ou une combinaison des deux.
@@ -763,6 +769,7 @@ Les Héros doivent s'emparer d'un objectif militaire. Les Méchants du coin s'y 
 Le scénario tactique habituel.
 
 Variations
+
 * Les Héros doivent rassembler et/ou entraîner une force pour les aider. 
 * Les Héros ont de fausses informations et l'objectif ou son environnement immédiat ne sont pas comme ils s'y attendaient. 
 * Les Héros et un groupe allié doivent unir leurs efforts (parfois en mettant leurs rivalités de côté) 
@@ -772,6 +779,7 @@ Variations
 Un Méchant a obtenu une information (illégalement, ou simplement en recherchant dans le passé des Héros) lui permettant de faire du chantage aux Héros. La menace peut être de tout type (physique, sociale, etc.) mais elle dépend du fait que le Méchant est en possession de quelque chose (objet ou information) que d'autres n'ont pas. Maintenant il tire les ficelles et ordonne aux Héros de faire des choses qu'ils ne veulent pas faire. Les Héros doivent mettre fin à ce chantage, lui ôter son avantage, tout en suivant ses instructions et en endormant sa méfiance.
 
 Variations
+
 * En introduction de l'aventure, les Héros rendent un service au Méchant, qui l'utilise alors contre eux (très cynique!) 
 * Pour réussir, les Héros doivent contacter d'autres personnes victimes du même chantage. 
 * Les Héros ne sont pas directement victime du chantage, mais une personne qui est important à leurs yeux ou dont ils ont la charge l'est. 
@@ -780,6 +788,7 @@ Variations
 Quelqu'un est parti: échappé, perdu, ou disparu. Quelqu'un a besoin de le retrouver. Les Héros sont appelés pour le retrouver et le ramener.
 
 Variations
+
 * L'objectif a été kidnappé (peut-être pour attirer les Héros). 
 * L'objectif est dangereux et s'est échappé d'une prison. 
 * L'objectif est précieux et s'est échappé d'un endroit sûr, confortable et surveillé 
@@ -791,6 +800,7 @@ Variations
 Les Héros participent à une course, un concours, un tournoi, une chasse ou un autre sport. Ils doivent gagner.
 
 Variations
+
 * Les autres participants sont malhonnêtes et les Héros doivent les empêcher de gagner malhonnêtement 
 * Les Héros ont un autre objectif que la victoire, comme protéger un autre concurrent, ou l'espionner, ou juste accéder à un endroit où passe la course. 
 * Les Héros n'ont pas à gagner eux-mêmes; ils doivent juste empêcher le Méchant de gagner. 
@@ -801,6 +811,7 @@ Variations
 Il y a à un endroit précis un Machin important et précieux. Les Héros (ou leurs employeurs) veulent s'en emparer, mais d'autres groupes également. Pour avoir une chance de réussir il faut être plus intelligent, plus rapide, utiliser au mieux les autochtones, être mieux renseigné sur l'objectif. Chaque groupe en compétition a son propre agenda et ses propres ressources.
 
 Variations
+
 * Les autochtones demandent aux groupes en compétition de défendre publiquement leur point de vue. 
 * Le Machin était en déplacement lorsque son transporteur s'est écrasé ou a disparu 
 
@@ -808,6 +819,7 @@ Variations
 Les Héros doivent garder un endroit vital (un col de montagne, un système solaire...) contre toute attaque. Ils doivent planifier une stratégie de défense, effectuer des rondes, placer des pièges, etc. et ensuite faire face à l'ennemi lors de l'attaque.
 
 Variations
+
 * Les renseignements initiaux sont faux, mais agir sur la base des nouveaux renseignements pourrait être plus dangereux encore - mais l'inaction également, et les Héros doivent choisir ou trouver un compromis 
 * Les Héros apprennent que l'ennemi a une bonne raison de détruire ou de s'emparer de l'endroit vital, et les Héros peuvent y être sensible. 
 
@@ -815,6 +827,7 @@ Variations
 Les Héros se retrouvent transporté à un endroit étrange. Ils doivent comprendre où ils se trouvent, comment ils sont arrivés là et pourquoi, et comment s'en échapper.
 
 Variations
+
 * Les Héros ont été amené là pour aider quelqu'un en danger. 
 * Ils ont été amené là par accident, un effet secondaire de quelque chose d'étrange et de secret. 
 * Des ennemis des Héros ont été transportés avec les Héros (ou séparément), et ils se retrouvent sur un nouveau terrain de bataille, et parmi de nouveaux innocents qui ne savent pas qui sont les Gentils et les Méchants 
@@ -823,6 +836,7 @@ Variations
 Les Héros sont à bord d'un moyen de transport plein de monde (Paquebot, Ferry, Vaisseau-Colonie) quand il fait l'objet d'un détournement. Les Héros doivent agir pendant que les autres passagers subissent.
 
 Variations
+
 * Les "Pirates" sont des agents du gouvernement faisant partie d'une intrigue complexe, et les Héros doivent choisir leur camp 
 * Les pirates ne réalisent pas qu'il y a un autre danger, et toute tentative de les convaincre est prise pour un mensonge. 
 * Les autres passagers n'aident pas les Héros ou sont même hostiles car ils pensent que toute action ne fera qu'empirer les choses. 
@@ -831,12 +845,14 @@ Variations
 Les Héros font partie d'une mission diplomatique qui cherche à ouvrir des relations politiques ou commerciales avec une étrange culture. Il leur suffit de ne pas faire de faux-pas et de n'offenser personne, mais ils ont des informations incomplètes ou fausses sur les coutumes du coin.
 
 Variations
+
 * Les Héros ont été choisi par quelqu'un qui savait qu'ils n'étaient pas préparés - un PNJ qui essaie de saboter la mission (trouver le Méchant peut être nécessaire pour éviter un désastre) 
 
 ### Effraction
 Objectif: entrer dans un endroit dangereux, démanteler les défenses du coin et s'emparer du Machin ou d'une personne importante.
 
 Variations
+
 * Le but n'est pas de s'emparer d'un Machin, mais de le détruire, ou d'interrompre un processus (détruire le générateur de champ de force, assassiner le méchant roi, interrompre un rituel de lancement de sort, mettre par terre les plans d'invasions, refermer le portail) 
 * L'objectif a bougé. 
 * L'objectif est une information qui doit être diffusée dès qu'elle est trouvée. 
@@ -846,11 +862,13 @@ Variations
 
 ### Enquête (Élémentaire, mon cher Watson)
 Un crime ou une atrocité ont été commis. Les Héros doivent résoudre l'affaire. Ils doivent interviewer les témoins (et empêcher qu'ils soient tués), rassembler des indices (et empêcher qu'ils soient volés ou effacés). Ils doivent ensuite rassembler des preuves à livrer aux autorités, ou faire eux-même justice.
+
 Les héros devront trouver des pistes, les suivre. Ces pistes les amèneront vers d’autres pistes. Idéalement, il faudrait que le cheminement ne soit pas linéaire, c’est à dire, offrir plusieurs pistes ou des pistes ambiguës. 
 
 Une autre façon de procéder également est d’avoir plusieurs suspects potentiels et ne décider que bien plus tard qui est le vrai coupable en fonction du cheminement des Héros. 
 
 Variations
+
 * Les Héros doivent laver un innocent de tout soupçon (peut-être eux-mêmes) 
 * Les Héros doivent travailler de concert avec un enquêteur spécial, ou se retrouvent avec un allier indésirable. 
 * Au milieu de l'aventure, on leur enlève l'enquête (souvent suite à une manœuvre d'un antagoniste) 
@@ -861,6 +879,7 @@ Variations
 Les Héros escortent un Machin précieux (objet ou personne) qui doit faire un voyage pour atteindre un endroit sûr ou son propriétaire. Le voyage est dangereux, et une ou plusieurs factions (ou des mésaventures) essayent de leur soustraire le Machin.
 
 Variations
+
 * Le Machin est une source de problème, et cherche à s'échapper ou à doubler les Héros 
 * La destination a été détruite ou prise par l'ennemi, et les Héros finir eux-même le travail que le Machin devait accomplir en arrivant là-bas. 
 * La personne essaye de changer de camp. 
@@ -871,6 +890,7 @@ Variations
 Quelque chose de mauvais et d'inexplicable est en train de se produire (tension raciale, coupure de courant, plus de bière, neige en juillet, des hordes d'aliens mangent tout le fromage) et beaucoup de gens sont dérangés par cela. Ils Héros doivent remonter à la source du phénomène et y remédier.
 
 Variations
+
 * Mes Héros sont responsables sans le savoir de la situation. 
 * Le problème est en fait d'une nature différence de sa nature apparente (technologique, personnelle, biologique, chimique, magique, politique, etc.). 
 
@@ -878,6 +898,7 @@ Variations
 Les Héros sont des explorateurs, et leur objectif est d'entrer dans un territoire inconnu et de l'explorer. Bien-sûr il y a un danger fascinant quelque part.
 
 Variations
+
 * L'endroit lui-même est la menace, et les Héros doivent remplir leur mission tout en restant en bonne santé, y compris mentale et financière. 
 * L'endroit est merveilleux et très précieux, et quelque chose d'autre essaye de faire en sorte que les Héros ne le fasse savoir à personne. 
 * Une menace qui endommage les transports ou les équipements de communication des Héros transforme cette intrigue en Survie 
@@ -886,6 +907,7 @@ Variations
 Un Méchant (ou un groupe de Méchant, ou plusieurs groupes) sème l'anarchie, dérangeant le voisinage, empoisonnant les réservoirs, etc. Les Héros doivent voir sur place, localiser le Méchant et l'arrêter.
 
 Variations
+
 * Les Héros ne doivent pas blesser le Méchant, il doit être ramené vivant et en bonne santé 
 * Le Méchant a préparé quelque chose de dangereux et de caché au cas où il serait capturé 
 * Le Méchant est un monstre ou un animal dangereux (ou une créature intelligente que tout le monde prend pour un monstre ou un animal) 
@@ -897,6 +919,7 @@ Variations
 Les Héros sont mis à la tête d'une importante organisation (une entreprise, une baronnie féodale, la CIA) et doivent, malgré leur manque d'expérience en la matière, la faire fonctionner et prospérer
 
 Variations
+
 * Les Héros ont été mis là parce que quelque chose d'important va arriver, et la Vieille Garde veut s'échapper 
 * Les paysans, voisins, employés, etc. en veulent aux Héros car la raison de leur arrivée à la tête semble étrange, et tout le monde aimait les anciens dirigeants. 
 
@@ -904,6 +927,7 @@ Variations
 Un Méchant ou une organisation prépare un truc méchant, et les Héros ont reçu un renseignement dessus. Ils doivent enquêter pour comprendre ce qui se passe et agir pour empêcher sa réalisation.
 
 Variations
+
 * Le renseignement initial était en fait destiné à les lancer sur une fausse piste. 
 * Il y a deux trucs méchants en préparation, et pas moyen d'arrêter les deux en même temps - comment choisir ? 
 
@@ -911,6 +935,7 @@ Variations
 Les Héros sont soudainement attaqués ou menacés sans qu'ils comprennent pourquoi. Ils doivent comprendre les motifs des attaquants tout en repoussant leurs attaques. Ils doivent ensuite résoudre le problème.
 
 Variations
+
 * Les Héros sont sans le savoir en possession d'un Machin que veulent les Méchants. 
 * Les Méchants cherchent à se venger de la mort d'un compatriote lors d'une aventure précédente. 
 * Les Méchants se sont trompés et ont pris les Héros pour quelqu'un d'autre. 
@@ -919,6 +944,7 @@ Variations
 Il y a un endroit avec des Choses Méchantes. Les Héros doivent les éliminer systématiquement pour assurer la sécurité des Gentils.
 
 Variations
+
 * Les Choses Méchantes ne peuvent pas être battues par une confrontation directe. 
 * Les Héros doivent d'abord en apprendre plus pour elles pour résoudre le problème. 
 * La Maison Hantée. 
@@ -929,6 +955,7 @@ Variations
 Quelqu'un a joué avec un Machin Auquel Il Ne Fallait Pas Toucher, ou ouvert un portail vers une Dimension Infernale, ou éventré le mur d'une prison, ou invoqué un Grand Ancien dans un bordel. Avant de se confronter à la source du problème, les Héros doivent s'occuper des vagues de problèmes échappés du Machin: monstres, anciens ennemis vengeurs, aliens étranges qui mangent tout ce qui passe, etc.
 
 Variations
+
 * Il faut que les Héros rassemblent les problèmes échappés et les renvoient à leur origine avant la fin de l'aventure. 
 * Les Héros sont attirés par la Source et doivent résoudre des problèmes de l'autre côté avant de retourner dans leur dimension 
 * Un livre secret, un code, ou un autre truc rare est nécessaire pour colmater la brèche (peut-être simplement celui qui l'a ouvert) 
@@ -938,6 +965,7 @@ Variations
 Des Méchants sont arrivés et ont fait des Méchantes Choses. Les Héros n'ont rien pu empêcher. Les Méchants ont réussit à s'échapper, et les Héros ont réussit à les prendre en chasse et doivent les rattraper avant qu'ils rejoignent leur repaire, leur pays d'origine, les lignes ennemies, etc.
 
 Variations
+
 * Les Méchants se sont enfuit en utilisant un moyen de transport ou une route que les Héros connaissent mieux qu'eux. 
 * Les Méchants se cachent temporairement dans un endroit (souvent hostile aux Héros 
 * Si les Méchants franchissent la ligne d'arrivée (la frontière, le portail dimensionnel, etc.) on ne pourra pas les poursuivre au-delà 
@@ -946,6 +974,7 @@ Variations
 Les Héros sont emprisonnés, et doivent s'échapper, malgré les gardes, les dispositifs de sécurité, et l'isolation géographique.
 
 Variations
+
 * Quelque chose s'est passé à l'extérieur et la surveillance est relâchée. 
 * Les Héros sont engagés pour "tester" la prison - ils ne sont pas des prisonniers normaux. 
 * D'autres prisonniers décident d'avertir les gardes par dépit ou par vengeance 
@@ -956,6 +985,7 @@ Variations
 Quelqu'un a besoin d'un Machin (pour compléter la prophétie, soigner le roi, empêcher la guerre, soigner une maladie, etc.). Les Héros doivent trouver le Machin. C'est souvent un Machin vieux, mystérieux, et puissant. Les Héros doivent en apprendre plus dessus pour le trouver, puis doivent s'en emparer.
 
 Variations
+
 * Le Machin est incomplet lorsqu'il est trouvé (l'une des intrigues les plus irritantes et pas-drôle de tout l'univers). 
 * Quelqu'un possède le Machin (ou l'a volé récemment, parfois pour une raison ou une cause légitime). 
 * Le Machin est une information, ou une idée, ou une substance, pas un objet spécifique. 
@@ -965,6 +995,7 @@ Variations
 Les Héros cherche un abri pour se protéger des éléments ou d'une autre menace, et trouvent un endroit où se réfugier. Ils découvrent qu'ils sont tombés sur quelque chose de dangereux, de secret, ou de surnaturel, et doivent résoudre le problème pour pouvoir enfin se reposer.
 
 Variations
+
 * L'abri abrite également la source de la menace que les Héros cherchaient à éviter. 
 * L'abri est une Base Cachée (voir ce terme). 
 * Les Héros doivent lutter non seulement pour s'abriter, mais aussi pour survivre. 
@@ -974,6 +1005,7 @@ Variations
 Une ville, château, vaisseau, campement, ou autre construction civilisée est en ruine. Alors qu'elle était en bon état encore récemment. Les Héros doivent entrer dans les ruines, les explorer, et découvrir ce qui s'est passé.
 
 Variations
+
 * Ce qui a détruit l'endroit (Méchants, radiations, monstres, race inconnue, fantômes) est toujours une menace; Les Héros doivent l'éliminer. 
 * La "Ruine" est un vaisseau abandonné récemment découvert. 
 * La "Ruine" est une ville fantôme découverte au détour du chemin - mais la carte dit que c'est une ville normale. 
@@ -982,6 +1014,7 @@ Variations
 Les Héros sont en expédition de chasse, pour capturer ou tuer une créature. Les problèmes sont liés à l'environnement, l'aptitude de la créature à leur échapper, et peut-être à les combattre.
 
 Variations
+
 * La créature est immunisée à leurs équipements ou à leurs armes 
 * D'autres personnes protègent activement la créature. 
 * L'antre de la créature propulse les Héros vers une autre aventure. 
@@ -990,6 +1023,7 @@ Variations
 Une personne (communauté, nation, galaxie) est en danger et doit être secourue par les Héros. L'introduction peut simplement être un appel au secours ou un signal de détresse.
 
 Variations
+
 * La/Les Victime(s) est/sont retenue/s en otage, ou assiégée/s par l'ennemi, et les Héros doivent s'occuper des ravisseurs ou forcer le blocus. 
 * Il est possible que les secours se retrouvent dans la même situation que les personnes en détresse, multipliant le problème. 
 * Il faut secourir non pas des gens, mais des animaux, robots, ou autre chose 
@@ -1002,12 +1036,14 @@ Variations
 Les Héros font de la surveillance - espionner une personne, rassembler de l'information sur un animal sauvage, explorer un nouveau secteur. Quelle que soit l'échelle, il est impératif qu'ils ne soient pas repérés.
 
 Variations
+
 * L'objectif a des problèmes et les Héros doivent décider qu'ils le secourent ou pas 
 
 ### Survie (Ne Mangez Pas Les Mauves)
 Les Héros s'échouent dans un endroit bizarre, et doivent survivre en trouvant nourriture et abri, puis essayer de regagner leur maison.
 
 Variations
+
 * Les Héros doivent survivre le temps que de l'aide arrive, qu'un truc soit réparé, etc. 
 * Dans les scénarios Réparations, les Héros doivent parfois découvrir un truc dans le coin qui rendra permettra d'effectuer les réparations 
 
@@ -1015,6 +1051,7 @@ Variations
 Les Héros sont des chasseurs de trésor, qui ont entendu parler d'une ruine où il y aurait un trésor. Ils doivent l'explorer, s'occuper des trucs pas naturels du coin pour s'emparer du trésor et ressortir vivants. (NdT: voir également Course Au Trésor)
 
 Variations
+
 * Le trésor lui-même est dangereux. 
 * Le trésor n'est pas situé dans une ruine, mais dans la nature, ou même caché dans un endroit civilisé. 
 * Le trésor appartient légitimement à quelqu'un d'autre. 
@@ -1024,11 +1061,13 @@ Variations
 Les Héros doivent traverser une zone dangereuse sans être tué, volé, humilié, contaminé, par ce qui s'y trouve. Les problèmes sont rarement d'une nature personnelle - c'est l'endroit lui-même qui est le Méchant de l'aventure.
 
 Variations
+
 * L'endroit n'est en fait pas dangereux du tout, et les "dangers" sont en fait des tentatives de prises de communication vers les Héros. 
 
 ### De l'autre côté de la barrière
 Toutes les intrigues peuvent être transformées en mettant les Héros à l'extérieur. Soit les Héros accompagnent des PNJs au milieu de l'intrigue (et ils n'y entraînent pas les Héros qui doivent juste les défendre), ou les Héros assistent à une intrigue impliquant des PNJs et ils doivent choisir leur camp ou résister. Par exemple, avec "Refuge-Un Abri Dans La Tempête", les Héros pourraient être dans le refuge lorsqu'un autre groupe arrive; dans la variante "Les Héros ne sont pas les bienvenus", les Héros pourraient être la voix de la raison pour faire taire une ferveur religieuse, des préjugés raciaux, ou toute autre source de conflit.
 
 Variations
+
 * Les Héros se trouvent dans le rôle des PNJs (les Méchants, les Fugitifs, etc.): au lieu de pourchasser, ils sont les Pourchassés; au lieu d'éliminer, ils doivent ne pas être éliminés. 
 * Ne pas toucher à l'intrigue de base, mais inverser les variations. 
