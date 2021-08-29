@@ -9,7 +9,7 @@ HaDes est un jeu de rôle comprenant:
 Le jeu se joue avec des dés à 6 faces (D6). 
 
 Si vous jouez en mode tresse, prévoyez des dés de 2 couleurs différentes
- (exemple : rouges pour les protagonistes et bleus pour les obstacles). 
+ (exemple : rouges pour les obstacles et bleus pour les protagonistes). 
 
 ## Les traits 
 
@@ -119,7 +119,7 @@ Exemples:
 - 3/2: le destin perd un point
 - 4/6: le destin gagne deux points
 
-On peut utiliser un compteur mais on peut aussi utiliser des dés de couleur différente. Exemple: dés rouge pour les protagonistes et dés bleus pour les obstacles. On procède de la sorte: quand on a déterminé la valeur de l'opposition (x/y), on a donc x dés rouges et y dés bleus. Si x et y sont différents, on prend la différence dans les dés de la couleur pour qu'on ait une opposition équilibrée et on les met de côté. Ainsi on a un pool de dés rouges et bleus à côté dont on élimine les duo rouge/bleu pour n'avoir qu'une seule couleur. Un nombre de dés rouges (dés protagonistes) donne la valeur positive du destin alors qu'un nombre de dés bleus (dés obstacles) donne la valeur du destin négative.
+On peut utiliser un compteur mais on peut aussi utiliser des dés de couleur différente. Exemple: dés rouges pour les obstacles et dés bleus pour les protagonistes. On procède de la sorte: quand on a déterminé la valeur de l'opposition (x/y), on a donc x dés rouges et y dés bleus. Si x et y sont différents, on prend la différence dans les dés de la couleur pour qu'on ait une opposition équilibrée et on les met de côté. Ainsi on a un pool de dés rouges et bleus à côté dont on élimine les duos rouge/bleu pour n'avoir qu'une seule couleur. Un nombre de dés rouges (dés obstacles) donne la valeur négative du destin alors qu'un nombre de dés bleus (dés protagonistes) donne la valeur positive du destin.
 
 ## Jets de dés 
 
@@ -230,7 +230,7 @@ C'est également Cosmos qui interprète le résultat de l'opposition sauf si Cha
 
 Cela ne gêne normalement pas la fiction car juste après l'interprétation, Chaos peut tout à fait retourner dans la fiction et raconter un élément propre à l'intrigue. 
 
-_Règle optionnelle: quand Chaos se saisit de l'interprétation d'un résultat au nom de l'histoire, le destin gagne un point et donc Cosmos gagne un dé protagoniste (rouge). A appliquer si Chaos a tendance à empiéter sur les interprétations de Cosmos._
+_Règle optionnelle: quand Chaos se saisit de l'interprétation d'un résultat au nom de l'histoire, le destin gagne un point et donc Cosmos gagne un dé protagoniste (bleu). A appliquer si Chaos a tendance à empiéter sur les interprétations de Cosmos._
 
 ## Mode legacy 
 
@@ -402,7 +402,7 @@ Sinon par défaut l'interprétation est faite par Cosmos.
 * J’interprète les résultats des oppositions sauf si Chaos décide de le faire (au nom de l'intrigue).
 * Je gère les dés du destin
     - Quand une opposition a lieu, prendre le nombre de dés manquants pour équilibrer l'opposition. Se défausser des paires opposées pour n'avoir qu'une couleur en dé.
-    - Exemple: dés rouges = dés héros et dés bleu = dés chaos. Imaginons que Cosmos ait 2 dés bleu en réserve. Soudain surgit une opposition dans laquelle Cosmos dépense 1d bleu et qui aboutit à 3d/5d. Cosmos n'a donc plus qu'1 dé bleu en réserve. Pour équilibrer l'opposition, il faudrait 2 dés rouges donc Cosmos prend 2 dés rouges. Il a déjà un bleu. Il rejette donc 1 bleu, 1 rouge et au final il a donc en réserve 1 dé rouge.  
+    - Exemple: dés rouges = dés obstacle et dés bleu = dés héros. Imaginons que Cosmos ait 2 dés rouges en réserve. Soudain surgit une opposition dans laquelle Cosmos dépense 1d rouge et qui aboutit à 3d/5d. Cosmos n'a donc plus qu'1 dé rouge en réserve. Pour équilibrer l'opposition, il faudrait 2 dés bleus donc Cosmos prend 2 dés bleus. Il a déjà un rouge. Il rejette donc 1 duo bleu/rouge au final il a donc en réserve 1 dé bleu.
     - Note: 2 dés bleus = -2 en Destin / 1 dé rouge = +1 en Destin. Mais en utilisant les dés cela évite de maintenir un compteur et tout se fait par manipulation d'objets du jeu dans le jeu. Cela peut paraitre compliqué mais c'est en fait assez intuitif en pratique. 
 * Je peux avantager ou désavantager les héros en fonction des dés rouges (pro héros) ou bleus (pro chaos) en ma possession. 
     - Note: rien de m'y oblige mais cela permet de participer et d'équilibrer les oppositions. C'est comme si on était un spectateur qui pouvait agir sur le récit par rapport à ses souhaits ou à ce qui lui parait plus plausible ou plus en phase avec le rythme du récit. 
