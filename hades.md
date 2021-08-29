@@ -6,7 +6,9 @@ HaDes est un jeu de rôle comprenant:
 
 # Le système de résolution 
 
-Le jeu se joue avec des dés à 6 faces (D6).
+Le jeu se joue avec des dés à 6 faces (D6). 
+Si vous jouez en mode tresse, prévoyez des dés de 2 couleurs différentes
+ (exemple : rouges pour les protagonistes et bleus pour les obstacles). 
 
 ## Les traits 
 
