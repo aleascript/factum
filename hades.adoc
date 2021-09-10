@@ -21,17 +21,17 @@ HaDes est un jeu de rôle comprenant:
 * plusieurs modes de jeu: *solo*, *legacy* (classique), *tresse*
 * un système d'oracle (conçu plutôt pour le mode solo)
 
-include::systeme.adoc[]
+include::systeme.adoc[Système de résolution]
 
-include::modes.adoc[]
+include::modes.adoc[Modes de jeu]
 
-include::gameplay.adoc[]
+include::gameplay.adoc[Déroulement d'une partie]
 
-include::principes.adoc[]
+include::principes.adoc[Les principes]
 
-include::lexiques.adoc[]
+include::lexiques.adoc[Lexiques & Menaces]
 
-include::oracles.adoc[]
+include::oracles.adoc[Oracles]
 
-include::intrigues.adoc[]
+include::intrigues.adoc[Intrigues]
 
