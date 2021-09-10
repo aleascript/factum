@@ -1,0 +1,113 @@
+= Principes de jeux
+:doctype: book
+
+== Principes valables pour tous les joueurs
+
+* Show not tell:
+* Il vaut mieux montrer dans la fiction que rentrer dans
+des longs monologues de background explicatif
+* Posez des questions aux autres joueurs:
+* à Cosmos pour obtenir des éléments du monde
+* aux Héros pour savoir ce qu’ils font ou ce qu’ils sont
+* à Chaos qui joue les seconds rôles de l’histoire
+* Savoir écouter les autres joueurs
+* YANYS: You Are Not YourSelf
+* Les personnages ne sont pas les joueurs.
+* YANA: You Are Not Alone
+* le protagoniste peut appartenir à un groupe et a des relations
+* le joueur peut déléguer, poser des questions, échanger avec les
+autres joueurs
+* Imaginer
+* Pas de gagnant (même quand on échoue)
+* En cas de panne de narration, traduire cela en traits
+* En cas de panne de situation, jet de direction par Cosmos pour faire
+un focus sur un des éléments du cadre fictionnel
+* Prenez des notes
+* Utilisez des petits papiers entre vous si vous voulez cacher une
+info
+
+== Principes pour Chaos
+
+* Je propose des épreuves aux héros
+- Compter en général 1D par héros + 1D ou 2D pour la difficulté.
+* Je propose des choix aux héros
+- un choix peut être simple (sans opposition) mais aussi dans une
+opposition (le choix d'objectif)
+- corollaire : je fais sentir aux héros les conséquences de leurs choix
+* Je peux choisir l'interprétation d'un résultat (au nom de l'histoire).
+Sinon par défaut l'interprétation est faite par Cosmos.
+* Je joue les situations a fond
+* What could go wrong?
+* Je construis une intrigue
+* Je lie l’intrigue aux héros
+* Je développe les menaces et les dangers
+* J’exploite les faiblesses des héros
+* Je force les héros à agir ou réagir
+* J'ai le droit de jeter les dés de manière cachée et de donner la valeur de destin à Cosmos, au nom du secret (exemple: perception, enquête, etc...)
+* Je laisse peu de répit aux héros
+* Je ne m’attache pas trop aux personnages représentant l’adversité
+* Je peux me saisir d’un figurant créé par Cosmos
+
+== Principes pour Cosmos
+
+* Je propose un univers intéressant
+* Je réponds aux questions des autres joueurs sur cet univers
+- Les autres joueurs vous poseront souvent des questions: qu'est ce qu'on voit ? y a t'il ça ou ça ? Immergez vous mentalement dans votre monde et commencez simple par répondre ce qui est évident.
+* Je décris cet univers
+- Evitez de monopoliser la parole donc si vous décrivez un personnage ou un lieu, décrivez le par un trait caractéristique. Si les joueurs s'interesse à ce nouvel objet, vous pourrez alors le détailler plus tard. D'ailleurs ca sera peut etre Chaos qui le fera en l'intégrant dans son intrigue.
+* Je tends des perches aux autres joueurs en manque d’inspiration
+- Rappelez vous, c'est Chaos qui est en charge de faire avancer son intrigue.
+* Je peux créer des merveilles: ce sont des révélations sur le monde
+qui n’impactent pas l’intrigue directement mais qui permettent
+d’ouvrir des portes
+* J’interprète les résultats des oppositions sauf si Chaos décide de le faire (au nom de l'intrigue).
+* Je gère les dés du destin
+- Quand une opposition a lieu, prendre le nombre de dés manquants pour équilibrer l'opposition. Se défausser des paires opposées pour n'avoir qu'une couleur en dé.
+* Je peux avantager ou désavantager les héros en fonction des dés rouges (pro héros) ou bleus (pro chaos) en ma possession.
+- Note: rien de m'y oblige mais cela permet de participer et d'équilibrer les oppositions. C'est comme si on était un spectateur qui pouvait agir sur le récit par rapport à ses souhaits ou à ce qui lui parait plus plausible ou plus en phase avec le rythme du récit.
+* J’arbitre en cas de litige
+* J’interprète les figurants
+* Je peux demander à Chaos de sonner la cavalerie ou le faire moi-même
+* Je redonne la main
+* Je peux trancher certaines questions à la marge (via le destin)
+
+Rôles de Cosmos:
+- Voix-off
+- Régisseur
+- Spectateur
+- Producteur
+- DJ
+- Fait intervenir la cavalerie
+- Tend des perches
+- Destin
+- Encyclopédiste
+- Figurants
+
+== Principes pour les Héros
+
+* Je propose un personnage intéressant
+* Avec ses forces et ses faiblesses
+* Avec des relations
+* Avec un ou des problèmes à régler
+* Avec un ou plusieurs objectifs
+* Je réponds aux questions des autres joueurs concernant le héros
+* J’incarne ce personnage
+* Je pense, agit comme lui
+* Je développe sa morale, ses croyances
+* J’imagine des phrases ou des expressions types
+* Je suis le seul à pouvoir choisir quand mon héros peut mourir
+
+== Litiges
+
+Spécifier le litige
+
+* Désaccords ou préférences ?
+* Technique, fictionnel ou relationnel ?
+
+Outil pour trancher:
+
+- l'unanimité: il faut que héros + chaos + cosmos tombent d'accord
+- la majorité: il faut qu'on ait 2 rôles sur 3 seulement (héros/chaos,
+cosmos/chaos, héros,cosmos ou héros/chaos/cosmos).
+
+Note: s'il y a plusieurs héros, les héros doivent se mettre d'abord d'accord entre eux pour exprimer leur avis. Dans certains cas, le choix se fait uniquement entre les héros impliqués et concernés par le litige.
