@@ -13,16 +13,16 @@ Une partie se déroule en trois étapes:
 Le cadrage a définir l'univers de jeu et de le présenter en répondant aux 6 questions suivantes:
 
 1. OU, QUAND: Quels sont les **lieux types** ? A quelle époque joue-t'on ?
-- En particulier: où se déroulera l’action en début de partie?
+    - En particulier: où se déroulera l’action en début de partie?
 2. QUI: Quelles sont les **rencontres types** ?
-- En particulier: quelle est la population locale, les voisins connus?
+    - En particulier: quelle est la population locale, les voisins connus?
 3. COMMENT: Quelles sont les **scènes types** du jeu dans cet univers ?
-- En particulier: ce que vous aimez ou n'aimez pas dans ce type d'univers
+    - En particulier: ce que vous aimez ou n'aimez pas dans ce type d'univers
 4. QUOI: Quelles sont les **menaces types** ? Quels sont les problèmes ou dangers usuels de cet univers ? Quelles sont les sources connues de conflit ?
 5. COMBIEN: Quelles sont les **ressources types** ? Qu'est ce qui a de la valeur dans cet univers ?
-- En particulier c'est le moment pour définir les grandes lignes de pouvoir, le groupe des héros, l'économie, la technologie, le système de magie, etc...
+    - En particulier c'est le moment pour définir les grandes lignes de pouvoir, le groupe des héros, l'économie, la technologie, le système de magie, etc...
 6. POURQUOI: Quels sont les **enjeux types**. Quels sont les buts personnels ou collectifs habituels dans cet univers ?
-- En particulier: quelles sont les motivations profondes des gens et plus particulièrement des héros (missions types) ?
+    - En particulier: quelles sont les motivations profondes des gens et plus particulièrement des héros (missions types) ?
 
 Suivant le mode de jeu, cela peut être la Destinée qui répond à toutes les questions et présente ainsi le monde mais si on est en mode tresse, on peut passer 2 minutes par question pour mettre en commun les réponses validés par tous.
 
@@ -95,6 +95,5 @@ entre les héros et une menace ou une intrigue.
 C'est l'occasion de parler de ce qui a marché ou pas, 
 ce qu'on a aimé, ce qu'on aimerait, etc... 
 
-Une façon ludique et immersive est de jouer le débrief en RP, 
-dans une scène où les protagonistes discutent entre eux de ce qu'ils ont vécu, 
-ou encore en devant faire leur rapport à un autre personnage. 
+Une façon ludique et immersive est de jouer le débrief en RP, dans une scène où les protagonistes discutent entre eux de ce qu'ils ont vécu,
+ou encore en faisant jouer une scène où les protagonistes doivent faire leur rapport à un autre personnage.
