@@ -1,0 +1,90 @@
+= Déroulement d'une partie
+:doctype: book
+
+Une partie se déroule en trois étapes:
+
+* Le cadrage
+* Les préparatifs
+* L'immersion
+
+== Le cadrage
+
+Le cadrage a définir l'univers de jeu et de le présenter en répondant aux 6 questions suivantes:
+
+1. OU, QUAND: Quels sont les **lieux types** ? A quelle époque joue-t'on ?
+- En particulier: où se déroulera l’action en début de partie?
+2. QUI: Quelles sont les **rencontres types** ?
+- En particulier: quelle est la population locale, les voisins connus?
+3. COMMENT: Quelles sont les **scènes types** du jeu dans cet univers ?
+- En particulier: ce que vous aimez ou n'aimez pas dans ce type d'univers
+4. QUOI: Quelles sont les **menaces types** ? Quels sont les problèmes ou dangers usuels de cet univers ? Quelles sont les sources connues de conflit ?
+5. COMBIEN: Quelles sont les **ressources types** ? Qu'est ce qui a de la valeur dans cet univers ?
+- En particulier c'est le moment pour définir les grandes lignes de pouvoir, le groupe des héros, l'économie, la technologie, le système de magie, etc...
+6. POURQUOI: Quels sont les **enjeux types**. Quels sont les buts personnels ou collectifs habituels dans cet univers ?
+- En particulier: quelles sont les motivations profondes des gens et plus particulièrement des héros (missions types) ?
+
+Suivant le mode de jeu, cela peut être la Destinée qui répond à toutes les questions et présente ainsi le monde mais si on est en mode tresse, on peut passer 2 minutes par question pour mettre en commun les réponses validés par tous.
+
+Dans cette phase, il s'agit juste de choisir l'univers de jeu et d'en avoir une vision commune au niveau des grandes lignes. On ne détaille pas dans cette étape.
+
+Durée: 30 minutes
+
+== Les préparatifs
+
+Dans cette étape, il faut préparer les protagonistes, le monde et l'intrigue qui sera jouée.
+
+Durée: 30 minutes
+
+=== Préparation du monde
+
+En mode tresse, c'est Cosmos qui s'en charge.
+
+Cosmos peut utiliser des feuilles A4 pliées en 2 sous forme de petits livrets pour développer ses lexiques.
+
+Dans cette phase:
+
+- on crée des lexiques de noms
+- on étoffe les éléments du cadrage (sous forme de lexiques)
+- on présente aux autres ce que tout le monde doit connaître sur le monde
+
+Note: on peut échanger des petits papiers avec Chaos pour cacher des infos aux Héros.
+
+=== Préparation des héros
+
+En mode tresse, chaque Héros crée son héros.
+
+Il suffit de prendre une feuille A4 et de répondre aux questions suivantes.
+
+Les réponses pourront servir de traits par la suite dans les oppositions.
+
+- quel(s) nom(s) me donne-t'on ?
+- que voit on quand on me rencontre ?
+- quelles sont mes croyances personnelles ?
+- quelle est mon occupation ?
+- quels sont mes liens d'appartenance ? (En particulier à plusieurs héros la question du groupe sera à déterminer)
+- quels sont mes instincts ?
+- qu'est ce qui est sacré pour moi ?
+- qu'est ce que je déteste ?
+- quelles sont mes valeurs ?
+- quels sont mes talents et mes atouts ?
+- quels sont mes faiblesses et mes failles ?
+- ai-je des expressions types ?
+
+=== Préparation de l'histoire
+
+En mode tresse, c'est Chaos qui s'en charge.
+
+Chaos peut utiliser des feuilles A4 pliée en 2 mais utilisée horizontalement une fois pliée pour pouvoir cacher l'info aux autres.
+
+- on pioche 2 intrigues et on en choisit 1 ou on mixe les 2.
+- on réfléchit à des enjeux éventuels (en gros des questions auxquels il faudra répondre pendant le jeu)
+- on développe au moins 1 menace qui se développe en au moins 3 étapes (idéalement 6).
+
+== L'immersion
+
+=== Début de l'histoire
+
+* Cosmos choisit un lieu.
+* Heros déclare pourquoi il est dans ce lieu.
+* Chaos amène l'imprevu, quelque chose d'inhabituel qui permettra de faire le lien
+entre les héros et une menace ou une intrigue.
