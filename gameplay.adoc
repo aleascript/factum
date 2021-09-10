@@ -6,6 +6,7 @@ Une partie se déroule en trois étapes:
 * Le cadrage
 * Les préparatifs
 * L'immersion
+* Le débrief
 
 == Le cadrage
 
@@ -88,3 +89,12 @@ Chaos peut utiliser des feuilles A4 pliée en 2 mais utilisée horizontalement u
 * Heros déclare pourquoi il est dans ce lieu.
 * Chaos amène l'imprevu, quelque chose d'inhabituel qui permettra de faire le lien
 entre les héros et une menace ou une intrigue.
+
+== Le débrief
+
+C'est l'occasion de parler de ce qui a marché ou pas, 
+ce qu'on a aimé, ce qu'on aimerait, etc... 
+
+Une façon ludique et immersive est de jouer le débrief en RP, 
+dans une scène où les protagonistes discutent entre eux de ce qu'ils ont vécu, 
+ou encore en devant faire leur rapport à un autre personnage. 
