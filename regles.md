@@ -1,5 +1,5 @@
-HaDes : HAsard & DEStin 
-=======================
+Factum
+======
 _Version beta: 0.1.0_
 
 1. [Présentation du jeu](#Pr..sentation.du.jeu)
@@ -50,17 +50,17 @@ _Version beta: 0.1.0_
  
 # Présentation du jeu
 
-**HaDes**, contraction de Hasard et Destin est un jeu d'imagination dans la tradition des jeux de rôles sur table qui peut se jouer en groupe ou en solo. 
+**Factum** est un jeu d'imagination dans la tradition des jeux de rôles sur table qui peut se jouer en groupe ou en solo. 
 
 Il permet de plonger un ou plusieurs protagonistes dans un cadre rempli de menaces et de dangers qui vont leur permettre de se révéler tout en faisant émerger une histoire, leur histoire.
 
-**HaDes** est d'abord un **moteur de jeu**. Mais HaDes est aussi un guide pour créer votre propre jeu ou adapter un jeu existant. Nous espérons pouvoir également fournir des jeux prêts à l'emploi ou des ressources pour vous faciliter la création de votre jeu.
+**Factum** est d'abord un **moteur de jeu**. Mais Factum est aussi un guide pour créer votre propre jeu ou adapter un jeu existant. Nous espérons pouvoir également fournir des jeux prêts à l'emploi ou des ressources pour vous faciliter la création de votre jeu.
 
 L'idée sous-jacente est d'avoir un système de jeu simple, intuitif et ouvert qui permette de moins se focaliser sur les règles mais plus sur la fiction et l'univers et l'ambiance du jeu que l'on souhaite.  
 
-**HaDes** s'accompagne aussi d'**outils** qui peuvent être utilisés dans n'importe quel autre jeu de rôles (comme les outils pour la Destinée ou les Oracles par exemple). 
+**Factum** s'accompagne aussi d'**outils** qui peuvent être utilisés dans n'importe quel autre jeu de rôles (comme les outils pour la Destinée ou les Oracles par exemple). 
 
-**HaDes** est un jeu asymétrique: 
+**Factum** est un jeu asymétrique: 
 
 * Un des joueurs incarne la **Destinée** et est en charge de présenter l'histoire aux autres.  
 * Les autres incarnent chacun un **Protagoniste** qui est immergé dans l'histoire et peuvent interagir avec la fiction et les autres protagonistes.  
@@ -195,7 +195,7 @@ Cas à la marge: on peut également utiliser le Destin pour éviter des jets al�
 
 Le Destin est avant tout un outil pour la Destinée qui n'a pas besoin d'être exact ou précis. Faites-là évoluer lors des résolutions par les dés et sinon au fil de la partie comme mesure de votre "gentillesse" ou "méchanceté" vis à vis des Protagonistes lorsque ceux-ci interrogent la Destinée sur la situation et que cela ne nécessite pas vraiment une résolution par les dés.   
 
-Vous pouvez utiliser l'application Counter sur Android pour incrémenter et décrémenter facilement le Destin en cours de partie. En effet, cette application peut être configurée pour ne pas lancer la veille du smartphone quand on l'affiche. Pensez aussi à désactiver les sons et la vibrations pour garder secrète la valeur du Destin. Si vous avez une solution moins numérique et tout aussi pratique, n'hésitez pas à nous en faire part sur le [forum](https://github.com/aleascript/hades/discussions) ou par [mail](mailto://aleascript@gmail.com).
+Vous pouvez utiliser l'application Counter sur Android pour incrémenter et décrémenter facilement le Destin en cours de partie. En effet, cette application peut être configurée pour ne pas lancer la veille du smartphone quand on l'affiche. Pensez aussi à désactiver les sons et la vibrations pour garder secrète la valeur du Destin. Si vous avez une solution moins numérique et tout aussi pratique, n'hésitez pas à nous en faire part sur le [forum](https://github.com/aleascript/factum/discussions) ou par [mail](mailto://aleascript@gmail.com).
 
 
 # Résoudre 
@@ -569,7 +569,7 @@ _Exemple: Bob et John sont en compétition pour arriver avant l'autre dans le bu
 
 Nous allons voir maintenant dans cette partie comment créer un jeu de toute pièce ou comment en adapter un existant. 
 
-HaDes est, en effet, un jeu générique qui donne toutes les billes pour créer un jeu sur-mesure et offrir aux joueurs l'ambiance dans laquelle ils souhaitent jouer. 
+Factum est, en effet, un jeu générique qui donne toutes les billes pour créer un jeu sur-mesure et offrir aux joueurs l'ambiance dans laquelle ils souhaitent jouer. 
 
 Il y a donc un travail en amont de la part de la Destinée pour créer le matériel nécessaire avant de jouer mais elle peut également utiliser du matériel déjà existant et prêt à l'emploi. 
 
@@ -743,7 +743,7 @@ La Destinée devra aussi sans doute créer une batterie de **seconds rôles** (v
 
 Ces ressources doivent être synthétiques et directement exploitables. 
 
-Ce sont souvent des listes de traits de couleur et d'aptitudes ainsi que de liens entre les différents éléments. En effet, HaDes n'utilisant pas de statistiques pour les résolutions, on se focalise donc sur la nature des choses et sur ce qui pourrait être important et intéressant à jouer pour surprendre les Protagonistes. 
+Ce sont souvent des listes de traits de couleur et d'aptitudes ainsi que de liens entre les différents éléments. En effet, Factum n'utilisant pas de statistiques pour les résolutions, on se focalise donc sur la nature des choses et sur ce qui pourrait être important et intéressant à jouer pour surprendre les Protagonistes. 
 
 On peut également trouver dans les ressources de l'univers des cartes, des images, etc... 
 
@@ -830,7 +830,7 @@ Dans le cyberespace, un agitateur très populaire éliminé par la République r
 
 ### Les campagnes 
 
-Après le premier épisode de la session zéro, la Destinée peut peaufiner une campagne. Nous n'évoquerons pas dans ces règles la création de campagne mais HaDes devrait bien se prêter à ce type d'histoires longues. 
+Après le premier épisode de la session zéro, la Destinée peut peaufiner une campagne. Nous n'évoquerons pas dans ces règles la création de campagne mais Factum devrait bien se prêter à ce type d'histoires longues. 
 
 Nous verrons plus loin, en effet, comment faire évoluer les protagonistes.
 
@@ -867,7 +867,7 @@ Gardez en tête également que vous voulez créer une ambiance particulière aut
 * Transformez les stats du jeu en traits. Pour des stats particulièrement hautes, transformez les en plusieurs traits. _Exemple pour un géant: immense, force herculéenne, peau épaisse, balayage, écrasement..._
 * Vous pouvez passer au background et ainsi en savoir plus sur les éventuels autres éléments que vous voulez transformer dans un premier temps.
  * Essayez de comprendre ce que ce jeu a de spécial et d'unique pour pouvoir le restrancrire sous forme d'élément (univers ou péripétie), de traits ou de règles.
-* Vous n'êtes pas obligés de tout passer en ressources HaDes pour commencer à jouer. 
+* Vous n'êtes pas obligés de tout passer en ressources Factum pour commencer à jouer. 
 * Même si un scénario peut se suffire à lui-même, vous voudrez sans doute avoir d'autres ressources sous le coude en cas de hors-piste de la part des Protagonistes.  
 * Ensuite, il faudra vous focaliser sur les Protagonistes et leurs profils. Essayez de retrouver l'essence du jeu pour permettre d'incarner des protagonistes typiques du jeu que vous adaptez.
  
@@ -876,7 +876,7 @@ Gardez en tête également que vous voulez créer une ambiance particulière aut
 
 ## La session zéro
 
-Une nouvelle partie d'HaDes commence par la session zéro. Pendant cette session, les joueurs vont se mettre d'accord sur les éléments du cadre fictionnel de la partie, puis ils vont créer et commencer à incarner les protagonistes et ensuite ils pourront enfin commencer leur première histoire. 
+Une nouvelle partie de Factum commence par la session zéro. Pendant cette session, les joueurs vont se mettre d'accord sur les éléments du cadre fictionnel de la partie, puis ils vont créer et commencer à incarner les protagonistes et ensuite ils pourront enfin commencer leur première histoire. 
 
 ## S'accorder 
 
@@ -1001,7 +1001,7 @@ On profite de la fin de la session pour:
 
 ## Faire évoluer les protagonistes 
 
-Il n'y a pas de points d'expérience dans HaDes. La progression se fait narrativement en obtenant des avantages durables (cela peut être aussi bien des objets que de nouvelles connaissances ou compétences par exemple) mais en obtenant aussi des handicaps durables (cela peut être de nouveaux ennemis, de nouveaux défauts...) qui sont consolidés par les fortunes entre deux sessions. 
+Il n'y a pas de points d'expérience dans Factum. La progression se fait narrativement en obtenant des avantages durables (cela peut être aussi bien des objets que de nouvelles connaissances ou compétences par exemple) mais en obtenant aussi des handicaps durables (cela peut être de nouveaux ennemis, de nouveaux défauts...) qui sont consolidés par les fortunes entre deux sessions. 
 
 Pour autant, en jouant avec les puissances (voir règles avancées), on peut aussi améliorer le niveau de certaines capacités. Mais le sujet dépend entièrement de votre série. Nous préconisons d'utiliser les puissances avec parcimonie. Obtenir une puissance devrait faire l'objet d'un épisode et ne devrait pas être le résultat d'une simple victoire sur une seule confrontation. Il est plus plausible d'obtenir un trait simple dans le même domaine de compétence qu'obtenir un talent héroïque. 
 
@@ -1256,7 +1256,7 @@ Cela donne 108 combinaisons. On peut même affiner encore plus en ajoutant un 4�
 
 Permet de présenter en quelques minutes le jeu à de nouveaux joueurs. 
 
-Nous allons jouer à HaDes (contraction de Hasard & Destin) un jeu dans lequel  je jouerai la Destinée tandis que vous, vous jouerez les protagonistes d'une histoire que nous allons élaborer, construire, vivre tous ensemble.  
+Nous allons jouer à Factum un jeu dans lequel  je jouerai la Destinée tandis que vous, vous jouerez les protagonistes d'une histoire que nous allons élaborer, construire, vivre tous ensemble.  
 
 La Destinée plongera les protagonistes dans des situations généralement problématiques et ces derniers devront agir ou réagir en accord avec le personnage qu'ils incarnent. 
 
@@ -1292,7 +1292,7 @@ A retenir et pratique à mettre sur l'écran de la Destinée:
 * Les tables des oracles éventuellement
 * D'autres règles: initiative, Deus Ex Alea...
 
-Les règles d'HaDes sont simples et cela laisse de la place pour coller des post-its avec: vos scènes types, vos missions types, des infos sur les protagonistes, des principes de jeu, le cadre fictionnel, etc... 
+Les règles de Factum sont simples et cela laisse de la place pour coller des post-its avec: vos scènes types, vos missions types, des infos sur les protagonistes, des principes de jeu, le cadre fictionnel, etc... 
 
 # Auteur & Remerciements
 
@@ -1300,7 +1300,7 @@ Les règles d'HaDes sont simples et cela laisse de la place pour coller des post
 
 * **Remerciements**: Vincent Baker (Apocalypse World), CasusNo, La Cellule, Coralie David, Croc (INS/MV), Docteur Dandy, Olivier Fanton (INS/MV),  FibreTigre & Co (GameOfRoles), Mark Galeotti (Glorantha/HQ), Gary Gygax (Donjons & Dragons), Mike Holmes (Universalis), Jérome Larré, Robin D Laws (HeroQuest), Ralph Mazza (Universalis), Newt Newport (HeroQuest/OpenQuest), Sandy Petersen (BRP), P1PDD, Ben Robbins (Microscope), Role The Dice, Jeff Richards (Runequest), Greg Stafford (Glorantha), Volsung (2D+Cool), Matt Wilson (PrimeTimeAdventure), Samuel Zitterman...  
 
-* **Forum**: https://github.com/aleascript/hades/discussions 
+* **Forum**: https://github.com/aleascript/factum/discussions 
 
 * **Ressources**: https://github.com/aleascript
 

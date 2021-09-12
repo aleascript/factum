@@ -1,3 +1,3 @@
-- [ ] Reporter les infos de regles.md manquantes dans hades.adoc 
+- [ ] Reporter les infos de regles.md manquantes dans main.adoc 
 - [ ] Rajouter la question du group building 
 - [ ] Faire des résolutions types (design notes et/ou règles?)

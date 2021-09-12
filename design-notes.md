@@ -19,7 +19,7 @@ Mais le moteur BRP n'est pas réaliste car dans la vraie vie, on ne connait pas 
 
 Quand on analyse un échec ou un succès, on commente en mettant en avant tel ou tel facteur-clé. Il s'avère d'ailleurs qu'il y a aussi plusieurs facteurs pris en compte et l'on est parfois incapables de déterminer lequel a été déterminant. 
 
-C'est l'esprit du moteur d'HaDes: on détermine les facteurs clés et on résout. Tant qu'on n'a pas résolu, on ne peut pas se prononcer. Evidemment plus il y a de facteurs clés dans un camp, plus il a de chance de l'emporter mais ce sont les dés qui en décideront avec un facteur d'incertitude qui, je l'espère, sera stimulant pour les joueurs. 
+C'est l'esprit du moteur de Factum: on détermine les facteurs clés et on résout. Tant qu'on n'a pas résolu, on ne peut pas se prononcer. Evidemment plus il y a de facteurs clés dans un camp, plus il a de chance de l'emporter mais ce sont les dés qui en décideront avec un facteur d'incertitude qui, je l'espère, sera stimulant pour les joueurs. 
 
 ## Implication
 
@@ -35,7 +35,7 @@ Exemples de facteurs-clés possibles originaux:
 
 ## Un jeu narratif guidé par les facteurs
 
-HaDes un jeu qui permet de mettre en avant tel ou tel facteurs (issus du jeu ou de la fiction) pour voir ce qui arrive
+Factum un jeu qui permet de mettre en avant tel ou tel facteurs (issus du jeu ou de la fiction) pour voir ce qui arrive
 
 Le jeu devrait donne ainsi un maximum de pouvoir de liberté aux joueurs.
 
@@ -275,7 +275,7 @@ Rien n'empêche dans un pur bullet-style de détailler chaque élément importan
 
 On pourrait ainsi rentrer de plain-pied dans le setting en jouant des résolutions avec de vrais traits et en rôdant ainsi sa façon d'appréhender les conséquences des jets. 
 
-On peut également faire l'exercice avec des ressources existantes pour transcrire au format HaDes des descriptions, statistiques d'autres moteurs de jeu. L'idée est d'avoir une fiche de lieu, de second rôle directement exploitable par la suite. 
+On peut également faire l'exercice avec des ressources existantes pour transcrire au format Factum des descriptions, statistiques d'autres moteurs de jeu. L'idée est d'avoir une fiche de lieu, de second rôle directement exploitable par la suite. 
 
 Reste maintenant à définir aussi une organisation de classement pour pouvoir s'y retrouver facilement.  
 

@@ -1,4 +1,4 @@
-= HaDes (HAsard & DEStin)
+= Factum
 aleascript@gmail.com
 Version 0.1
 :doctype: book
@@ -6,7 +6,7 @@ Version 0.1
 :toc:
 :toclevels: 4
 :toc-title: Table des matières
-:description: HaDes est un jeu de rôle générique
+:description: Factum est un jeu de rôles générique
 :keywords: JdR, Solo
 :imagesdir: ./img
 
@@ -15,7 +15,7 @@ ____
 L'imagination est une ressource infinie, gratuite et partageable.
 ____
 
-HaDes est un jeu de rôle comprenant:
+Factum est un jeu de rôle comprenant:
 
 * un système générique de résolution sans stats qui se veut *simple*, *réaliste* et *inspirant*
 * plusieurs modes de jeu: *solo*, *legacy* (classique), *tresse*

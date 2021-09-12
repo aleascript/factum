@@ -1,8 +1,8 @@
-_**Note de version**: travail en cours sur les diverses branches (dont main). Les versions stables seront tagguées et livrées en PDF dans [releases](https://github.com/aleascript/hades/releases)._
+_**Note de version**: travail en cours sur les diverses branches (dont main). Les versions stables seront tagguées et livrées en PDF dans [releases](https://github.com/aleascript/factum/releases)._
 
 # Règles
 
-[Règles du jeu](hades.adoc) **HaDes** (HAsard & DEStin)
+[Règles du jeu](main.adoc) **Factum**
 
 
 # Ressources 
@@ -21,4 +21,4 @@ Vous pouvez jeter un coup d'oeil ici pour piocher dans les ressources des jeux e
 
 # Communauté
 
-N'hésitez pas à participer aux [discussions](https://github.com/aleascript/hades/discussions). 
+N'hésitez pas à participer aux [discussions](https://github.com/aleascript/factum/discussions). 
