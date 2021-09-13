@@ -1,39 +1,3 @@
-= Les Oracles
-:doctype: book
-
-Les jets d'Oracle peuvent être utilisés pour répondre à certaines questions.
-
-Bien qu'utilisés en mode solo, on peut également s'en servir dans un autre mode et selon le contexte demander au rôle concerné de jeter le dé d'Oracle.
-
-Note: ces jets de dés ne sont évidemment pas des oppositions.
-
-== Jets de choix
-
-Vous devez faire un choix entre N éléments prédéterminés. Dans ce cas jetez un dé par élément: celui qui a le plus grand score l'emporte. En cas de gagnants ex-aequo incompatibles, relancez un jet de choix entre les gagnants jusqu'à ce qu'il n'y ait plus d'incompatibilité.
-
-Autre méthode si vous avez un jeu de cartes (ce qui est probable pour la sélection des intrigues):
-
-* Tirez une carte par élément. L'élément de la liste qui l'emporte est celui qui a la meilleure carte. Ordre croissant des couleurs: carreau, trèfle, coeur, pique.
-
-Autre méthode quand on a une liste très longue :
-
-* Faire à la louche par dichotomie. On divise en 3 ou 6 la liste initiale et on jette un dé pour savoir dans quelle partie on est puis on itère sur la partie sélectionnée. Ne pas être trop précis dans cette méthode, c'est juste pour cibler une réponse.
-
-== Jets de distance
-
-Ces jets permettent de répondre à des questions fermées pour mesurer une distance (Qui, Quand, Combien, Où ?...)
-
-
-|===
-|D6 |Qui? |Où? |Quand?| Combien?
-|1-2 |Protagoniste |Ici |Avant |Peu
-|3-4 |Neutre |Proche |Maintenant |Normal
-|5-6 |Antagoniste |Loin |Après |Beaucoup
-|===
-
-
-== Jets de direction
-
 Ces jets permettent de répondre à des questions ouvertes.
 
 Les interprétations se basent sur la numérologie du résultat d'un D6.

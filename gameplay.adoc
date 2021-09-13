@@ -10,25 +10,20 @@ Une partie se déroule en trois étapes:
 
 == Le cadrage
 
-Le cadrage a définir l'univers de jeu et de le présenter en répondant aux 6 questions suivantes:
+Le cadrage a définir l'univers de jeu et à mettre en phase tous les joueurs sur la partie à jouer.
 
-1. OU, QUAND: Quels sont les **lieux types** ? A quelle époque joue-t'on ?
-    - En particulier: où se déroulera l’action en début de partie?
-2. QUI: Quelles sont les **rencontres types** ?
-    - En particulier: quelle est la population locale, les voisins connus?
-3. COMMENT: Quelles sont les **scènes types** du jeu dans cet univers ?
-    - En particulier: ce que vous aimez ou n'aimez pas dans ce type d'univers
-4. QUOI: Quelles sont les **menaces types** ? Quels sont les problèmes ou dangers usuels de cet univers ? Quelles sont les sources connues de conflit ?
-5. COMBIEN: Quelles sont les **ressources types** ? Qu'est ce qui a de la valeur dans cet univers ?
-    - En particulier c'est le moment pour définir les grandes lignes de pouvoir, le groupe des héros, l'économie, la technologie, le système de magie, etc...
-6. POURQUOI: Quels sont les **enjeux types**. Quels sont les buts personnels ou collectifs habituels dans cet univers ?
-    - En particulier: quelles sont les motivations profondes des gens et plus particulièrement des héros (missions types) ?
+On pourra s'appuyer sur les questions suivantes du cadrage.
 
-Suivant le mode de jeu, cela peut être la Destinée qui répond à toutes les questions et présente ainsi le monde mais si on est en mode tresse, on peut passer 2 minutes par question pour mettre en commun les réponses validés par tous.
+Suivant le mode de jeu, cela peut être la Destinée qui répond à toutes les questions et présente ainsi le monde mais on peut aussi passer 2 minutes par question pour mettre en commun les réponses validés par tous.
 
 Dans cette phase, il s'agit juste de choisir l'univers de jeu et d'en avoir une vision commune au niveau des grandes lignes. On ne détaille pas dans cette étape.
 
-Durée: 30 minutes
+Durée: variable mais ne devrait pas être trop long (30 minutes)
+
+[.underline]#Ressources#:
+
+* *questions -> cadrage*: des questions pour le cadrage
+
 
 == Les préparatifs
 
@@ -58,18 +53,10 @@ Il suffit de prendre une feuille A4 et de répondre aux questions suivantes.
 
 Les réponses pourront servir de traits par la suite dans les oppositions.
 
-- quel(s) nom(s) me donne-t'on ?
-- que voit on quand on me rencontre ?
-- quelles sont mes croyances personnelles ?
-- quelle est mon occupation ?
-- quels sont mes liens d'appartenance ? (En particulier à plusieurs héros la question du groupe sera à déterminer)
-- quels sont mes instincts ?
-- qu'est ce qui est sacré pour moi ?
-- qu'est ce que je déteste ?
-- quelles sont mes valeurs ?
-- quels sont mes talents et mes atouts ?
-- quels sont mes faiblesses et mes failles ?
-- ai-je des expressions types ?
+[.underline]#Ressources#:
+
+* *questions -> héros* : un questionnaire simple pour créer un héros
+* *questions -> groupe* : un questionnaire simple pour créer un groupe de héros
 
 === Préparation de l'histoire
 
@@ -81,14 +68,29 @@ Chaos peut utiliser des feuilles A4 pliée en 2 mais utilisée horizontalement u
 - on réfléchit à des enjeux éventuels (en gros des questions auxquels il faudra répondre pendant le jeu)
 - on développe au moins 1 menace qui se développe en au moins 3 étapes (idéalement 6).
 
+[.underline]#Ressources#:
+
+* *lexiques -> intrigues* : une liste de 34 intrigues avec tirage au sort à base de cartes à jouer.
+* *questions -> menace* : des questions à se poser quand on veut créer une menace
+
 == L'immersion
 
 === Début de l'histoire
 
-* Cosmos choisit un lieu.
-* Heros déclare pourquoi il est dans ce lieu.
-* Chaos amène l'imprevu, quelque chose d'inhabituel qui permettra de faire le lien
-entre les héros et une menace ou une intrigue.
+On commence l'histoire comme on le souhaite mais l'idée est de présenter les protagonistes et de les accrocher c'est à dire de les lier à une intrigue.
+
+[.underline]#Ressources#:
+
+* *questions -> au commencement*: des questions pour commencer le récit.
+
+=== Pendant la partie
+
+On s'appuie essentiellement sur les fiches de héros, groupe, menaces et autres lexiques créés pendant la préparation mais on peut aussi utiliser d'autres lexiques prêts à jouer.
+
+[.underline]#Ressources#:
+
+* *lexiques -> génériques*: un certain nombre de lexiques génériques valables dans n'importe quel univers.
+
 
 == Le débrief
 
@@ -97,3 +99,7 @@ ce qu'on a aimé, ce qu'on aimerait, etc...
 
 Une façon ludique et immersive est de jouer le débrief en RP, dans une scène où les protagonistes discutent entre eux de ce qu'ils ont vécu,
 ou encore en faisant jouer une scène où les protagonistes doivent faire leur rapport à un autre personnage.
+
+[.underline]#Ressources#:
+
+* *questions -> débrief*: des questions à se poser pendant un débrief

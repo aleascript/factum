@@ -1,19 +1,85 @@
 = Les Modes de jeu
 :doctype: book
 
-== Mode tresse
+Factum est un jeu de rôles. Il y a deux acceptions au sens du mot rôle:
+
+* L'acception courante: les joueurs vont incarner des personnages dans la fiction.
+* L'acception meta: un jeu de rôle est un jeu asymétrique dans lequel les joueurs n'ont pas forcément le même rôle.
+
+Nous garderons donc le mot rôle pour l'acception courante et utiliserons le mot **responsabilité** pour l'acception meta.
+
+Voici ci-dessous une liste de responsabilités classiques ou possibles dans un Jdr:
+
+- Protagoniste: s'occupe de jouer un 1er rôle en tant que "héros" de l'histoire (le PJ)
+- Menace: s'occupe de gérer les menaces et les obstacles qui vont à l'encontre des protagonistes
+- Scénariste: a une trame en tête à faire jouer aux joueurs
+- Voix-off: présente, ou commente le récit de manière détachée
+- Régisseur: s'occupe des décors et des costumes
+- Spectateur: suit l'histoire à la marge en donnant son avis
+- Producteur: a une vision de l'histoire qu'il aimerait produire (sans en connaitre tous les tenants)
+- DJ: crée une ambiance sonore dans la partie
+- Destin: s'occupe de gérer le destin (spécifique à Factum)
+- Encyclopédiste: connait tout sur le monde
+- Figurants: s'occupe de décrire les figurants voire de jouer certains petits rôles
+- ...
+
+On voit donc là que les responsabilités sont multiples, ce qui donne des pistes pour explorer d'autres modes de jeu que le mode classique (qui est quand même rappelé ci-dessous car il a fait ses preuves).
+
+Nous présentons ici quelques modes mais n'hésitez à utiliser des variantes en jouant sur les responsabilités des uns et des autres.
+
+== Gestion des litiges
+
+Il peut arriver dans une partie qu'un litige émerge autour de la table.
+
+Je conseille de tenter de spécifier le litige
+
+* Est-ce un désaccords ou une question de préférence ?
+* Le litige porte sur une élément plutôt technique, fictionnel ou relationnel ?
+
+On peut ensuite utiliser divers outils pour trancher:
+
+- l'unanimité: il faut que l'ensemble des responsabilités tombent d'accord.
+- la majorité: il faut qu'on ait une majorité de responsabilités.
+- le hasard: on tire au sort l'option qui sera validée.
+
+Note: quand il y a plusieurs joueurs par responsabilité, ils doivent d'abord se mettre d'abord d'accord entre eux pour exprimer leur avis. Dans certains cas, le choix pourrait aussi se faire uniquement entre les responsables impliqués et concernés par le litige.
+
+== Mode solo
+
+Un seul joueur a toutes les responsabilités. Il utilise les lexiques comme Oracles pour rajouter de la surprise et sur le destin pour connaitre l'orientation des événements: positifs ou négatifs ou neutres.
+
+Une autre façon de jouer est de répondre en solo aux questions ou de préparer des lexiques pour préparer une prochaine partie en mode legacy.
+
+== Mode legacy
+
+C'est le mode classique des jeux de rôles.
 
 Dans ce mode, on a:
 
-* **Cosmos**: le joueur en charge du monde et du destin
-* **Chaos**: le joueur en charge des menaces et de l'intrigue
-* **Héros**: les joueurs en charge des protagonistes
+* La **Destinée**: le joueur en charge du monde, des menaces et de l'intrigue. C'est le meneur de jeu classique.
+* Les **Héros**: les joueurs en charge des protagonistes.
 
-Le mode tresse c'est une sorte de jeu de rôles à 2 MJ mais qui ont tous les deux des rôles distincts.
+Lors du cadrage, la **Destinée** répondra aux questions du cadrage mais pourra proposer des choix aux **Héros**.
+
+Note: généralement la Destinée a déjà un univers prêt à jouer dans ce type de mode.
+
+== Mode tresse
+
+C'est le mode le plus innovant de Factum et qu'on essaie de mettre en avant.
+
+Il fonctionne à partir de 3 joueurs mais une configuration à 4 ou 6 joueurs est mieux (1 Cosmos, 1 Chaos et 2 à 4 Héros).
+
+Dans ce mode, on a:
+
+* **Cosmos**: le joueur responsable du monde et du destin
+* **Chaos**: le joueur responsable des menaces et de l'intrigue
+* **Héros**: les joueurs responsable des protagonistes (un protagoniste par joueur)
+
+Le mode tresse c'est une sorte de jeu de rôles à 2 MJ mais qui ont tous les deux des responsabilités distinctes.
 
 Le mode tresse veut aussi faciliter les parties sur le pouce pour décharger le meneur.
 
-Note: personnalités des joueurs et rôles dans le mode tresse.
+Note: personnalités des joueurs et responsabilités dans le mode tresse.
 
 - Héros = moi je, immersion
 - Chaos = le troll, aime jouer les méchants
@@ -27,19 +93,4 @@ Cela ne gêne normalement pas la fiction car juste après l'interprétation, Cha
 
 _Règle optionnelle: quand Chaos se saisit de l'interprétation d'un résultat au nom de l'histoire, le destin gagne un point et donc Cosmos gagne un dé protagoniste (bleu). A appliquer si Chaos a tendance à empiéter sur les interprétations de Cosmos._
 
-== Mode legacy
-
-Dans ce mode, on a:
-
-* La **Destinée**: le joueur en charge du monde, des menaces et de l'intrigue (il cumule Cosmos et Chaos du mode tresse en fait).
-* Les **Héros**: les joueurs en charge des protagonistes
-
-Lors du cadrage, la **Destinée** répondra aux questions du cadrage mais pourra proposer des choix aux **Héros**.
-
-Note: généralement la Destinée a déjà un univers prêt à jouer dans ce type de mode.
-
-== Mode solo
-
-Un seul joueur joue le rôle de Chaos, Cosmos et des Héros. Il s'appuie dans ce cas sur les Oracles pour rajouter de la surprise et sur le destin pour connaitre l'orientation des événements: positifs ou négatifs ou neutres.
-
-Une autre façon de jouer est de faire en solo des cadrages et des préparations pour préparer une prochaine partie en mode legacy.
+include::principes.adoc[Les principes]

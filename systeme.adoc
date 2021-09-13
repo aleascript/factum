@@ -6,6 +6,8 @@ Le jeu se joue avec des dés à 6 faces (D6).
 Si vous jouez en mode tresse, prévoyez des dés de 2 couleurs différentes
 (exemple : rouges pour les obstacles et bleus pour les protagonistes).
 
+Prévoyez également des feuilles A4 et des crayons ainsi que d'éventuels petits papiers.
+
 == Les traits
 
 Un trait est un diminutif de trait caractéristique. Il s'applique autant aux personnages (protagonistes, ennemis, alliés) qu'aux obstacles ou encore au contexte environnant.
@@ -71,9 +73,13 @@ De plus, on peut créer des jauges positives pour mesurer un avancement positif 
 
 Le destin mesure la prise de risque des protagonistes. Elle est commune à la partie et à tous les protagonistes.
 
+Le destin permet d'équilibrer les difficulés rencontrées en récompensant les prises de risque.
+
 C'est un nombre qui vaut zéro en début de partie et peut être ensuite négatif ou positif.
 
 Le joueur en charge de gérer le Destin est appelé la Destinée.
+
+Note: on peut tout à fait jouer sans destin mais cela pourrait donner un côté arbitraire aux difficultés.
 
 == Les oppositions
 
@@ -155,6 +161,10 @@ Les différents résultats sont dans la main de la Destinée. Il peut proposer d
 
 Evidemment à tout moment le protagoniste peut changer son objectif et c'est même souhaitable pour ne pas rendre le jeu monotone.
 
+Les fiascos et les exploits sont d'excellentes occasions pour révéler un trait sur un protagoniste (lâche, courageux, futé, ami/ennemi d'untel, etc...).
+
+Les fiascos et les exploits vont plutôt révéler des choses surprenantes. En effet, on peut également faire de l'obtention  d'un trait ou d'un avancement de jauge l'enjeu de l'opposition. Dans ce cas, il sera possible d'obtenir un trait de jauge ou un trait en cas de succès ou d'échec également. Et en cas de fiasco ou échec, il y aura une suprise négative ou positive en plus.
+
 Dans certains cas, on ne veut pas jouer la situation mais juste en connaitre l'issue. Les résultats partiels peuvent être difficiles à interpréter mais on peut utiliser la table suivante pour les interpréter:
 
 * Succès/Echec partiels: couleur, émotion, ressenti sans impact réel
@@ -221,3 +231,4 @@ En cas de destin positif, on donnera l'initiative aux protagonistes.
 En cas de destin négatif, on donnera l'initiative à l'adversaire.
 
 Si le litige est entre les protagonistes, on pourra jouer les oppositions en parallèle et déterminer que le premier à agir est celui qui a eu le meilleur résultat.
+

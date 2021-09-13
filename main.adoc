@@ -10,16 +10,21 @@ Version 0.1
 :keywords: JdR, Solo
 :imagesdir: ./img
 
-[quote]
 ____
-L'imagination est une ressource infinie, gratuite et partageable.
+Factum: récit de l'une des parties, destiné aux juges, exposant sommairement les faits d'un procès.
 ____
+
+
 
 Factum est un jeu de rôle comprenant:
 
 * un système générique de résolution sans stats qui se veut *simple*, *réaliste* et *inspirant*
 * plusieurs modes de jeu: *solo*, *legacy* (classique), *tresse*
-* un système d'oracle (conçu plutôt pour le mode solo)
+* des ressources génériques prêtes à jouer sous forme de **questions** ou de **lexiques**
+
+____
+L'imagination est une ressource infinie, gratuite et partageable.
+____
 
 include::systeme.adoc[Système de résolution]
 
@@ -27,11 +32,5 @@ include::modes.adoc[Modes de jeu]
 
 include::gameplay.adoc[Déroulement d'une partie]
 
-include::principes.adoc[Les principes]
 
-include::lexiques.adoc[Lexiques & Menaces]
-
-include::oracles.adoc[Oracles]
-
-include::intrigues.adoc[Intrigues]
 

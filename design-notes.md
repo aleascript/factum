@@ -297,12 +297,12 @@ En effet, de manière courante, on entend par rôle, le roleplay, la capacité �
 
 J'ai du mal à me satisfaire d'une organisation statique. J'ai donc tenté de simplifier en identifiant 2 types de ressources: 
 
-* les questionnaires 
+* les questions 
 * les lexiques 
 
 C'est aussi simple que cela. 
 
-Cela a comme avantage, qu'on peut modifier, étendre le jeu très facilement en créant, modifiant des questionnaires et des lexiques propres à l'ambiance qu'on veut créer. 
+Cela a comme avantage, qu'on peut modifier, étendre le jeu très facilement en créant, modifiant des questions et des lexiques propres à l'ambiance qu'on veut créer. 
 
 ## Les lexiques en tant qu'Oracles 
 

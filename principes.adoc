@@ -1,4 +1,4 @@
-= Principes de jeux
+= Principes de jeu du mode Tresse
 :doctype: book
 
 == Principes valables pour tous les joueurs
@@ -71,18 +71,6 @@ d’ouvrir des portes
 * Je redonne la main
 * Je peux trancher certaines questions à la marge (via le destin)
 
-Rôles de Cosmos:
-
-- Voix-off
-- Régisseur
-- Spectateur
-- Producteur
-- DJ
-- Fait intervenir la cavalerie
-- Tend des perches
-- Destin
-- Encyclopédiste
-- Figurants
 
 == Principes pour les Héros
 
@@ -98,17 +86,3 @@ Rôles de Cosmos:
 * J’imagine des phrases ou des expressions types
 * Je suis le seul à pouvoir choisir quand mon héros peut mourir
 
-== Litiges
-
-Spécifier le litige
-
-* Désaccords ou préférences ?
-* Technique, fictionnel ou relationnel ?
-
-Outil pour trancher:
-
-- l'unanimité: il faut que héros + chaos + cosmos tombent d'accord
-- la majorité: il faut qu'on ait 2 rôles sur 3 seulement (héros/chaos,
-cosmos/chaos, héros,cosmos ou héros/chaos/cosmos).
-
-Note: s'il y a plusieurs héros, les héros doivent se mettre d'abord d'accord entre eux pour exprimer leur avis. Dans certains cas, le choix se fait uniquement entre les héros impliqués et concernés par le litige.

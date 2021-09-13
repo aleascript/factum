@@ -584,8 +584,8 @@ Pour créer un jeu, vous aurez besoin de ressources.
     - Par exemple, une explication sur un aspect particulier 
     - Par exemple, un règlement, une lettre que tout le monde connait...
 
-* des **questionnaires**: 
-    - un questionnaire pour créer son personnage par exemple. 
+* des **questions**: 
+    - des questions pour créer son personnage par exemple. 
 
 * des **listes**: 
     - Par exemple, un lexique de mots concernant tel ou tel champ. _Les lexiques sont très utiles pour plonger les joueurs dans l'univers fictionnel et leur donner des sources d'inspiration._ 
