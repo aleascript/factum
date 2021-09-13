@@ -1,18 +1,20 @@
 = Déroulement d'une partie
 :doctype: book
 
-Une partie se déroule en trois étapes:
+Une partie se déroule en plusieurs étapes:
 
-* Le cadrage
-* Les préparatifs
-* L'immersion
-* Le débrief
+1. Le cadrage (optionnel)
+2. Les préparatifs
+3. L'immersion
+4. Le débrief (optionnel)
+
+Nous indiquerons les ressources disponibles dans chacune des phases du jeu. Vous être libres ou pas de les utiliser ou d'en utiliser d'autres. Factum est pour cela très modulaire et facilement "customisable".
 
 == Le cadrage
 
-Le cadrage a définir l'univers de jeu et à mettre en phase tous les joueurs sur la partie à jouer.
+Le cadrage permet de définir l'univers de jeu et de mettre tous les joueurs en phase.
 
-On pourra s'appuyer sur les questions suivantes du cadrage.
+On pourra s'appuyer sur des questions à poser à tous les joueurs.
 
 Suivant le mode de jeu, cela peut être la Destinée qui répond à toutes les questions et présente ainsi le monde mais on peut aussi passer 2 minutes par question pour mettre en commun les réponses validés par tous.
 
@@ -22,7 +24,8 @@ Durée: variable mais ne devrait pas être trop long (30 minutes)
 
 [.underline]#Ressources#:
 
-* *questions -> cadrage*: des questions pour le cadrage
+* *questions -> cadrage*: des questions pour cadrer l'univers et le type de jeu que l'on souhaite.
+* *questions -> ambiance*: des questions si l'on veut spécifier l'ambiance.
 
 
 == Les préparatifs
@@ -49,9 +52,11 @@ Note: on peut échanger des petits papiers avec Chaos pour cacher des infos aux 
 
 En mode tresse, chaque Héros crée son héros.
 
-Il suffit de prendre une feuille A4 et de répondre aux questions suivantes.
+Il suffit de prendre une feuille A4 et de répondre à des questions pour créer son personnage.
 
 Les réponses pourront servir de traits par la suite dans les oppositions.
+
+On peut également créer un groupe de héros en répondant aux questions sur le groupe.
 
 [.underline]#Ressources#:
 
@@ -89,7 +94,9 @@ On s'appuie essentiellement sur les fiches de héros, groupe, menaces et autres 
 
 [.underline]#Ressources#:
 
-* *lexiques -> génériques*: un certain nombre de lexiques génériques valables dans n'importe quel univers.
+* *lexiques -> génériques*: un certain nombre de lexiques génériques valables dans n'importe quel univers. (pour Cosmos et Chaos en mode tresse)
+* *lexiques -> distances*: un petit lexique orienté oracle pour mesurer une distance (spatiale, temporelle, ....) (pour Cosmos et Chaos plutôt en mode tresse)
+* *lexiques -> directions symboliques*: un petit lexique orienté oracle pour répondre à des questions ouvertes (pour Cosmos plutôt en mode tresse)
 
 
 == Le débrief

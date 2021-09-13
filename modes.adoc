@@ -46,9 +46,33 @@ Note: quand il y a plusieurs joueurs par responsabilité, ils doivent d'abord se
 
 == Mode solo
 
-Un seul joueur a toutes les responsabilités. Il utilise les lexiques comme Oracles pour rajouter de la surprise et sur le destin pour connaitre l'orientation des événements: positifs ou négatifs ou neutres.
+La façon la plus simple de jouer en solo est de répondre  aux questions ou de préparer des lexiques pour préparer une prochaine partie en mode legacy. C'est plus une préparation d'un mode de jeu soit en passant.
 
-Une autre façon de jouer est de répondre en solo aux questions ou de préparer des lexiques pour préparer une prochaine partie en mode legacy.
+On peut alors choisir de jouer intégralement en solo avec un seul joueur qui devra alors endosser toutes les responsabilités. Il utilise les lexiques comme Oracles pour rajouter de la surprise et sur le destin pour connaitre l'orientation des événements: positifs ou négatifs ou neutres.
+
+En solo: vous pouvez procéder de la sorte:
+
+Vous jouez la phase de cadrage et les préparatifs en alternant les différentes responsabilités en terminant par Chaos pour un choix d'intrigues.
+
+Puis vous pouvez jouer la partie en enchaînant les situations:
+
+1. Phase d'immersion (protagonistes): pour déterminer là où ils sont, ce qu'ils font, ce qu'ils veulent faire.
+2. Phase de destin (destinée): pour déterminer si l'objectif des protagonistes va être possible dans la situation à jouer ou si l'on insère un contretemps. On décide alors dans cette phase des éléments de menace, de dangers qu'on veut mettre en avant.
+3. Phase mixte (protagonistes/destinée): on joue alors la situation.
+4. Phase d'immersion (protagonistes) [optionnelle]: permet de conclure la situation ou retour à la phase 1. pour enchaîner sans plus attendre.
+
+**Utilisation du Destin**
+
+En solo, quand le Destin est négatif, on peut faire un jet de destin au début de chaque nouvel embranchement fictionnel: on jette alors un dé et si le jet est inférieur à la valeur absolue du Destin, alors la prochaine situation sera un contretemps pour les protagonistes.
+
+**Utilisation des oracles**
+
+Les oracles sont plus utilisés quand on joue en solo pour avoir le niveau de surprise d'une partie à plusieurs.
+
+**Utilisation des résolutions**
+
+En solo, on utilise les résultats ratés (échec et fiasco) des résolutions pour créer de la surprise et amener des révélations.
+
 
 == Mode legacy
 
@@ -62,6 +86,13 @@ Dans ce mode, on a:
 Lors du cadrage, la **Destinée** répondra aux questions du cadrage mais pourra proposer des choix aux **Héros**.
 
 Note: généralement la Destinée a déjà un univers prêt à jouer dans ce type de mode.
+
+=== Jouer à deux
+
+Il n'y a normalement pas de difficulté pour jouer à deux : la Destinée et un Protagoniste.
+
+Pour autant, cela nécessite souvent de fournir un allié au protagoniste sans que cet allié fasse tout à sa place. Prévoyez donc un allié difficile à gérer qui soit aussi source de conflit en marge des enjeux de l'histoire.
+
 
 == Mode tresse
 

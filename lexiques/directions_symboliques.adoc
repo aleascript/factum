@@ -1,3 +1,5 @@
+= Directions symboliques
+
 Ces jets permettent de répondre à des questions ouvertes.
 
 Les interprétations se basent sur la numérologie du résultat d'un D6.
@@ -27,3 +29,17 @@ Les interprétations se basent sur la numérologie du résultat d'un D6.
 |===
 
 On peut également ajouter ici une catégorie spécifique au jeu pour spécifier 6 directions symboliques en accord avec le canon du jeu qu'on souhaite créer.
+
+== Créer un second rôle à la volée
+
+On commence par déterminer sa **disposition** générale vis à vis des protagonistes:
+
+* Soit par 1 jet de **distance**: bienveillant (1-2), neutre (3-4), malveillant (5-6)
+* Soit en utilisant le **Destin**. Si le Destin est à zéro, le personnage est plutôt neutre et si il n'est pas nul, on fait un jet de destin: si le résultat est inférieur à la valeur absolue du Destin, alors le personnage est bienveillant en cas de Destin positif ou malveillant en cas de Destin négatif et sinon il est neutre.
+
+Puis on affine de la manière suivante:
+
+*  1 jet symbolique pour connaître l'**objectif** ou la **mission** du second rôle
+*  1 jet symbolique pour connaître les **moyens** ou les **motifs** du second rôle.
+
+Cela donne 108 combinaisons. On peut même affiner encore plus en ajoutant un 4ème jet symbolique pour déterminer le **secret** ou la **faiblesse** du second rôle (ce qui aboutit à 648 types possibles).

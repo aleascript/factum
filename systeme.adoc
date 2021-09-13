@@ -198,12 +198,33 @@ Lors d'un répit ou en fin de session:
 
 === Niveaux héroïques et mythiques
 
+* Certains talents, pouvoirs peuvent être héroïques. Dans ce cas, ils rapportent 2D.
+* On peut même envisager des talents, pouvoirs mythiques. Dans ce cas, ils rapportent 3D.
+
+Quand on recalcule le Destin, on doit compter le nombre de dés et donc un talent héroïque coûte 2 points de destin et un talent mythique coûte 3 points de destin.
+
+Une confrontation entre des personnages de niveaux différents est souvent source d'un déséquilibre du Destin en positif ou en négatif donc il est commun que les protagonistes évitent ce genre de confrontation.
+
+En particulier, l'utilisation des capacités pour les personnages puissants coûtent beaucoup (2 ou 3 points de destin), par conséquent ce genre de personnages évitent d'utiliser de telles capacités à tout bout de champ.
+
+Si vous jouez une saga avec des personnages hors-normes (vampires, super-héros, anges, démons, magie), vous pouvez classer les pouvoirs dans la catégorie héroïque mais ce n'est pas une obligation.
+
+En effet, un pouvoir n'est pas forcément puissant: il permet juste de faire des choses non réalisables par des humains réels et en cela il devient donc un avantage pour résoudre des obstacles a priori insurmontables pour des humains lambdas.
+
+On note les caractéristiques héroïques en rajoutant un signe plus  `+` à côté. On note les caractéristiques mythiques en rajoutant deux signes plus `++` à côté.
+
+Grâce aux puissances, on pourrait aussi permettre de transformer une manœuvre en réflexe. Dans ce cas, une manœuvre pourrait être déclenchée sous forme de réflexe mais en n'amenant 1D de moins. Ainsi une manœuvre héroïque pourrait devenir un réflexe héroïque à 1D et une manœuvre mythique pourrait devenir un réflexe mythique à 2D. Dans le premier cas, la résolution ne serait alors plus éligible au Deus Ex Alea alors que dans le deuxième cas, la résolution le serait (voir la prochaine section).
+
+[.underline]#Résumé#
+
+----
 * Héroïque (extraordinaire): noté + (+1D)
 * Mythique (unique): noté ++ (+2D)
 
-Permet aussi de passer de manœuvre à réflexe (coût 1D).
+Permet de passer de manœuvre à réflexe (coût 1D).
 
-Un trait héroïque peut aussi de transformer un trait de couleur en trait aptitude (coût 1D).
+Peut transformer un trait de couleur en trait aptitude (coût 1D).
+----
 
 === Deus Ex Alea
 
@@ -222,6 +243,10 @@ On peut vouloir rendre l'intervention divine incontrôlable. Dans ce cas, on peu
 
 _Exemple: après un échec (-2), un Deus Ex Alea sort avec un destin à -5. On termine donc l'opposition sur un exploit (OUI ET ET en fait même) et la jauge de destin retombe à zéro._
 
+**Corollaire du Deus Ex Alea**:
+
+Les personnages puissants pourraient avoir intérêt à jouer avec les personnages moins puissants en ne faisant pas étalage de tout leur potentiel et donc en n'utilisant qu'un seul de leur trait héroïque dans une résolution pour maximiser l'apparition du Deus Ex Alea.
+
 === Initiative
 
 Dans certains cas, il sera important de connaitre l'ordre d'action. Dans ce cas, on pourra facilement trancher en regardant la valeur du destin.
@@ -232,3 +257,12 @@ En cas de destin négatif, on donnera l'initiative à l'adversaire.
 
 Si le litige est entre les protagonistes, on pourra jouer les oppositions en parallèle et déterminer que le premier à agir est celui qui a eu le meilleur résultat.
 
+=== Transformation du Destin en Fortune
+
+Cette règle est optionnelle et consiste à donner en fin de partie autant de Fortunes à chaque Protagoniste que la valeur du Destin (si elle est positive bien sûr). En cas de Destin négatif, on ne retire pas de Fortune.
+
+_Exemple: à la fin de la partie le Destin est à +3, chaque joueur recevrait donc 3 Fortunes chacun._
+
+Cette règle est intéressante si votre groupe a subi beaucoup de jauges négatives en prenant des risques et a donc à la fin de la partie un Destin positif. Cela est d'autant plus le cas si les Protagonistes ont utilisé peu de traits dans les résolutions ce qui a diminué leur chance de Fortune.
+
+Cette règle est uniquement là pour pallier un éventuel déséquilibre et ne devrait pas en théorie être systématique.
