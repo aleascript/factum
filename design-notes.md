@@ -284,3 +284,61 @@ Reste maintenant à définir aussi une organisation de classement pour pouvoir s
 Une autre piste de recherche est celle des cartes. 
 
 Préparer des cartes et les révéler au fil du jeu. 
+
+# Les modes de jeu  
+
+J'ai tenté de me départir des réflexes acquis par des années de jeux de rôles. 
+
+Et c'est donc pour cela que j'ai voulu inclure différents modes de jeu pour sortir du modèle classique (MJ/PJ). Pour l'instant je sèche encore sur l'ambivalence du mot rôle dans jeu de rôles. 
+
+En effet, de manière courante, on entend par rôle, le roleplay, la capacité à incarner le rôle d'un personnage (un PJ ou un PNJ) mais d'un autre côté le rôle peut également désigner le rôle du joueur au sein du jeu: est-il meneur ou joueur ? Et cette ambivalence est d'autant plus présente quand on commence à travailler sur les différents modes: le joueur est-il le Chaos en charge des menaces sur les Héros, ou est-il un héros, ou encore est-il le Cosmos en charge de donner vie au monde ? Mais si l'on va meme plus loin, son rôle pourrait être DJ, spectateur, régisseur ? (voir tous les rôles de Cosmos?)
+
+# Organisation des ressources
+
+J'ai du mal à me satisfaire d'une organisation statique. J'ai donc tenté de simplifier en identifiant 2 types de ressources: 
+
+* les questionnaires 
+* les lexiques 
+
+C'est aussi simple que cela. 
+
+Cela a comme avantage, qu'on peut modifier, étendre le jeu très facilement en créant, modifiant des questionnaires et des lexiques propres à l'ambiance qu'on veut créer. 
+
+## Les lexiques en tant qu'Oracles 
+
+Par définition, un lexique étant une liste d'éléments ayant le même thème, il peut tout à fait servir d'Oracle. 
+
+Mais je n'ai pas encore trouvé un moyen simple de pouvoir tirer au sort un élément dans une liste quelconque. 
+
+Quelques pistes: 
+
+- quand la liste est courte et paire, on peut utiliser un dé. (3 avec un D6)
+- quand la liste est longue mais pas trop, on peut utiliser des cartes classiques
+- on peut également répartir par dichotomie et lancer plusieurs dés mais cela nécessite une mise en place pour être utilisée
+- utiliser les milliseconds pour obtenir un nombre correspondant à ce qu'on cherche mais cela pose un probleme car on est en base 10. (exemple d'une liste à 12 -> il faut donc un résultat à 2 chiffres et on va donc rejeter un tas de résultats (>12) avant d'arriver au bon résultat)
+- utiliser une appli de génération de nombres aléatoires (ca repond au probleme mais assez fastidieux et trop technologique)
+
+
+Bref, c'est le probleme du moment mais je doute de pouvoir trouver un algo naturel (dés, cartes, ...) facile à utiliser. 
+
+Apres, on peut aussi dire qu'il y a: 
+
+* des lexiques clairement orientés Oracle et présentés avec leur table de correspondance (distance, directions symboliques, intrigues)
+* des lexiques orientés inspiration et présentés sous forme de liste (avec toujours la possibilité de les utiliser en Oracle moyennant une application)
+
+Lexique compact: présenter les lexiques avec des numéros (soit a la ligne mais aussi en liste pour etre plus compact mais moins lisible pour le coup)
+
+1. borné 2. accueillant 3. grognon 4. renfrogné 5. bourru  6. jovial 7. accablé
+
+Lexique développé: 
+
+1. borné 
+2. accueillant 
+3. grognon 
+4. renfrogné 
+5. bourru  
+6. jovial 
+7. accablé
+
+
+
