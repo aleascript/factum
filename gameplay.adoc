@@ -8,7 +8,7 @@ Une partie se déroule en plusieurs étapes:
 3. L'immersion
 4. Le débrief (optionnel)
 
-Nous indiquerons les ressources disponibles dans chacune des phases du jeu. Vous être libres ou pas de les utiliser ou d'en utiliser d'autres. Factum est pour cela très modulaire et facilement "customisable".
+Nous indiquerons les ressources disponibles dans chacune des phases du jeu. Vous être libres de les utiliser ou d'en utiliser d'autres. Factum est pour cela très modulaire et facilement "customisable".
 
 == Le cadrage
 

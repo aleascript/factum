@@ -8,7 +8,7 @@ Le jeu s'appuie sur les ressources suivantes:
 
 Ces ressources sont très simples à utiliser, à modifier ou à créer. N'hésitez pas à enrichir votre jeu en créant les vôtres.
 
-=== Les questions
+== Les questions
 
 Les questions permettent tout simplement de créer un élément du jeu en répondant à des questions.
 
@@ -16,7 +16,7 @@ Les réponses sont globalement libres mais doivent être en accord avec les autr
 
 En général les questions sont formulées explicitement mais il est possible aussi d'avoir des ressources **questions** sous forme de "formulaire" avec des champs à remplir.
 
-=== Les lexiques
+== Les lexiques
 
 Les lexiques sont tout simplement des listes de noms, expressions qui pourront servir la narration mais également de facteurs clés dans  une opposition.
 

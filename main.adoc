@@ -15,8 +15,6 @@ ____
 Factum: récit de l'une des parties, destiné aux juges, exposant sommairement les faits d'un procès.
 ____
 
-
-
 Factum est un jeu de rôle comprenant:
 
 * un système générique de résolution sans stats qui se veut *simple*, *réaliste* et *inspirant*.
@@ -35,7 +33,7 @@ include::gameplay.adoc[Déroulement d'une partie]
 
 include::modes.adoc[Modes de jeu]
 
-= Auteur & Remerciements
+== Auteur & Remerciements
 
 * **Auteur**: AleaScript mailto://aleascript@gmail.com[aleascript@gmail.com]
 
@@ -46,9 +44,3 @@ include::modes.adoc[Modes de jeu]
 * **Ressources**: https://github.com/aleascript
 
 * **Licence**: http://creativecommons.org/licenses/by/4.0/[Licence Creative Commons Attribution 4.0 International]
-
-
-
-
-
-
