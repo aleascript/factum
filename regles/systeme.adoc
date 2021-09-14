@@ -1,0 +1,268 @@
+= Le système de résolution
+:doctype: book
+
+Le jeu se joue avec des dés à 6 faces (D6).
+
+Si vous jouez en mode tresse, prévoyez des dés de 2 couleurs différentes
+(exemple : rouges pour les obstacles et bleus pour les protagonistes).
+
+Prévoyez également des feuilles A4 et des crayons ainsi que d'éventuels petits papiers.
+
+== Les traits
+
+Un trait est un diminutif de trait caractéristique. Il s'applique autant aux personnages (protagonistes, ennemis, alliés) qu'aux obstacles ou encore au contexte environnant.
+
+Dans certains cas, le même trait peut fournir un avantage alors que dans d'autres, il fournira un désavantage.
+
+Un trait applicable fournit 1D dans une opposition.
+
+=== Typologie non exhaustive des traits
+
+Pas besoin de noter quel type de traits il s'agit quand il est inscrit mais cette typologie peut aider à savoir s'ils seront ou pas des facteurs clés dans telle ou telle opposition.
+
+* Aptitude / Couleur
+* Manœuvre / Réflexe
+* Implicite / Explicite
+* Savoir-être / Savoir-faire
+* Propre / Externe
+* Défaut / Qualité
+* Relation
+* Matériel, Possession
+* Phrase, expression type
+* Simple / Composite
+
+=== Des traits OSR Like
+
+On peut tout à fait envisager d’utiliser un modèle à caractéristiques de type OSR (en plus d’autres traits plus spécifiques).
+
+* FOR, DEX, CHAR, INT, CON, SAG
+* Physique, Mental, Esprit
+
+Cela peut avoir une incidence sur la création du personnage.
+
+Exemples:
+
+* A 6 caractéristiques, choisir 2 traits forts et 1 trait faible.
+* A 3 caractéristiques, choisir 1 trait fort et 1 trait faible.
+
+C'est réducteur mais efficace pour caractériser rapidement un personnage (protagoniste ou obstacle).
+
+== Les jauges
+
+Les jauges mesurent l'épuisement d'un état ou d'une ressource quelconque.
+
+Elles se mesurent sur 3 niveaux:
+
+* I: dégradée
+* II: faible
+* [.line-through]#II#: épuisée
+
+Généralement un état à [.line-through]#II#: signifie la fin du protagoniste.
+Alors qu'une ressource à [.line-through]#II#: signifie plutôt l'impossibilité de réaliser des actions en lien avec cette ressource.
+
+Seuls les protagonistes ont des jauges. Mais on peut envisager de fournir des jauges pour des adversaires importants de la fiction. Ce sont les **boss** de la fiction. Dans ce cas, un succès des héros contre le boss en question pourra lui enlever une ressource ou avoir un impact de jauge. Si les héros réalisent un exploit on pourra envisager l'élimination du boss (sauf en cas de veto au niveau de l'intrigue et dans ce cas, on pourra avoir un impact de jauge important II au lieu de I ce qui rend le boss particulièrement affaibli en attendant qu'il se requinque).
+
+Une jauge influence aussi les oppositions:
+
+* Une jauge à I donne 1D de malus
+* Une jauge à II donne 2D de malus
+
+De plus, on peut créer des jauges positives pour mesurer un avancement positif (une montée en grade par exemple). Par contre, ces jauges positives ne donnent pas de dé de bonus.
+
+== Le Destin
+
+Le destin mesure la prise de risque des protagonistes. Elle est commune à la partie et à tous les protagonistes.
+
+Le destin permet d'équilibrer les difficulés rencontrées en récompensant les prises de risque.
+
+C'est un nombre qui vaut zéro en début de partie et peut être ensuite négatif ou positif.
+
+Le joueur en charge de gérer le Destin est appelé la Destinée.
+
+Note: on peut tout à fait jouer sans destin mais cela pourrait donner un côté arbitraire aux difficultés.
+
+== Les oppositions
+
+Quand un protagoniste veut agir contre un obstacle, on parle d'opposition.
+
+Le protagoniste annonce son objectif et on détermine les facteurs-clés de chaque camp par rapport à cet objectif: d'un côté les facteurs qui peuvent avantager le protagoniste, de l'autre ceux qui peuvent avantager l'obstacle.
+
+Chaque facteur-clé représente alors en terme de jeu 1D.
+
+N'oubliez pas non plus les jauges en lien avec l'opposition qui peuvent alors fournir dans ce cas 1D ou 2D à l'adversaire.
+
+Par défaut, une opposition est donc 1D contre 1D.
+
+On notera par la suite: x/y pour x dés protagoniste contre y dés obstacle.
+
+Si le nombre de dés du protagoniste est supérieur au nombre de dés de l'obstacle, on dit que le protagoniste est le favori.
+
+Si le nombre de dés du protagoniste est inférieur au nombre de dés de l'obstacle, on dit que le protagoniste est l'outsider.
+
+En cas d'égalité, on parle d'opposition équilibrée.
+
+=== Joueur contre joueur
+
+Il est possible qu'un protagoniste s'oppose à un autre. Dans ce cas, on considère que le protagoniste agresseur est l'obstacle, l'antagonisme du conflit et que le protagoniste agressé est le protagoniste du conflit. L'objectif de la résolution est donc celui de l'agressé.
+
+Mais dans ce cas, il n'y a pas lieu de recalculer le Destin sauf si la Destinée souhaite modifier l'équilibre de l'opposition en faisant intervenir des traits extérieurs pour tel ou tel camp. On pourra alors ajouter au destin la différence entre les dés ajoutés par la Destinée. _Exemple: si la Destinée ajoute un dé pour un joueur et ajoute deux dés pour l'autre joueur, on ajoutera un point de destin au final._
+
+=== Choix du zoom: action, séquence ou script
+
+Le système peut résoudre une action locale mais aussi toute une série d'actions étalées dans le temps (un plan donc).
+
+Le choix du zoom est souvent implicite.
+
+En cas d’ambiguïté c’est le héros impliqué qui choisit le niveau de zoom.
+
+== Influence sur le destin
+
+On ajoute au destin la différence entre le nombre de dés de l'obstacle et le nombre de dés du protagoniste.
+
+Exemples:
+
+- 2/2: le destin n'évolue pas.
+- 3/2: le destin perd un point
+- 4/6: le destin gagne deux points
+
+On peut utiliser un compteur mais on peut aussi utiliser des dés de couleur différente.
+
+_Exemple: dés rouges pour les obstacles et dés bleus pour les protagonistes. On procède de la sorte: quand on a déterminé la valeur de l'opposition (x/y), on a donc x dés rouges et y dés bleus. Si x et y sont différents, on prend la différence dans les dés de la couleur pour qu'on ait une opposition équilibrée et on les met de côté. Ainsi on a un pool de dés rouges et bleus à côté dont on élimine les duos rouge/bleu pour n'avoir qu'une seule couleur. Un nombre de dés rouges (dés obstacles) donne la valeur négative du destin alors qu'un nombre de dés bleus (dés protagonistes) donne la valeur positive du destin._
+
+== Jets de dés
+
+* Chaque camp jette ensuite les dés.
+* Pour chaque 6 obtenu, le camp peut lancer 1D supplémentaire.
+* Si lors de ces jets supplémentaires, un 6 apparait, on ne lance pas de dé supplémentaire.
+* On compte ensuite le nombre de chiffres pairs de chaque camp et on compare.
+
+== Résultats
+
+* Le nombre de pairs du protagoniste est supérieur au nombre de pairs de l'obstacle:
+- de un: c'est un **succès**.
+- de deux ou plus: c'est un **exploit**.
+* Le nombre de pairs du protagoniste est inférieur au nombre de pairs de l'obstacle:
+- de un: c'est un **échec**.
+- de deux ou plus: c'est un **fiasco**.
+* En cas d'égalité:
+- Il n'y a aucun pair: c'est un **échec partiel**.
+- Le nombre de pairs est supérieur à 0: c'est un **succès partiel**.
+
+== Interprétation
+
+* **Fiasco** (_Déplorable_): _(NON ET)_ l'objectif n'est pas atteint et le protagoniste subit une perte (jauge, trait, impact fictionnel désastreux).
+* **Echec** (_Raté_): _(NON)_ l'objectif n'est pas atteint. Suivant la fiction, on peut subir une perte.
+* **Echec partiel** (_Gêné_): _(NON MAIS)_ l'objectif n'est pas atteint mais une opportunité s'ouvre (pour réessayer éventuellement avec un bonus).
+* **Succès partiel** (_Mitigé_): _(OUI MAIS)_ l'objectif est atteint mais revu à la baisse. Quand l'objectif ne peut pas être mitigé, l'objectif est alors atteint mais le protagoniste subit une perte (jauge, trait).
+* **Succès** (_Réussi_): _(OUI)_ l'objectif est atteint.
+* **Exploit** (_Formidable_): _(OUI ET)_ l'objectif est atteint et le protagoniste remporte un gain inattendu (jauge, trait, impact fictionnel exceptionnel).
+
+Les différents résultats sont dans la main de la Destinée. Il peut proposer des options mais c'est lui qui décide s'il y a lieu de proposer la fin de l'opposition ou pas ou s'il pense qu'à ce moment là ca serait bien de continuer.
+
+Evidemment à tout moment le protagoniste peut changer son objectif et c'est même souhaitable pour ne pas rendre le jeu monotone.
+
+Les fiascos et les exploits sont d'excellentes occasions pour révéler un trait sur un protagoniste (lâche, courageux, futé, ami/ennemi d'untel, etc...).
+
+Les fiascos et les exploits vont plutôt révéler des choses surprenantes. En effet, on peut également faire de l'obtention  d'un trait ou d'un avancement de jauge l'enjeu de l'opposition. Dans ce cas, il sera possible d'obtenir un trait de jauge ou un trait en cas de succès ou d'échec également. Et en cas de fiasco ou échec, il y aura une suprise négative ou positive en plus.
+
+Dans certains cas, on ne veut pas jouer la situation mais juste en connaitre l'issue. Les résultats partiels peuvent être difficiles à interpréter mais on peut utiliser la table suivante pour les interpréter:
+
+* Succès/Echec partiels: couleur, émotion, ressenti sans impact réel
+* Succès/Echec: fait probable
+* Exploit/Fiasco: fait improbable
+
+=== La question du loot (butin)
+
+Très répandu dans le jeu de rôles, il s'agit de piller les ressources de l'adversaire vaincu. Cela paraît incompatible avec la règle des gains qui sont obtenus uniquement en cas d'exploit. On peut s'en sortir de la manière suivante:
+
+- distinguer les gains utiles uniquement pour la session en cours (donc non durables). Ces derniers peuvent être obtenus sur des succès simples.
+- utiliser le **jeu à somme nulle** pour justifier que des gains ne sont pas si utiles que ça: une armure trop lourde à porter ou qui n'est pas à sa taille, une arme qu'on ne sait pas vraiment utilisée, etc... Ainsi si le Héros veut utiliser le gain il aura un avantage mais aussi un handicap (+1/+1 donc).
+
+== Fortunes
+
+* Quand l'opposition est équilibrée ou que le protagoniste est favori, on gagne 1 point de fortune en cas de fiasco.
+* Quand le protagoniste est l'outsider de l'opposition, on gagne 1 point de fortune en cas d'exploit.
+
+== Utilisation des fortunes
+
+Lors d'une opposition:
+
+* On peut utiliser 1 fortune pour décaler le résultat d'une opposition (exemple: passer d'échec partiel à succès partiel). Utiliser 1 fortune pour décaler annule un potentiel gain en fortune.
+
+Lors d'un répit ou en fin de session:
+
+* On peut utiliser 1 fortune pour obtenir, supprimer, modifier un trait. Les joueurs devront chercher à le justifier narrativement.
+* On peut utiliser 1 fortune pour diminuer une jauge. Comme pour les traits, il faudra le justifier narrativement.
+
+== Règles avancées
+
+=== Niveaux héroïques et mythiques
+
+* Certains talents, pouvoirs peuvent être héroïques. Dans ce cas, ils rapportent 2D.
+* On peut même envisager des talents, pouvoirs mythiques. Dans ce cas, ils rapportent 3D.
+
+Quand on recalcule le Destin, on doit compter le nombre de dés et donc un talent héroïque coûte 2 points de destin et un talent mythique coûte 3 points de destin.
+
+Une confrontation entre des personnages de niveaux différents est souvent source d'un déséquilibre du Destin en positif ou en négatif donc il est commun que les protagonistes évitent ce genre de confrontation.
+
+En particulier, l'utilisation des capacités pour les personnages puissants coûtent beaucoup (2 ou 3 points de destin), par conséquent ce genre de personnages évitent d'utiliser de telles capacités à tout bout de champ.
+
+Si vous jouez une saga avec des personnages hors-normes (vampires, super-héros, anges, démons, magie), vous pouvez classer les pouvoirs dans la catégorie héroïque mais ce n'est pas une obligation.
+
+En effet, un pouvoir n'est pas forcément puissant: il permet juste de faire des choses non réalisables par des humains réels et en cela il devient donc un avantage pour résoudre des obstacles a priori insurmontables pour des humains lambdas.
+
+On note les caractéristiques héroïques en rajoutant un signe plus  `+` à côté. On note les caractéristiques mythiques en rajoutant deux signes plus `++` à côté.
+
+Grâce aux puissances, on pourrait aussi permettre de transformer une manœuvre en réflexe. Dans ce cas, une manœuvre pourrait être déclenchée sous forme de réflexe mais en n'amenant 1D de moins. Ainsi une manœuvre héroïque pourrait devenir un réflexe héroïque à 1D et une manœuvre mythique pourrait devenir un réflexe mythique à 2D. Dans le premier cas, la résolution ne serait alors plus éligible au Deus Ex Alea alors que dans le deuxième cas, la résolution le serait (voir la prochaine section).
+
+[.underline]#Résumé#
+
+----
+* Héroïque (extraordinaire): noté + (+1D)
+* Mythique (unique): noté ++ (+2D)
+
+Permet de passer de manœuvre à réflexe (coût 1D).
+
+Peut transformer un trait de couleur en trait aptitude (coût 1D).
+----
+
+=== Deus Ex Alea
+
+* Le camp perdant doit avoir utiliser un trait héroïque ou mythique en lien avec quelque chose d'externe.
+* Le camp gagnant doit avoir obtenu le même chiffre sur tous les dés.
+* Il faut que le destin ne soit pas nul
+
+Résultat du Deus Ex Alea:
+
+* Le perdant de la confrontation obtient gratuitement autant de points que son amplitude de destin et il peut alors les utiliser pour décaler le résultat dans le sens qu'il veut.
+* Le Destin repart ensuite à 0.
+
+Cela transforme donc totalement le résultat final de la confrontation. Le résultat est interprété narrativement comme une intervention hors-norme d'un élément extérieur.
+
+On peut vouloir rendre l'intervention divine incontrôlable. Dans ce cas, on peut ne plus borner le résultat final et chaque point supplémentaire rajoute un effet et (perte ou gain en plus).
+
+_Exemple: après un échec (-2), un Deus Ex Alea sort avec un destin à -5. On termine donc l'opposition sur un exploit (OUI ET ET en fait même) et la jauge de destin retombe à zéro._
+
+**Corollaire du Deus Ex Alea**:
+
+Les personnages puissants pourraient avoir intérêt à jouer avec les personnages moins puissants en ne faisant pas étalage de tout leur potentiel et donc en n'utilisant qu'un seul de leur trait héroïque dans une résolution pour maximiser l'apparition du Deus Ex Alea.
+
+=== Initiative
+
+Dans certains cas, il sera important de connaitre l'ordre d'action. Dans ce cas, on pourra facilement trancher en regardant la valeur du destin.
+
+En cas de destin positif, on donnera l'initiative aux protagonistes.
+
+En cas de destin négatif, on donnera l'initiative à l'adversaire.
+
+Si le litige est entre les protagonistes, on pourra jouer les oppositions en parallèle et déterminer que le premier à agir est celui qui a eu le meilleur résultat.
+
+=== Transformation du Destin en Fortune
+
+Cette règle est optionnelle et consiste à donner en fin de partie autant de Fortunes à chaque Protagoniste que la valeur du Destin (si elle est positive bien sûr). En cas de Destin négatif, on ne retire pas de Fortune.
+
+_Exemple: à la fin de la partie le Destin est à +3, chaque joueur recevrait donc 3 Fortunes chacun._
+
+Cette règle est intéressante si votre groupe a subi beaucoup de jauges négatives en prenant des risques et a donc à la fin de la partie un Destin positif. Cela est d'autant plus le cas si les Protagonistes ont utilisé peu de traits dans les résolutions ce qui a diminué leur chance de Fortune.
+
+Cette règle est uniquement là pour pallier un éventuel déséquilibre et ne devrait pas en théorie être systématique.

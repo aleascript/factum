@@ -1,0 +1,46 @@
+= Factum
+aleascript@gmail.com
+Version 0.1
+:doctype: book
+//:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: Table des matières
+:description: Factum est un jeu de rôles générique
+:keywords: JdR, Solo
+:imagesdir: ./img
+image::licence.png[]
+
+____
+Factum: récit de l'une des parties, destiné aux juges, exposant sommairement les faits d'un procès.
+____
+
+Factum est un jeu de rôle comprenant:
+
+* un système générique de résolution sans stats qui se veut *simple*, *réaliste* et *inspirant*.
+* des ressources génériques prêtes à jouer sous forme de **questions** ou de **lexiques** facilement extensibles ou personnalisables selon le type de jeu que vous voulez faire.
+* plusieurs modes de jeu: *solo*, *legacy* (classique), *tresse*.
+
+____
+L'imagination est une ressource infinie, gratuite et partageable.
+____
+
+include::regles/systeme.adoc[Système de résolution]
+
+include::regles/ressources.adoc[Ressources de jeu]
+
+include::regles/gameplay.adoc[Déroulement d'une partie]
+
+include::regles/modes.adoc[Modes de jeu]
+
+= Auteur & Remerciements
+
+* **Auteur**: AleaScript mailto://aleascript@gmail.com[aleascript@gmail.com]
+
+* **Remerciements**: Vincent Baker (Apocalypse World), CasusNo, La Cellule, Coralie David, Croc (INS/MV), Docteur Dandy, Olivier Fanton (INS/MV),  FibreTigre & Co (GameOfRoles), Mark Galeotti (Glorantha/HQ), Gary Gygax (Donjons & Dragons), Mike Holmes (Universalis), Jérome Larré, Robin D Laws (HeroQuest), Ralph Mazza (Universalis), Newt Newport (HeroQuest/OpenQuest), Sandy Petersen (BRP), P1PDD, Ben Robbins (Microscope), Role The Dice, Jeff Richards (Runequest), Greg Stafford (Glorantha), Volsung (2D+Cool), Matt Wilson (PrimeTimeAdventure), Samuel Zitterman...
+
+* **Forum**: https://github.com/aleascript/factum/discussions
+
+* **Ressources**: https://github.com/aleascript
+
+* **Licence**: http://creativecommons.org/licenses/by/4.0/[Licence Creative Commons Attribution 4.0 International]

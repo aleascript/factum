@@ -1,73 +1,27 @@
-HaDes : HAsard & DEStin 
-=======================
+Factum
+======
 _Version beta: 0.1.0_
 
-1. [Présentation du jeu](#Pr..sentation.du.jeu)
-2. [Eléments de base du jeu](#El..ments.de.base.du.jeu)
-    * [Les Traits](#Les.Traits)
-    * [Les Jauges](#Les.Jauges)
-    * [Les Fortunes](#Les.Fortunes)
-    * [Le Destin](#Le.Destin)
-3. [Résoudre](#R..soudre)
-    * [Actions,Séquences et Scripts](#Actions..S..quences.et.Scripts)
-    * [Résoudre automatiquement](#R..soudre.automatiquement)
-    * [Résoudre avec les dés](#R..soudre.avec.les.d..s)
-    * [Obtention et utilisation des Fortunes](#Obtention.et.utilisation.des.Fortunes)
-    * [Exemples de résolutions](#Exemples.de.r..solutions)
-4. [Créer votre jeu](#Cr..er.votre.jeu)
-    * [Les ressources du jeu](#Les.ressources.du.jeu)
-    * [Les ressources des Protagonistes](#Les.ressources.des.Protagonistes)
-    * [Les ressources de la Destinée](#Les.ressources.de.la.Destin..e)
-    * [Conseils de création](#Conseils.de.cr..ation)
-5. [Commencer à jouer](#Commencer....jouer)
-    * [La session zéro](#La.session.z..ro)
-    * [S'accorder](#S.accorder)
-    * [Reprendre une partie existante](#Reprendre.une.partie.existante)
-    * [Début de l'histoire](#D..but.de.l.histoire)
-6. [Outils pour la Destinée](#Outils.pour.la.Destin..e)
-    * [Mettre les protagonistes sur le grill](#Mettre.les.protagonistes.sur.le.grill)
-    * [Sources d'inspiration](#Sources.d.inspiration)
-    * [Le rythme](#Le.rythme)
-    * [Les descriptions](#Les.descriptions)
-7. [Fin de partie](#Fin.de.partie)
-    * [Débriefer](#D..briefer)
-    * [Faire évoluer les protagonistes](#Faire...voluer.les.protagonistes)
-8. [Règles supplémentaires](#R..gles.suppl..mentaires)
-    * [Gérer l'initiative](#G..rer.l.initiative)
-    * [Jouer avec les puissances](#Jouer.avec.les.puissances)
-    * [Deux Ex Alea](#Deus.Ex.Alea)
-9. [Modes de jeu alternatifs](#Modes.de.jeu.alternatifs)
-    * [Jouer en solo](#Jouer.en.solo)
-    * [Créer le jeu en écrivant](#Cr..er.le.jeu.en...crivant)
-    * [Jouer pour écrire](#Jouer.pour...crire)
-    * [Jouer à deux](#Jouer....deux)
-10. [Aides de jeu](#Aides.de.jeu) 
-    * [Oracles](#Oracles)
-    * [Glossaire](#Glossaire)
-    * [Résumé](#R..sum..)
-    * [Memento](#Memento)
- 11. [Auteur & Remerciements](#Auteur..amp..Remerciements)
  
 # Présentation du jeu
 
-**HaDes**, contraction de Hasard et Destin est un jeu d'imagination dans la tradition des jeux de rôles sur table qui peut se jouer en groupe ou en solo. 
+**Factum** est un jeu d'imagination dans la tradition des jeux de rôles sur table qui peut se jouer en groupe ou en solo. 
 
 Il permet de plonger un ou plusieurs protagonistes dans un cadre rempli de menaces et de dangers qui vont leur permettre de se révéler tout en faisant émerger une histoire, leur histoire.
 
-**HaDes** est d'abord un **moteur de jeu**. Mais HaDes est aussi un guide pour créer votre propre jeu ou adapter un jeu existant. Nous espérons pouvoir également fournir des jeux prêts à l'emploi ou des ressources pour vous faciliter la création de votre jeu.
+**Factum** est d'abord un **moteur de jeu**. Mais Factum est aussi un guide pour créer votre propre jeu ou adapter un jeu existant. Nous espérons pouvoir également fournir des jeux prêts à l'emploi ou des ressources pour vous faciliter la création de votre jeu.
 
 L'idée sous-jacente est d'avoir un système de jeu simple, intuitif et ouvert qui permette de moins se focaliser sur les règles mais plus sur la fiction et l'univers et l'ambiance du jeu que l'on souhaite.  
 
-**HaDes** s'accompagne aussi d'**outils** qui peuvent être utilisés dans n'importe quel autre jeu de rôles (comme les outils pour la Destinée ou les Oracles par exemple). 
+**Factum** s'accompagne aussi d'**outils** qui peuvent être utilisés dans n'importe quel autre jeu de rôles (comme les outils pour la Destinée ou les Oracles par exemple). 
 
-**HaDes** est un jeu asymétrique: 
+**Factum** est un jeu asymétrique: 
 
 * Un des joueurs incarne la **Destinée** et est en charge de présenter l'histoire aux autres.  
 * Les autres incarnent chacun un **Protagoniste** qui est immergé dans l'histoire et peuvent interagir avec la fiction et les autres protagonistes.  
 
 Nous utiliserons les majuscules pour la Destinée et les Protagonistes pour distinguer les joueurs par la suite. 
 
-Si vous êtes pressé, vous pouvez lire la section [résumé](#R..sum..) en bas du document qui permet de présenter le jeu à de nouveaux joueurs. 
 
 # Eléments de base du jeu  
 
@@ -195,7 +149,7 @@ Cas à la marge: on peut également utiliser le Destin pour éviter des jets al�
 
 Le Destin est avant tout un outil pour la Destinée qui n'a pas besoin d'être exact ou précis. Faites-là évoluer lors des résolutions par les dés et sinon au fil de la partie comme mesure de votre "gentillesse" ou "méchanceté" vis à vis des Protagonistes lorsque ceux-ci interrogent la Destinée sur la situation et que cela ne nécessite pas vraiment une résolution par les dés.   
 
-Vous pouvez utiliser l'application Counter sur Android pour incrémenter et décrémenter facilement le Destin en cours de partie. En effet, cette application peut être configurée pour ne pas lancer la veille du smartphone quand on l'affiche. Pensez aussi à désactiver les sons et la vibrations pour garder secrète la valeur du Destin. Si vous avez une solution moins numérique et tout aussi pratique, n'hésitez pas à nous en faire part sur le [forum](https://github.com/aleascript/hades/discussions) ou par [mail](mailto://aleascript@gmail.com).
+Vous pouvez utiliser l'application Counter sur Android pour incrémenter et décrémenter facilement le Destin en cours de partie. En effet, cette application peut être configurée pour ne pas lancer la veille du smartphone quand on l'affiche. Pensez aussi à désactiver les sons et la vibrations pour garder secrète la valeur du Destin. Si vous avez une solution moins numérique et tout aussi pratique, n'hésitez pas à nous en faire part sur le [forum](https://github.com/aleascript/factum/discussions) ou par [mail](mailto://aleascript@gmail.com).
 
 
 # Résoudre 
@@ -237,7 +191,7 @@ Nous voilà maintenant au cœur du moteur de résolution du jeu.
 
 Les résolutions se font toujours sous forme d'opposition 2 à 2. 
 
-Il y a le camp du ou des protagonistes et le camp de l'adversité, de l'obstacle, des antagonistes donc. 
+Il y a d'un côté le camp du ou des protagonistes et de l'autre le camp de l'adversité, de l'obstacle, des antagonistes.
 
 **Joueur contre joueur**
 
@@ -569,7 +523,7 @@ _Exemple: Bob et John sont en compétition pour arriver avant l'autre dans le bu
 
 Nous allons voir maintenant dans cette partie comment créer un jeu de toute pièce ou comment en adapter un existant. 
 
-HaDes est, en effet, un jeu générique qui donne toutes les billes pour créer un jeu sur-mesure et offrir aux joueurs l'ambiance dans laquelle ils souhaitent jouer. 
+Factum est, en effet, un jeu générique qui donne toutes les billes pour créer un jeu sur-mesure et offrir aux joueurs l'ambiance dans laquelle ils souhaitent jouer. 
 
 Il y a donc un travail en amont de la part de la Destinée pour créer le matériel nécessaire avant de jouer mais elle peut également utiliser du matériel déjà existant et prêt à l'emploi. 
 
@@ -584,8 +538,8 @@ Pour créer un jeu, vous aurez besoin de ressources.
     - Par exemple, une explication sur un aspect particulier 
     - Par exemple, un règlement, une lettre que tout le monde connait...
 
-* des **questionnaires**: 
-    - un questionnaire pour créer son personnage par exemple. 
+* des **questions**: 
+    - des questions pour créer son personnage par exemple. 
 
 * des **listes**: 
     - Par exemple, un lexique de mots concernant tel ou tel champ. _Les lexiques sont très utiles pour plonger les joueurs dans l'univers fictionnel et leur donner des sources d'inspiration._ 
@@ -620,11 +574,6 @@ Les profils sont là pour guider les joueurs dans leur rôles respectifs et ne s
 
 C'est à partir des profils que le joueur pourra créer sa fiche de protagoniste qu'il placera dans son **livret protagoniste** avec les profils et les autres ressources qu'aura bien voulu lui fournir la Destinée. 
 
-### La fiche de protagoniste 
-
-La fiche de protagoniste est divisée en deux: 
-* A gauche: les traits extraits des profils et établis. 
-* A droite: les traits et les jauges obtenus pendant la session. Cette partie est donc vide au début. 
 
 ### Les profils de personnages
 
@@ -743,7 +692,7 @@ La Destinée devra aussi sans doute créer une batterie de **seconds rôles** (v
 
 Ces ressources doivent être synthétiques et directement exploitables. 
 
-Ce sont souvent des listes de traits de couleur et d'aptitudes ainsi que de liens entre les différents éléments. En effet, HaDes n'utilisant pas de statistiques pour les résolutions, on se focalise donc sur la nature des choses et sur ce qui pourrait être important et intéressant à jouer pour surprendre les Protagonistes. 
+Ce sont souvent des listes de traits de couleur et d'aptitudes ainsi que de liens entre les différents éléments. En effet, Factum n'utilisant pas de statistiques pour les résolutions, on se focalise donc sur la nature des choses et sur ce qui pourrait être important et intéressant à jouer pour surprendre les Protagonistes. 
 
 On peut également trouver dans les ressources de l'univers des cartes, des images, etc... 
 
@@ -830,7 +779,7 @@ Dans le cyberespace, un agitateur très populaire éliminé par la République r
 
 ### Les campagnes 
 
-Après le premier épisode de la session zéro, la Destinée peut peaufiner une campagne. Nous n'évoquerons pas dans ces règles la création de campagne mais HaDes devrait bien se prêter à ce type d'histoires longues. 
+Après le premier épisode de la session zéro, la Destinée peut peaufiner une campagne. Nous n'évoquerons pas dans ces règles la création de campagne mais Factum devrait bien se prêter à ce type d'histoires longues. 
 
 Nous verrons plus loin, en effet, comment faire évoluer les protagonistes.
 
@@ -867,7 +816,7 @@ Gardez en tête également que vous voulez créer une ambiance particulière aut
 * Transformez les stats du jeu en traits. Pour des stats particulièrement hautes, transformez les en plusieurs traits. _Exemple pour un géant: immense, force herculéenne, peau épaisse, balayage, écrasement..._
 * Vous pouvez passer au background et ainsi en savoir plus sur les éventuels autres éléments que vous voulez transformer dans un premier temps.
  * Essayez de comprendre ce que ce jeu a de spécial et d'unique pour pouvoir le restrancrire sous forme d'élément (univers ou péripétie), de traits ou de règles.
-* Vous n'êtes pas obligés de tout passer en ressources HaDes pour commencer à jouer. 
+* Vous n'êtes pas obligés de tout passer en ressources Factum pour commencer à jouer. 
 * Même si un scénario peut se suffire à lui-même, vous voudrez sans doute avoir d'autres ressources sous le coude en cas de hors-piste de la part des Protagonistes.  
 * Ensuite, il faudra vous focaliser sur les Protagonistes et leurs profils. Essayez de retrouver l'essence du jeu pour permettre d'incarner des protagonistes typiques du jeu que vous adaptez.
  
@@ -876,7 +825,7 @@ Gardez en tête également que vous voulez créer une ambiance particulière aut
 
 ## La session zéro
 
-Une nouvelle partie d'HaDes commence par la session zéro. Pendant cette session, les joueurs vont se mettre d'accord sur les éléments du cadre fictionnel de la partie, puis ils vont créer et commencer à incarner les protagonistes et ensuite ils pourront enfin commencer leur première histoire. 
+Une nouvelle partie de Factum commence par la session zéro. Pendant cette session, les joueurs vont se mettre d'accord sur les éléments du cadre fictionnel de la partie, puis ils vont créer et commencer à incarner les protagonistes et ensuite ils pourront enfin commencer leur première histoire. 
 
 ## S'accorder 
 
@@ -1001,7 +950,7 @@ On profite de la fin de la session pour:
 
 ## Faire évoluer les protagonistes 
 
-Il n'y a pas de points d'expérience dans HaDes. La progression se fait narrativement en obtenant des avantages durables (cela peut être aussi bien des objets que de nouvelles connaissances ou compétences par exemple) mais en obtenant aussi des handicaps durables (cela peut être de nouveaux ennemis, de nouveaux défauts...) qui sont consolidés par les fortunes entre deux sessions. 
+Il n'y a pas de points d'expérience dans Factum. La progression se fait narrativement en obtenant des avantages durables (cela peut être aussi bien des objets que de nouvelles connaissances ou compétences par exemple) mais en obtenant aussi des handicaps durables (cela peut être de nouveaux ennemis, de nouveaux défauts...) qui sont consolidés par les fortunes entre deux sessions. 
 
 Pour autant, en jouant avec les puissances (voir règles avancées), on peut aussi améliorer le niveau de certaines capacités. Mais le sujet dépend entièrement de votre série. Nous préconisons d'utiliser les puissances avec parcimonie. Obtenir une puissance devrait faire l'objet d'un épisode et ne devrait pas être le résultat d'une simple victoire sur une seule confrontation. Il est plus plausible d'obtenir un trait simple dans le même domaine de compétence qu'obtenir un talent héroïque. 
 
@@ -1025,283 +974,25 @@ Quand on n'a plus de point de fortune:
 
 On remet à zéro ensuite le compteur de fortunes et de destin pour la prochaine session (sauf si l'état de la fiction veut qu'on redémarre là où on était).
 
-**Transformation du Destin en Fortune**
 
-Cette règle est optionnelle et consiste à donner en fin de partie autant de Fortunes à chaque Protagoniste que la valeur du Destin (si elle est positive bien sûr). En cas de Destin négatif, on ne retire pas de Fortune. 
 
-_Exemple: à la fin de la partie le Destin est à +3, chaque joueur recevrait donc 3 Fortunes chacun._ 
 
-Cette règle est intéressante si votre groupe a subi beaucoup de jauges négatives en prenant des risques et a donc à la fin de la partie un Destin positif. Cela est d'autant plus le cas si les Protagonistes ont utilisé peu de traits dans les résolutions ce qui a diminué leur chance de Fortune. 
 
-Cette règle est uniquement là pour pallier un éventuel déséquilibre et ne devrait pas en théorie être systématique. 
 
 
-### Changer de profil 
 
-Un changement de profil est possible (un peu comme un changement de classe dans D&D) mais devrait être l'objet d'une réelle transformation du protagoniste, voire même un reniement de son passé. On ne le répètera jamais assez, mais il faut toujours privilégier la fiction avant tout. 
 
 
-# Règles supplémentaires 
 
-## Gérer l'initiative 
 
-Dans certains cas, la notion d'initiative peut être importante. Voici les règles qui permettent de la gérer.
 
-L'initiative est surtout utilisée dans les confrontations détaillées où la résolution se fait tour par tour (les tours étant des entités logiques plus que temporairement fixées).
 
-Si on a besoin de déterminer qui a l'initiative au début de l'opposition, on peut appliquer la règle suivante:
 
-* Une jauge négative ou nulle donne l'initiative à l'antagonisme. (Image du héros se reposant sur ses lauriers et forçant sa chance.)
-* Une jauge positive donne l'initiative au protagoniste. (Image du héros inquiet et qui est aux aguets)
 
-## Jouer avec les puissances 
 
-* Certains talents, pouvoirs peuvent être héroïques. Dans ce cas, ils rapportent 2D.
-* On peut même envisager des talents, pouvoirs mythiques. Dans ce cas, ils rapportent 3D.
 
-Quand la Destinée recalcule le Destin, elle doit compter le nombre de dés et donc un talent héroïque coûte 2 points de destin et un talent mythique coûte 3 points de destin. 
 
-Une confrontation entre des personnages de niveaux différents est souvent source d'un déséquilibre du Destin en positif ou en négatif donc il est commun que les protagonistes évitent ce genre de confrontation. 
 
-En particulier, l'utilisation des capacités pour les personnages puissants coûtent beaucoup (2 ou 3 points de destin), par conséquent ce genre de personnages évitent d'utiliser de telles capacités à tout bout de champ.
 
-Si vous jouez une saga avec des personnages hors-normes (vampires, super-héros, anges, démons, magie), vous pouvez classer les pouvoirs dans la catégorie héroïque mais ce n'est pas une obligation. 
 
-En effet, un pouvoir n'est pas forcément puissant: il permet juste de faire des choses non réalisables par des humains réels et en cela il devient donc un avantage pour résoudre des obstacles a priori insurmontables pour des humains lambdas.
 
-On note les caractéristiques héroïques en rajoutant un signe plus  `+` à côté. On note les caractéristiques mythiques en rajoutant deux signes plus `++` à côté.
-
-Grâce aux puissances, on pourrait aussi permettre de transformer une manœuvre en réflexe. Dans ce cas, une manœuvre pourrait être déclenchée sous forme de réflexe mais en n'amenant 1D de moins. Ainsi une manœuvre héroïque pourrait devenir un réflexe héroïque à 1D et une manœuvre mythique pourrait devenir un réflexe mythique à 2D. Dans le premier cas, la résolution ne serait alors plus éligible au Deus Ex Alea alors que dans le deuxième cas, la résolution le serait (voir la prochaine section).
-
-## Deus Ex Alea 
-
-Cette règle ne s'applique que si vous jouez avec des puissances et peut être totalement optionnelle. En effet, cela concerne les séries qui impliquent la possibilité d'une intervention transcendante. Voici les mécanismes de jeu.
-
-**Conditions à remplir** pour obtenir un Deus Ex Alea:
-
-* Ne pas avoir un Destin à 0 (car sinon l'effet est nul)
-* Le camp doit subir un échec ou un fiasco (donc résultat de la confrontation à -2 ou moins -)
-* Le camp qui subit l'échec ou le fiasco doit avoir utiliser une capacité au moins héroïque et celle-ci doit être liée à un élément externe qui pourrait intervenir et servir de Deus Ex Alea.
-* Le camp gagnant doit avoir obtenu la même valeur de dé sur TOUS les dés de son pool, dés du chaos compris.
-
-Le Deus Ex Alea peut tout à fait surgir dans le camp de l'adversité si cette dernière remplit les conditions. Dans ce cas, il faut que le camp de l'obstacle ait utilisé des talents héroïques ou mythiques, que le résultat soit pour les protagonistes un succès ou un exploit et que les protagonistes aient obtenu des valeurs identiques sur tous les dés. 
-
-Note: cela parait compliqué mais en fait on commence à penser Deus Ex Alea quand on voit qu'un camp a obtenu le même résultat sur tous ses dés (et qu'on a fait l'usage d'une puissance).
-
-**Résultat du Deus Ex Alea**:
-
-Le perdant de la confrontation obtient gratuitement autant de points que son amplitude de destin et il peut alors les utiliser:
-
-* pour décaler le résultat dans le sens qu'il veut. _Exemple: après un échec (-2), un Deus Ex Alea sort avec un destin à -5. On termine donc l'opposition à +4 et la jauge de destin retombe à zéro._ 
-* le Destin repart ensuite à 0:
-    - en cas de Deus Ex Alea en faveur des protagonistes et de jauge positive.
-    - en cas de Deus Ex Alea en faveur de l'adversité et de jauge négative.
-
-Cela transforme donc totalement le résultat final de la confrontation. Le résultat est interprété narrativement comme une intervention hors-norme d'un élément extérieur. 
-
-On peut vouloir rendre l'intervention divine incontrôlable. Dans ce cas, on peut ne plus borner le résultat final et chaque point supplémentaire rajoute un effet **et** (préjudice ou bénéfice en plus). 
-
-**Corollaire du Deus Ex Alea**:
-
-Les personnages puissants pourraient avoir intérêt à jouer avec les personnages moins puissants en ne faisant pas étalage de tout leur potentiel et donc en n'utilisant qu'un seul de leur trait héroïque dans une résolution pour maximiser l'apparition du Deus Ex Alea. 
-
-# Modes de jeu alternatifs
-
-## Jouer en solo 
-
-En solo: vous devez en permanence avoir les deux casquettes mais pour ne pas se mélanger on peut procéder de la sorte: 
-
-1. Phase d'immersion (protagonistes): pour déterminer là où ils sont, ce qu'ils font, ce qu'ils veulent faire.
-2. Phase de destin (destinée): pour déterminer si l'objectif des protagonistes va être possible dans la situation à jouer ou si l'on insère un contretemps. On décide alors dans cette phase des éléments de menace, de dangers qu'on veut mettre en avant.
-3. Phase mixte (protagonistes/destinée): on joue alors la situation.
-4. Phase d'immersion (protagonistes) [optionnelle]: permet de conclure la situation ou retour à la phase 1. pour enchaîner sans plus attendre.
-
-**Utilisation du Destin** 
-
-En solo, quand le Destin est négatif, on peut faire un jet de destin au début de chaque nouvel embranchement fictionnel: on jette alors un dé et si le jet est inférieur à la valeur absolue du Destin, alors la prochaine situation sera un contretemps pour les protagonistes.
-
-**Utilisation des oracles** 
-
-Les oracles sont plus utilisés quand on joue en solo pour avoir le niveau de surprise d'une partie à plusieurs. 
-
-**Utilisation des résolutions**
-
-En solo, on utilise les résultats ratés (échec et fiasco) des résolutions pour créer de la surprise et amener des révélations. 
-
-## Créer le jeu en écrivant 
-
-Il s'agit de créer le jeu en se rôdant en solo avec le moteur. Il s'agit moins d'écrire une récit que d'écrire des éléments (personnages, lieux, dangers...) du futur jeu à créer et de les immerger dans des scènes types ou des missions types. 
-
-Cela permet d'avoir de la matière sous la main quand on jouera mais également de se mettre à la place des futurs joueurs. 
-
-## Jouer pour écrire 
-
-Cela revient à jouer en solo mais en rédigeant un récit entier où les embranchements fictionnels sont gérés par les résolutions. 
-
-## Jouer à deux 
-
-Il n'y a normalement pas de difficulté pour jouer à deux : la Destinée et un Protagoniste. 
-
-Pour autant, cela nécessite souvent de fournir un allié au protagoniste sans que cet allié fasse tout à sa place. Prévoyez donc un allié difficile à gérer qui soit aussi source de conflit en marge des enjeux de l'histoire. 
-
-# Aides de jeu 
-
-##  Oracles 
-
-Voici quelques outils pour la Destinée qui permettent d'orienter facilement son imaginaire lorsqu'elle sèche. Ils ne sont absolument pas nécessaires pour jouer. 
-
-### Jets de choix 
-
-Vous devez faire un choix entre N éléments prédéterminés. Dans ce cas jetez un dé par élément: celui qui a le plus grand score l'emporte. En cas de gagnants ex-aequo incompatibles, relancez un jet de choix entre les gagnants jusqu'à ce qu'il n'y ait plus d'incompatibilité. 
-
-### Jets de distance 
-
-Ces jets permettent de répondre à des questions fermées pour mesurer une distance (Qui, Quand, Combien, Où ?...)
-
-
-| D6  | Qui? | Où? | Quand? | Combien? |
-|:---:|:----:|:---:|:------:|:--------:|
-| 1-2| Protagoniste| Ici| Avant| Peu |
-| 3-4| Neutre| Proche| Maintenant| Normal |
-| 5-6| Antagoniste| Loin| Après| Beaucoup |
-
-### Jets de direction 
-
-Ces jets permettent de répondre à des questions ouvertes.
-
-Les interprétations se basent sur la numérologie du résultat d'un D6. 
-
-**_Table Quoi, Pourquoi, Comment ?_**
-
-|  |  1 | 2 | 3 | 4 | 5 | 6 |
-|:---:|---|---|---|---|---|---|
-| **Champ** | **Lieu**, objet, matériel, terre à terre | **Rencontre**, personne, nouveauté | **Relations**, émotions, motivations, ce qui relie | **Loi**, autorité, dilemme moral, ce qui nous dépasse | **Ressource**, ce qui est vital, tentation, manque | **Mystère**, surprise, inattendu, hors-champ |
-| **Action** |  Affronter | Contourner | Négocier | Résoudre | Encaisser | Observer |
-| **Emotion** | Colère | Peur | Espoir |  Curiosité | Intérêt | Surprise |
-| **Caractéristique** | Force | Dextérité | Charisme | Intelligence | Constitution | Sagesse |
-| **Conflit** | Ouverture vs Fermeture | Soi vs Autre | Harmonie vs Désordre | Changement vs Tradition | Vie vs Mort | Illusion vs Vérité |
-| **Direction** | En-bas | Devant | Gauche | Droite | Derrière | En-haut |
-| **Identité** | Culture | Occupation | Relations | Valeurs | Equipement | Croyances |
-| **Militaire** | Attaque | Défense | Diplomatie | Stratégie | Logistique | Renseignement |
-| **Maison** | Entrée, couloir, escalier, garage | Chambre, salle de bains, toilettes | Salon, salle à manger | Bureau, bibliothèque | Cuisine, garde-manger | Cave, grenier |
-| **Etre** | Matière inerte | Animal | Végétal, groupe | Homme | Esprit, Cellulaire | Surnaturel, Divin |
-| **Corps** | Pieds, mains | Jambes | Tronc, cœur, sexe | Tête | Bras, ventre, poumons | Dos, organes internes |
-| **Processus** | Début | En cours | Coordination | Règles | En attente | En erreur |
-| Exemples de **Relations** | Solitaire, asocial, marginal, rejeté | 1er contact, préjugés, neutre, crainte | Famille, ami, ennemi, ami, amour | Hiérarchique (maître/élève, dominant/dominé, employeur/employé) | Concurrent, rival | Hypocrisie, grief, rancune, jalousie |
-| Exemples d'**attitudes** | Fermé (carré, inflexible, simple, constant...) | Intéressé, à l'écoute | Mélancolique, amoureux, haineux, compatissant | Fanatique, idéaliste, hautain | Opportuniste | Menteur, fourbe, traitre, tricheur, malhonnête |
-
-La Destinée peut également ajouter ici une catégorie spécifique à son jeu pour spécifier 6 directions symboliques en accord avec le canon du jeu qu'elle souhaite créer. 
-
-### Créer un second rôle à la volée 
-
-On commence par déterminer sa **disposition** générale vis à vis des protagonistes: 
-
-* Soit par 1 jet de **distance**: bienveillant (1-2), neutre (3-4), malveillant (5-6) 
-* Soit en utilisant le **Destin**. Si le Destin est à zéro, le personnage est plutôt neutre et si il n'est pas nul, on fait un jet de destin: si le résultat est inférieur à la valeur absolue du Destin, alors le personnage est bienveillant en cas de Destin positif ou malveillant en cas de Destin négatif et sinon il est neutre. 
-
-Puis on affine de la manière suivante: 
-
-*  1 jet symbolique pour connaître l'**objectif** ou la **mission** du second rôle
-*  1 jet symbolique pour connaître les **moyens** ou les **motifs** du second rôle.
-
-Cela donne 108 combinaisons. On peut même affiner encore plus en ajoutant un 4ème jet symbolique pour déterminer le **secret** ou la **faiblesse** du second rôle (ce qui aboutit à 648 types possibles).
-
-
-## Glossaire 
-
-* **Action**: désigne une action courte, non planifiée, ni préparée qui est courte dans le temps pour atteindre un objectif (voir séquence et script).
-* **Antagonisme**: désigne un obstacle (synonymes: adversaire, adversité, obstacle).
-* **Aptitude**: désigne un trait qui pourrait fournir un dé dans les résolutions (synonyme: capacité)(s'oppose à couleur).
-* **Background**: désigne le contexte de l'univers du jeu.
-* **Barre**: mesure d'une jauge. 1 barre=I, 2 barres=II, 3 barres=~~II~~.  
-* **Bénéfice**: impact positif dans une résolution (état, ressource, trait, fiction, destin, fortune) (synonyme: gain)(s'oppose à préjudice).
-* **Camp**: dans une résolution par les dés, désigne la partie protagoniste ou la partie obstacle de l'opposition. 
-* **Composite**: désigne un trait qui a des dépendances avec d'autres traits. 
-* **Couleur**: désigne un trait plutôt descriptif qui ne fournit pas de dé dans les résolutions (s'oppose à aptitude).
-* **Dés du chaos**: désignent les dés égaux à 6 dans les résolutions (synonymes: chance, divin, ...).
-* **Dés**: désignent des dés standards à 6 faces (D6, d, D). 1D désigne un dé, 2D désigne 2 dés, etc...
-* **Destin**: mesure la prise de risque des protagonistes et sert de jauge de référence pour les difficultés des obstacles rencontrés.
-* **Destinée**: la Destinée désigne le rôle en charge de gérer la fiche Histoire (synonymes: meneur, MJ, MC...).
-* **Deus Ex Alea**: néologisme fondé sur le Deus Ex Machina de la dramaturgie. Règle optionnelle disponible si l'on joue avec la règle des puissances qui permet de déclencher des éléments transcendants dans certaines résolutions et sous certaines conditions. 
-* **Durable**: désigne les traits inscrits dans la partie de la fiche de protagoniste contenant les traits durables du personnage (synonyme d'établi, s'oppose à éphémère).
-* **Echec**: résultat raté d'une résolution par les dés.
-* **Ephémère**: désigne un trait inscrit dans la partie de la fiche de protagoniste contenant les nouveaux traits acquis pendant la session en cours (synonyme de nouveau, s'oppose à durable).
-* **Explicite**: désigne un trait spécifié par écrit sur la fiche ou au niveau d'une ressource (s'oppose à implicite). 
-* **Exploit**: résultat exceptionnel d'une résolution par les dés. 
-* **Favori**: quand le pool protagoniste contient plus de dés que le pool obstacle (voir outsider)
-* **Fiasco**: résultat catastrophique d'une résolution par les dés. 
-* **Fortunes**: points obtenus dans certains cas et permettant d'infléchir l'histoire et de faire évoluer un protagoniste. 
-* **Implicite**: désigne un trait non écrit qui peut malgré tout être utilisé car il découle d'un autre trait explicite générique (s'oppose à explicite).
-* **Jauge**: permet de mesurer un avancement ou la dégradation d'une ressource ou d'un état sur 3 niveaux (I, II, ~~II~~). 
-* **Joueurs**: désigne l'ensemble des joueurs.
-* **Manœuvre**: désigne une action préparée, ou planifiée, qui peut être plus ou moins longue dans le temps (s'oppose à réflexe).
-* **Objectif**: intention d'un protagoniste dont souvent l'issue est incertaine car en confrontation avec un obstacle, une difficulté à dépasser (synonyme: intention). 
-* **Outsider**: quand le pool protagoniste contient moins de dés que le pool obstacle (voir favori).
-* **Pool**: nombre de dés à lancer dans une résolution par les dés. 
-* **Préjudice**: impact négatif dans une résolution (état, ressource, trait, fiction, destin...) (synonymes: prix à payer, perte)(s'oppose à bénéfice).
-* **Presque**: résultat mitigé d'une résolution par les dés.
-* **Profil**: ressource particulière utilisée pour construire un protagoniste.
-* **Protagoniste**: un protagoniste est un rôle de joueur lui permettant d'incarner un personnage (synonymes: personnage, PJ, héros, premier rôle mais aussi joueuses quand il est écrit avec une majuscule).
-* **Puissance**: règle optionnelle qui permet d'avoir des traits héroïques (+) voire mythiques (++).
-* **Réflexe**: désigne un trait qui peut se manifester sans préparation (s'oppose à manœuvre).
-* **Résolution**: jet de dés qui permet de connaitre une issue a priori incertaine d'un objectif annoncé par un ou plusieurs protagonistes et contenant un enjeu pour la fiction. (synonymes: conflit, opposition). 
-* **Revers**: résultat contrarié d'une résolution par les dés.
-* **Séquence**: désigne une succession d'actions pour réaliser un objectif dans une même unité de temps et de lieu (voir aussi action et script).
-* **Second rôle**: désigne un personnage géré par la Destinée (synonymes: PNJ, figurants...).
-* **Script**: désigne une liste d'étapes dont l'issue est incertaine pour réaliser un objectif et représentant un plan pour une opération ou une mission donnée (voir action et séquence).
-* **Succès**: réussite d'une résolution par les dés. 
-* **Trait**: diminutif de trait caractéristique. Un trait désigne un élément caractérisant un protagoniste ou un obstacle (cela peut être un nom, une phrase, un verbe, un adjectif...). Les traits permettent de spécifier la fiction et permettent d'obtenir des dés dans les résolutions. 
-
-## Résumé 
-
-Permet de présenter en quelques minutes le jeu à de nouveaux joueurs. 
-
-Nous allons jouer à HaDes (contraction de Hasard & Destin) un jeu dans lequel  je jouerai la Destinée tandis que vous, vous jouerez les protagonistes d'une histoire que nous allons élaborer, construire, vivre tous ensemble.  
-
-La Destinée plongera les protagonistes dans des situations généralement problématiques et ces derniers devront agir ou réagir en accord avec le personnage qu'ils incarnent. 
-
-Quand l'issue d'un objectif annoncé (qu'il soit simple ou complexe) est incertaine, on pourra utiliser les dés pour en déterminer le résultat sur la fiction. 
-
-Dans ce cas, les Protagonistes préciseront leur intention, leur objectif et comment ils comptent s'y prendre, sur quelles ressources de leur personnage ou de leur environnement ou quelles faiblesses de l'adversaire ils comptent s'appuyer. Cela permettra de construire un pool de dés à six faces: chaque dé correspondant à un avantage en leur faveur dans le but de réaliser leur objectif. La Destinée fera de même avec l'obstacle adversaire.  
-
-Puis chaque camp lancera les dés. On ne compte que les résultats pairs (c'est à dire correspondant à des 2,4 ou 6). Parmi les pairs, pour chaque 6, on peut lancer un dé supplémentaire qui peut donc augmenter le nombre final de pairs  6. A la fin, on annoncera le nombre de résultats pairs.  
-
-Le résultat final sera égal à la différence entre le camp de l'obstacle et le camp du ou des protagonistes, borné entre -3 et +3. En cas d'égalité des pairs, on obtient un +1. Si aucun pair ne sort, on obtient un -1. 
-
-On regarde ensuite à quel résultat cela correspond sur la table suivante:  
-
-* -3 et moins: **fiasco** _(~ Vous subirez un **préjudice**. Acceptez le résultat ou subissez un autre préjudice)_
-* -2: **échec** _(~ L'objectif n'est **pas atteint**. Acceptez le résultat ou subissez un préjudice.)_
-* -1 ou aucun pair: **revers** _(~ L'objectif n'est pas atteint mais **encore possible**.)_
-* +1 ou égalité des pairs: **presque** _(~ L'objectif peut être **partiellement atteint** ou est en **bonne voie** de l'être. Ou alors l'objectif est atteint mais vous subissez un préjudice.)_
-* +2: **succès** _(~ L'objectif est **atteint**. Vous pourriez même obtenir un bénéfice mais en échange d'un préjudice.)_
-* +3 et plus: **exploit** _(~ L'objectif est atteint et vous obtiendrez un **bénéfice**)_
-
-C'est la Destinée qui vous indiquera ce qui arrive ou qui vous proposera des options. 
-
-Il vous arrivera aussi d'obtenir de temps à autre des **Fortunes** qui vous permettront de faire évoluer votre personnage en fin de partie. Mais vous pourrez tout aussi bien les utiliser en cours de partie pour infléchir un résultat, faire une révélation sur votre protagoniste ou encore demander un retournement de situation. 
-
-C'est aussi simple que ça. 
-
-## Memento 
-
-A retenir et pratique à mettre sur l'écran de la Destinée: 
-
-* La table des résultats des résolutions
-* La règle sur les fortunes   
-* Les tables des oracles éventuellement
-* D'autres règles: initiative, Deus Ex Alea...
-
-Les règles d'HaDes sont simples et cela laisse de la place pour coller des post-its avec: vos scènes types, vos missions types, des infos sur les protagonistes, des principes de jeu, le cadre fictionnel, etc... 
-
-# Auteur & Remerciements
-
-* **Auteur**: AleaScript [aleascript@gmail.com](mailto://aleascript@gmail.com)
-
-* **Remerciements**: Vincent Baker (Apocalypse World), CasusNo, La Cellule, Coralie David, Croc (INS/MV), Docteur Dandy, Olivier Fanton (INS/MV),  FibreTigre & Co (GameOfRoles), Mark Galeotti (Glorantha/HQ), Gary Gygax (Donjons & Dragons), Mike Holmes (Universalis), Jérome Larré, Robin D Laws (HeroQuest), Ralph Mazza (Universalis), Newt Newport (HeroQuest/OpenQuest), Sandy Petersen (BRP), P1PDD, Ben Robbins (Microscope), Role The Dice, Jeff Richards (Runequest), Greg Stafford (Glorantha), Volsung (2D+Cool), Matt Wilson (PrimeTimeAdventure), Samuel Zitterman...  
-
-* **Forum**: https://github.com/aleascript/hades/discussions 
-
-* **Ressources**: https://github.com/aleascript
-
-* **Licence**: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.fr">Licence Creative Commons Attribution 4.0 International</a>. 
