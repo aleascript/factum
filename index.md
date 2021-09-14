@@ -2,7 +2,7 @@ _**Note de version**: travail en cours sur les diverses branches (dont main). Le
 
 # Règles
 
-[Règles du jeu](main.adoc) **Factum**
+[Règles du jeu](factum.adoc) **Factum**
 
 
 # Ressources 

@@ -24,8 +24,8 @@ Durée: variable mais ne devrait pas être trop long (30 minutes)
 
 [.underline]#Ressources#:
 
-* link:questions/cadrage.adoc[*questions -> cadrage*]: des questions pour cadrer l'univers et le type de jeu que l'on souhaite.
-* link:questions/ambiance.adoc[*questions -> ambiance*]: des questions si l'on veut spécifier l'ambiance.
+* link:../questions/cadrage.adoc[*questions -> cadrage*]: des questions pour cadrer l'univers et le type de jeu que l'on souhaite.
+* link:../questions/ambiance.adoc[*questions -> ambiance*]: des questions si l'on veut spécifier l'ambiance.
 
 
 == Les préparatifs
@@ -60,9 +60,10 @@ On peut également créer un groupe de héros en répondant aux questions sur le
 
 [.underline]#Ressources#:
 
-* link:questions/heros.adoc[*questions -> héros*]: un questionnaire simple pour créer un héros
-* link:questions/groupe.adoc[*questions -> groupe*]: un questionnaire simple pour créer un groupe de héros
-* link:lexiques/duo.adoc[*lexiques -> duo*]: un lexique qui présente certain nombre de duos intéressants.
+* link:../questions/heros.adoc[*questions -> héros*]: un questionnaire simple pour créer un héros
+* link:../questions/groupe.adoc[*questions -> groupe*]: un questionnaire simple pour créer un groupe de héros
+* link:../lexiques/duo.adoc[*lexiques -> duo*]: un lexique qui présente certain nombre de duos intéressants.
+* link:../lexiques/personnalites.adoc[*lexiques -> personnalités*]: un lexique qui présente plus de 500 personnalités
 
 === Préparation de l'histoire
 
@@ -76,8 +77,8 @@ Chaos peut utiliser des feuilles A4 pliée en 2 mais utilisée horizontalement u
 
 [.underline]#Ressources#:
 
-* link:lexiques/intrigues.adoc[*lexiques -> intrigues*]: une liste de 34 intrigues avec tirage au sort à base de cartes à jouer.
-* link:questions/menace.adoc[*questions -> menace*]: des questions à se poser quand on veut créer une menace
+* link:../lexiques/intrigues.adoc[*lexiques -> intrigues*]: une liste de 34 intrigues avec tirage au sort à base de cartes à jouer.
+* link:../questions/menace.adoc[*questions -> menace*]: des questions à se poser quand on veut créer une menace
 
 == L'immersion
 
@@ -87,7 +88,7 @@ On commence l'histoire comme on le souhaite mais l'idée est de présenter les p
 
 [.underline]#Ressources#:
 
-* link:questions/au_commencement.adoc[*questions -> au commencement*]: des questions pour commencer le récit.
+* link:../questions/au_commencement.adoc[*questions -> au commencement*]: des questions pour commencer le récit.
 
 === Pendant la partie
 
@@ -95,9 +96,10 @@ On s'appuie essentiellement sur les fiches de héros, groupe, menaces et autres 
 
 [.underline]#Ressources#:
 
-* link:lexiques/generiques.adoc[*lexiques -> génériques*]: un certain nombre de lexiques génériques valables dans n'importe quel univers. (pour Cosmos et Chaos en mode tresse)
-* link:lexiques/distances.adoc[*lexiques -> distances*]: un petit lexique orienté oracle pour mesurer une distance (spatiale, temporelle, ....) (pour Cosmos et Chaos plutôt en mode tresse)
-* link:lexiques/directions_symboliques.adoc[*lexiques -> directions symboliques*]: un petit lexique orienté oracle pour répondre à des questions ouvertes (pour Cosmos plutôt en mode tresse)
+* link:../lexiques/generiques.adoc[*lexiques -> génériques*]: un certain nombre de lexiques génériques valables dans n'importe quel univers. (pour Cosmos et Chaos en mode tresse)
+* link:../lexiques/distances.adoc[*lexiques -> distances*]: un petit lexique orienté oracle pour mesurer une distance (spatiale, temporelle, ....) (pour Cosmos et Chaos plutôt en mode tresse)
+* link:../lexiques/directions_symboliques.adoc[*lexiques -> directions symboliques*]: un petit lexique orienté oracle pour répondre à des questions ouvertes (pour Cosmos plutôt en mode tresse)
+* link:../lexiques/personnalites.adoc[*lexiques -> personnalités*]: un lexique qui présente plus de 500 personnalités
 
 
 == Le débrief

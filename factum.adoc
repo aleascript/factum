@@ -25,15 +25,15 @@ ____
 L'imagination est une ressource infinie, gratuite et partageable.
 ____
 
-include::systeme.adoc[Système de résolution]
+include::regles/systeme.adoc[Système de résolution]
 
-include::ressources.adoc[Ressources de jeu]
+include::regles/ressources.adoc[Ressources de jeu]
 
-include::gameplay.adoc[Déroulement d'une partie]
+include::regles/gameplay.adoc[Déroulement d'une partie]
 
-include::modes.adoc[Modes de jeu]
+include::regles/modes.adoc[Modes de jeu]
 
-== Auteur & Remerciements
+= Auteur & Remerciements
 
 * **Auteur**: AleaScript mailto://aleascript@gmail.com[aleascript@gmail.com]
 
