@@ -1,4 +1,4 @@
-Le cadrage a définir l'univers de jeu et de le présenter en répondant aux 6 questions suivantes:
+Le cadrage permet de spécifier l'univers de jeu et de le présenter en répondant aux 6 questions suivantes:
 
 1. OU, QUAND: Quels sont les **lieux types** ? A quelle époque joue-t'on ?
 - En particulier: où se déroulera l’action en début de partie?
