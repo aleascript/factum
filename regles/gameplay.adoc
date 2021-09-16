@@ -16,7 +16,7 @@ Le cadrage permet de définir l'univers de jeu et de mettre tous les joueurs en 
 
 On pourra s'appuyer sur des questions à poser à tous les joueurs.
 
-Suivant le mode de jeu, cela peut être la Destinée qui répond à toutes les questions et présente ainsi le monde mais on peut aussi passer 2 minutes par question pour mettre en commun les réponses validés par tous.
+Suivant le mode de jeu, cela peut être la Destinée qui répond à toutes les questions et présente ainsi le monde mais on peut aussi passer 2 minutes par question pour mettre en commun les réponses validées par tous.
 
 Dans cette phase, il s'agit juste de choisir l'univers de jeu et d'en avoir une vision commune au niveau des grandes lignes. On ne détaille pas dans cette étape.
 
