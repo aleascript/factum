@@ -27,6 +27,10 @@ On voit donc là que les responsabilités sont multiples, ce qui donne des piste
 
 Nous présentons ici quelques modes mais n'hésitez à utiliser des variantes en jouant sur les responsabilités des uns et des autres.
 
+[.underline]#Ressources#:
+
+* link:../lexiques/principes_pour_tous.adoc[*lexiques -> principes pour tous*]: un lexique un peu particulier qui regroupe des principes applicables a priori pour tous les joueurs indépendamment du mode.
+
 == Gestion des litiges
 
 Il peut arriver dans une partie qu'un litige émerge autour de la table.
@@ -93,6 +97,11 @@ Il n'y a normalement pas de difficulté pour jouer à deux : la Destinée et un 
 
 Pour autant, cela nécessite souvent de fournir un allié au protagoniste sans que cet allié fasse tout à sa place. Prévoyez donc un allié difficile à gérer qui soit aussi source de conflit en marge des enjeux de l'histoire.
 
+[.underline]#Ressources#:
+
+* link:../lexiques/duo.adoc[*lexiques -> duo*]: un lexique qui présente certain nombre de duos intéressants.
+
+
 
 == Mode tresse
 
@@ -124,4 +133,9 @@ Cela ne gêne normalement pas la fiction car juste après l'interprétation, Cha
 
 _Règle optionnelle: quand Chaos se saisit de l'interprétation d'un résultat au nom de l'histoire, le destin gagne un point et donc Cosmos gagne un dé protagoniste (bleu). A appliquer si Chaos a tendance à empiéter sur les interprétations de Cosmos._
 
-include::principes.adoc[Les principes]
+
+[.underline]#Ressources#:
+
+* link:../lexiques/principes_heros.adoc[*lexiques -> principes pour Héros*]: un lexique un peu particulier qui regroupe des principes pour les joueurs Héros
+* link:../lexiques/principes_cosmos.adoc[*lexiques -> principes pour Cosmos*]: un lexique un peu particulier qui regroupe des principes pour le joueur Cosmos
+* link:../lexiques/principes_chaos.adoc[*lexiques -> principes pour Chaos*]: un lexique un peu particulier qui regroupe des principes pour le joueur Chaos

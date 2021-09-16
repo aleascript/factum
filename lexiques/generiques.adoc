@@ -23,7 +23,8 @@ Ces lexiques sont à disposition de Chaos mais Cosmos peut également se servir 
 11. mouchard
 12. empoisonné
 13. vital
-14. extrêmement fragile ou indestructible
+14. extrêmement fragile
+15. indestructible
 
 
 == Rencontre
