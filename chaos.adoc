@@ -9,7 +9,6 @@ Version 0.1
 :description: Ressources pour Chaos
 :keywords: JdR
 :imagesdir: ./img
-image::licence.png[]
 
 = Les principes
 
