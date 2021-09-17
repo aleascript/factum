@@ -22,6 +22,8 @@ Les lexiques sont tout simplement des listes de noms, expressions qui pourront s
 
 C'est aussi simple que cela.
 
+Un lexique peut également constitué d'éléments sonore ou d'images. Ce n'est pas limité qu'aux mots.
+
 Notez qu'une fois les réponses connues d'une liste de question, on obtient un lexique. Il y a donc un lien entre questions et lexiques.
 
 Notez également que certains lexiques peuvent servir d'Oracle. Il suffit d'appliquer la méthode de détermination spécifiée dans le lexique (dé, cartes, autres...) ou d'utiliser une application de génération de nombre pour connaitre le résultat.

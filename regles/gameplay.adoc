@@ -24,6 +24,8 @@ Durée: variable mais ne devrait pas être trop long (30 minutes)
 
 [.underline]#Ressources#:
 
+* link:../questions/univers.adoc[*questions -> univers*]: des questions choisir un univers de jeu.
+* link:../lexiques/univers.adoc[*questions -> univers*]: la liste des univers du jeu Muses & Oracles
 * link:../questions/cadrage.adoc[*questions -> cadrage*]: des questions pour cadrer l'univers et le type de jeu que l'on souhaite.
 * link:../questions/ambiance.adoc[*questions -> ambiance*]: des questions si l'on veut spécifier l'ambiance.
 
@@ -112,4 +114,4 @@ ou encore en faisant jouer une scène où les protagonistes doivent faire leur r
 
 [.underline]#Ressources#:
 
-* *questions -> débrief*: des questions à se poser pendant un débrief
+* link:../questions/debrief.adoc[*questions -> débrief*]: des questions à se poser pendant un débrief
