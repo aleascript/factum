@@ -1,5 +1,4 @@
-= Liste d'intrigues
-:doctype: book
+== Liste d'intrigues
 
 Référence https://fudge.ouvaton.org/GrandeListe.html
 

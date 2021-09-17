@@ -1,4 +1,4 @@
-= Lexiques génériques: qu'est ce qui rend quelque chose intéressant ?
+== Lexiques génériques: qu'est ce qui rend quelque chose intéressant ?
 
 Ce qui permet de marquer les autres joueurs c'est de créer des éléments narratifs intéressants. Posez-vous donc la question suivant: qu'est ce qui rend intéressant: un objet, un personnage, un lieu, une scène, une menace, une intrigue, etc... ?
 
@@ -8,7 +8,13 @@ Voici quelques lexiques applicables à n'importe quel contexte.
 
 Ces lexiques sont à disposition de Chaos mais Cosmos peut également se servir des lexiques pour les objets, lieux et personnages.
 
-== Objet
+Détermination du focus:
+|===
+| 1 | 2 | 3 | 4 | 5 | 6
+| Objet | Rencontre | Lieu | Scène | Menace | Intrigue
+|===
+
+=== Objet
 
 1. unique
 2. convoité
@@ -27,7 +33,7 @@ Ces lexiques sont à disposition de Chaos mais Cosmos peut également se servir 
 15. indestructible
 
 
-== Rencontre
+=== Rencontre
 
 1. a une particularité physique remarquable
 2. fourbe (traîtrise, vol, assassinat)
@@ -55,7 +61,7 @@ Ces lexiques sont à disposition de Chaos mais Cosmos peut également se servir 
 23. rejeté par les siens
 24. la personne est morte ou a disparu quand les héros arrivent
 
-== Lieu
+=== Lieu
 
 1. malfamé
 2. interdit
@@ -70,7 +76,7 @@ Ces lexiques sont à disposition de Chaos mais Cosmos peut également se servir 
 11. piégé
 
 
-== Scène
+=== Scène
 
 1. action
 2. une bagarre explose
@@ -85,7 +91,7 @@ Ces lexiques sont à disposition de Chaos mais Cosmos peut également se servir 
 11. émerveillement
 
 
-== Menace
+=== Menace
 
 1. la menace en cache une plus grande
 2. avancer d'un cran
@@ -100,7 +106,7 @@ Ces lexiques sont à disposition de Chaos mais Cosmos peut également se servir 
 11. apparition d'une nouvelle menace
 
 
-== Intrigue
+=== Intrigue
 
 1. nouvelle intrigue (story b)
 2. coup de théâtre, rebondissement

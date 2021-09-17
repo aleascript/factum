@@ -1,3 +1,5 @@
+== Questions de groupe
+
 * Quel est le nom du groupe ?
 * Quel est ou quels sont les objectifs du groupe ?
 * Le groupe a t'il un quartier général ?

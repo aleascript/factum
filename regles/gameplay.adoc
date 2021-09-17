@@ -1,5 +1,4 @@
-= Déroulement d'une partie
-:doctype: book
+== Déroulement d'une partie
 
 Une partie se déroule en plusieurs étapes:
 
@@ -10,7 +9,7 @@ Une partie se déroule en plusieurs étapes:
 
 Nous indiquerons les ressources disponibles dans chacune des phases du jeu. Vous être libres de les utiliser ou d'en utiliser d'autres. Factum est pour cela très modulaire et facilement "customisable".
 
-== Le cadrage
+=== Le cadrage
 
 Le cadrage permet de définir l'univers de jeu et de mettre tous les joueurs en phase.
 
@@ -30,13 +29,13 @@ Durée: variable mais ne devrait pas être trop long (30 minutes)
 * link:../questions/ambiance.adoc[*questions -> ambiance*]: des questions si l'on veut spécifier l'ambiance.
 
 
-== Les préparatifs
+=== Les préparatifs
 
 Dans cette étape, il faut préparer les protagonistes, le monde et l'intrigue qui sera jouée.
 
 Durée: 30 minutes
 
-=== Préparation du monde
+==== Préparation du monde
 
 En mode tresse, c'est Cosmos qui s'en charge.
 
@@ -50,7 +49,7 @@ Dans cette phase:
 
 Note: on peut échanger des petits papiers avec Chaos pour cacher des infos aux Héros.
 
-=== Préparation des héros
+==== Préparation des héros
 
 En mode tresse, chaque Héros crée son héros.
 
@@ -67,24 +66,25 @@ On peut également créer un groupe de héros en répondant aux questions sur le
 * link:../lexiques/duo.adoc[*lexiques -> duo*]: un lexique qui présente certain nombre de duos intéressants.
 * link:../lexiques/personnalites.adoc[*lexiques -> personnalités*]: un lexique qui présente plus de 500 personnalités
 
-=== Préparation de l'histoire
+==== Préparation de l'histoire
 
 En mode tresse, c'est Chaos qui s'en charge.
 
 Chaos peut utiliser des feuilles A4 pliée en 2 mais utilisée horizontalement une fois pliée pour pouvoir cacher l'info aux autres.
 
-- on pioche 2 intrigues et on en choisit 1 ou on mixe les 2.
+- on pioche 2 intrigues ou complots et on en choisit 1 ou on mixe les 2. L'idée derrière est de fournir une inspiration: on n'est pas obligé de suivre à la lettre l'intrigue. C'est juste pour éviter de se disperser.
 - on réfléchit à des enjeux éventuels (en gros des questions auxquels il faudra répondre pendant le jeu)
 - on développe au moins 1 menace qui se développe en au moins 3 étapes (idéalement 6).
 
 [.underline]#Ressources#:
 
 * link:../lexiques/intrigues.adoc[*lexiques -> intrigues*]: une liste de 34 intrigues avec tirage au sort à base de cartes à jouer.
+* link:../lexiques/complots.adoc[*lexiques -> complots*]: une liste de 20 complots.
 * link:../questions/menace.adoc[*questions -> menace*]: des questions à se poser quand on veut créer une menace
 
-== L'immersion
+=== L'immersion
 
-=== Début de l'histoire
+==== Début de l'histoire
 
 On commence l'histoire comme on le souhaite mais l'idée est de présenter les protagonistes et de les accrocher c'est à dire de les lier à une intrigue.
 
@@ -92,7 +92,7 @@ On commence l'histoire comme on le souhaite mais l'idée est de présenter les p
 
 * link:../questions/au_commencement.adoc[*questions -> au commencement*]: des questions pour commencer le récit.
 
-=== Pendant la partie
+==== Pendant la partie
 
 On s'appuie essentiellement sur les fiches de héros, groupe, menaces et autres lexiques créés pendant la préparation mais on peut aussi utiliser d'autres lexiques prêts à jouer.
 
@@ -104,7 +104,7 @@ On s'appuie essentiellement sur les fiches de héros, groupe, menaces et autres 
 * link:../lexiques/personnalites.adoc[*lexiques -> personnalités*]: un lexique qui présente plus de 500 personnalités
 
 
-== Le débrief
+=== Le débrief
 
 C'est l'occasion de parler de ce qui a marché ou pas, 
 ce qu'on a aimé, ce qu'on aimerait, etc... 

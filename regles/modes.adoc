@@ -1,5 +1,4 @@
-= Les Modes de jeu
-:doctype: book
+== Les Modes de jeu
 
 Factum est un jeu de rôles. Il y a deux acceptions au sens du mot rôle:
 
@@ -31,7 +30,7 @@ Nous présentons ici quelques modes mais n'hésitez à utiliser des variantes en
 
 * link:../lexiques/principes_pour_tous.adoc[*lexiques -> principes pour tous*]: un lexique un peu particulier qui regroupe des principes applicables a priori pour tous les joueurs indépendamment du mode.
 
-== Gestion des litiges
+=== Gestion des litiges
 
 Il peut arriver dans une partie qu'un litige émerge autour de la table.
 
@@ -48,7 +47,7 @@ On peut ensuite utiliser divers outils pour trancher:
 
 Note: quand il y a plusieurs joueurs par responsabilité, ils doivent d'abord se mettre d'abord d'accord entre eux pour exprimer leur avis. Dans certains cas, le choix pourrait aussi se faire uniquement entre les responsables impliqués et concernés par le litige.
 
-== Mode solo
+=== Mode solo
 
 La façon la plus simple de jouer en solo est de répondre  aux questions ou de préparer des lexiques pour préparer une prochaine partie en mode legacy. C'est plus une préparation d'un mode de jeu soit en passant.
 
@@ -78,7 +77,7 @@ Les oracles sont plus utilisés quand on joue en solo pour avoir le niveau de su
 En solo, on utilise les résultats ratés (échec et fiasco) des résolutions pour créer de la surprise et amener des révélations.
 
 
-== Mode legacy
+=== Mode legacy
 
 C'est le mode classique des jeux de rôles.
 
@@ -91,7 +90,7 @@ Lors du cadrage, la **Destinée** répondra aux questions du cadrage mais pourra
 
 Note: généralement la Destinée a déjà un univers prêt à jouer dans ce type de mode.
 
-=== Jouer à deux
+==== Jouer à deux
 
 Il n'y a normalement pas de difficulté pour jouer à deux : la Destinée et un Protagoniste.
 
@@ -103,7 +102,7 @@ Pour autant, cela nécessite souvent de fournir un allié au protagoniste sans q
 
 
 
-== Mode tresse
+=== Mode tresse
 
 C'est le mode le plus innovant de Factum et qu'on essaie de mettre en avant.
 

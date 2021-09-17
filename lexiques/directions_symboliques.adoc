@@ -1,4 +1,4 @@
-= Directions symboliques
+== Directions symboliques
 
 Ces jets permettent de répondre à des questions ouvertes.
 

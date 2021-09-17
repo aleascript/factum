@@ -1,5 +1,4 @@
-= Le système de résolution
-:doctype: book
+== Le système de résolution
 
 Le jeu se joue avec des dés à 6 faces (D6).
 
@@ -7,6 +6,19 @@ Si vous jouez en mode tresse, prévoyez des dés de 2 couleurs différentes
 (exemple : rouges pour les obstacles et bleus pour les protagonistes).
 
 Prévoyez également des feuilles A4 et des crayons ainsi que d'éventuels petits papiers.
+
+
+=== Eléments de base du jeu
+
+Les éléments de base que nous détaillerons plus loin sont les suivants:
+
+* Les **Traits**: ce qui caractérise les personnages voire aussi n'importe quel élément du jeu (lieu, danger,...). Contrairement à beaucoup d'autres systèmes de JdR, les traits n'ont pas de valeur numérique. Ce sont juste des traits. _Exemples: grand, fort, hache, riche, en froid avec l'oncle Tom, déteste les magiciens,barbare, guerrier, grimoire de Raaaaalgnarok, le bluebird transporteur stellaire de classe IV, ..._.
+
+* Les **Jauges**: ces éléments mesurent une évolution, soit un avancement positif, soit une dégradation de ressource ou d'un état. On peut les voir comme une sorte de trait graduel en quelque sorte. Les jauges ne peuvent avoir que 3 valeurs représentées par des barres (I faiblement avancée, II fortement avancée, [.line-through]#II# épuisée). _Exemples: blessé I, appauvri II, dénigré [.line-through]#II#, avancement I, dérangé I, ..._.
+
+* Les **Fortunes**: les fortunes sont obtenues par les protagonistes dans certains cas et permettent par la suite d'agir sur l'histoire et/ou de faire évoluer leur personnage. On peut les matérialiser par des jetons. _Exemple: Fortunes: 4 ou 4 jetons_
+
+* Le **Destin**: le Destin est un élément géré par un des joueurs. Le Destin est unique et partagé par tous les joueurs mais sa valeur est inconnue des Protagonistes. Il permet de proposer des difficultés réalistes et cohérentes avec le rythme de l'histoire en fonction des choix des protagonistes. Quand le Destin est négatif, c'est que les protagonistes ne prennent pas beaucoup de risques et dans ce cas, il faut corser les obstacles et s'il est positif, c'est le cas inverse. _Exemple: Destin: -3_
 
 == Les traits
 
@@ -115,7 +127,7 @@ Le choix du zoom est souvent implicite.
 
 En cas d’ambiguïté c’est le héros impliqué qui choisit le niveau de zoom.
 
-== Influence sur le destin
+=== Influence sur le destin
 
 On ajoute au destin la différence entre le nombre de dés de l'obstacle et le nombre de dés du protagoniste.
 
@@ -136,7 +148,7 @@ _Exemple: dés rouges pour les obstacles et dés bleus pour les protagonistes. O
 * Si lors de ces jets supplémentaires, un 6 apparait, on ne lance pas de dé supplémentaire.
 * On compte ensuite le nombre de chiffres pairs de chaque camp et on compare.
 
-== Résultats
+=== Résultats
 
 * Le nombre de pairs du protagoniste est supérieur au nombre de pairs de l'obstacle:
 - de un: c'est un **succès**.
@@ -183,7 +195,7 @@ Très répandu dans le jeu de rôles, il s'agit de piller les ressources de l'ad
 * Quand l'opposition est équilibrée ou que le protagoniste est favori, on gagne 1 point de fortune en cas de fiasco.
 * Quand le protagoniste est l'outsider de l'opposition, on gagne 1 point de fortune en cas d'exploit.
 
-== Utilisation des fortunes
+=== Utilisation des fortunes
 
 Lors d'une opposition:
 
