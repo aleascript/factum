@@ -15,9 +15,9 @@ Ce n'était pas opérationnel.
 
 J'avais également en tête la simplicité du moteur BRP: une stat sur 100 et on jette un dé, on a le résultat immédiatement. Les joueurs savent à quoi s'en tenir. 
 
-Mais le moteur BRP n'est pas réaliste car dans la vraie vie, on ne connait pas ses statistiques personnelles et il est meme probable qu'elles n'existant pas tout simplement. Le succès et la réussite sont dépendants de pleins d'autres facteurs. 
+Mais le moteur BRP n'est pas réaliste car dans la vraie vie, on ne connait pas ses statistiques personnelles et il est meme probable qu'elles n'existent tout simplement pas. Le succès et la réussite sont dépendants de pleins d'autres facteurs. 
 
-Quand on analyse un échec ou un succès, on commente en mettant en avant tel ou tel facteur-clé. Il s'avère d'ailleurs qu'il y a aussi plusieurs facteurs pris en compte et l'on est parfois incapables de déterminer lequel a été déterminant. 
+Quand on analyse un échec ou un succès, on commente en mettant en avant tel ou tel facteur-clé. Il s'avère d'ailleurs qu'il y a souvent plusieurs facteurs pris en compte et que l'on est  incapables de déterminer lequel a été déterminant. 
 
 C'est l'esprit du moteur de Factum: on détermine les facteurs clés et on résout. Tant qu'on n'a pas résolu, on ne peut pas se prononcer. Evidemment plus il y a de facteurs clés dans un camp, plus il a de chance de l'emporter mais ce sont les dés qui en décideront avec un facteur d'incertitude qui, je l'espère, sera stimulant pour les joueurs. 
 
@@ -30,14 +30,14 @@ On peut ne pas être très à l'aise avec le roleplay mais en déterminant les f
 Exemples de facteurs-clés possibles originaux: 
 
 - "Par le pouvoir du Crâne ancestral..." : un simple mantra caractérisant un personnage peut être source d'un avantage
-- "JJ ne peut pas réussir un plan" : c'est la possibilité d'inclure un facteur hors champ mais synonyme du Destin
+- "JJ ne peut pas réussir un plan" : c'est la possibilité d'inclure un facteur hors champ mais synonyme de Destin
 
 
 ## Un jeu narratif guidé par les facteurs
 
 Factum un jeu qui permet de mettre en avant tel ou tel facteurs (issus du jeu ou de la fiction) pour voir ce qui arrive
 
-Le jeu devrait donne ainsi un maximum de pouvoir de liberté aux joueurs.
+Le jeu devrait donner ainsi un maximum de pouvoir de liberté aux joueurs.
 
 ## Statistiques
 
@@ -99,6 +99,8 @@ Il y a un léger avantage pour les protagonistes mais c'est assumé car ce sont 
 
 La possibilité d'obtenir des fortunes augmentent plus il y a de dés dans les pools et cela reflète bien que c'est la complexité qui est pourvoyeuse d'expérience.
 
+On verra plus bas que ses statistiques ont poussé à revoir le moteur car les stats de fiasco/exploit sont trop déséquilibrées quand on augmente le nombre de dés des pools. 
+
 ### Moteur sans relance sur 6
 
 On aurait pu envisager également de ne pas relancer en cas de 6. 
@@ -113,6 +115,74 @@ Par contre, cela fige un peu plus les statistiques. En particulier, il devient i
 
 Dans cette version on relance autant de fois qu'un 6 sort. En pratique quand les pools sont importants, on se retrouve à relancer trop de fois.
 
+### Nouvelle version du moteur
+
+Un bug du moteur était que plus le nombre de dés étaient importants plus les fiascos/exploits l'étaient indépendamment de l'équilibre des forces en présence. 
+
+La règle pour les fiascos/exploits a donc été revue. 
+
+On n'obtient un fiasco ou un exploit quand le nombre de pairs est strictement supérieur au nombre de pair de l'autre camp. Si l'autre camp n'a aucun pair, le fiasco/exploit est obtenu si la différence est supérieure ou égale à 2. 
+
+Les règles de fortune restent les mêmes: obtention en cas de fiasco sauf si l'on est outsider, dans ce cas, on obtient la fortune en cas d'exploit. 
+
+Ca devrait etre assez simple opérationnellement: 
+- on jette les dés (en tenant compte de dés de chance en plus)
+- on compte les pairs de chaque côté
+- on compare et on obtient le résultat - seul cas à prendre en compte quand la différence de pairs n'est pas zéro, il faut juste vérifier qu'on n'est pas dans un fiasco ou un exploit (ce qui est assez simple: on prend le nombre de pair x 2 et si strictement supérieur alors on l'est - si nombre de pair = 0, il faut juste penser que c'est 2 ou plus). 
+
+Et voici les stats lissées: 
+
+|Protagoniste|Obstacle|Succes|Echec|-3|-2|-1|+1|+2|+3|Fortunes|
+|---|---|---|---|---|---|---|---|---|---|---|
+|1D|1D|46|54|4|24|25|18|24|4|4|
+|1D|2D|35|65|20|32|12|19|14|2|2|
+|1D|3D|25|75|38|31|6|16|8|1|1|
+|1D|4D|16|84|55|26|3|11|4|~0|~0|
+|1D|5D|10|90|68|20|2|7|2|~0|~0|
+|1D|1D|46|54|4|24|25|18|24|4|4|
+|2D|1D|72|28|2|14|13|19|32|20|2|
+|3D|1D|85|15|1|8|6|16|31|38|1|
+|4D|1D|92|8|~0|4|3|11|26|55|~0|
+|5D|1D|96|4|~0|2|2|7|20|68|~0|
+|1D|1D|47|53|4|24|25|18|24|4|4|
+|2D|2D|59|41|12|23|6|24|23|11|12|
+|3D|3D|61|39|15|23|2|24|22|15|15|
+|4D|4D|60|40|15|24|~0|22|24|15|15|
+|5D|5D|60|40|14|26|~0|20|26|14|14|
+|6D|6D|59|41|12|29|~0|18|29|12|12|
+|7D|7D|58|42|11|31|~0|17|31|11|11|
+|8D|8D|58|42|10|32|~0|16|32|10|10|
+|16D|16D|56|44|4|41|N/A|11|41|4|4|
+|1D|2D|35|65|20|32|13|19|14|2|2|
+|2D|3D|45|55|24|28|3|23|16|7|7|
+|3D|4D|48|52|24|28|~0|21|17|9|9|
+|4D|5D|48|52|22|30|~0|20|20|9|9|
+|7D|8D|49|51|15|36|~0|16|26|7|7|
+|2D|1D|72|28|2|14|12|20|32|20|2|
+|3D|2D|74|26|7|16|3|23|28|24|7|
+|4D|3D|73|27|9|17|~0|21|28|24|9|
+|5D|4D|71|29|9|20|~0|20|30|22|9|
+|8D|7D|67|33|7|26|~0|16|36|15|7|
+|1D|3D|25|75|38|31|6|16|8|1|1|
+|2D|4D|32|68|37|29|2|18|10|4|4|
+|3D|5D|35|65|34|31|~0|18|13|5|5|
+|4D|6D|37|63|29|33|~0|17|15|5|5|
+|7D|9D|40|60|19|41|~0|14|21|4|4|
+|3D|1D|85|15|1|8|6|16|31|38|1|
+|4D|2D|84|16|4|10|2|18|29|37|4|
+|5D|3D|82|18|5|13|~0|18|31|34|5|
+|6D|4D|79|21|5|15|~0|17|33|29|5|
+|9D|7D|74|26|4|21|~0|14|41|19|4|
+|1D|4D|16|84|55|26|3|11|4|~0|~0|
+|2D|5D|22|78|49|28|~0|14|7|2|2|
+|3D|6D|26|74|43|31|~0|14|9|3|3|
+|4D|7D|28|72|37|35|~0|14|11|3|3|
+|7D|10D|32|68|24|44|~0|12|17|3|3|
+|4D|1D|92|8|~0|4|3|11|26|55|~0|
+|5D|2D|90|10|2|7|~0|14|27|49|2|
+|6D|3D|88|12|3|9|~0|14|31|43|3|
+|7D|4D|86|14|3|11|~0|14|35|37|3|
+|10D|7D|80|20|3|17|~0|12|44|24|3|
 
 ## Quand un protagoniste ou un obstacle n'a aucun trait ? 
 
