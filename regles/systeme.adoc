@@ -150,15 +150,16 @@ _Exemple: dés rouges pour les obstacles et dés bleus pour les protagonistes. O
 
 === Résultats
 
-* Le nombre de pairs du protagoniste est supérieur au nombre de pairs de l'obstacle:
-- de un: c'est un **succès**.
-- de deux ou plus: c'est un **exploit**.
-* Le nombre de pairs du protagoniste est inférieur au nombre de pairs de l'obstacle:
-- de un: c'est un **échec**.
-- de deux ou plus: c'est un **fiasco**.
 * En cas d'égalité:
 - Il n'y a aucun pair: c'est un **échec partiel**.
 - Le nombre de pairs est supérieur à 0: c'est un **succès partiel**.
+* Le nombre de pairs du protagoniste est supérieur au nombre de pairs de l'obstacle:
+- strictement supérieur à deux fois le nombre de pairs de l'obstacle (ou supérieur ou égal à 2 si l'obstacle n'a obtenu aucun pair): c'est un *exploit**
+- sinon: c'est un **exploit**.
+* Le nombre de pairs de  l'obstacle est supérieur au nombre de pairs du protagoniste:
+- strictement supérieur à deux fois le nombre de pairs du protagoniste (ou supérieur ou égal à 2 si le protagoniste n'a obtenu aucun pair): c'est un **fiasco**.
+- sinon: c'est un **échec**.
+
 
 == Interprétation
 
@@ -176,6 +177,8 @@ Evidemment à tout moment le protagoniste peut changer son objectif et c'est mê
 Les fiascos et les exploits sont d'excellentes occasions pour révéler un trait sur un protagoniste (lâche, courageux, futé, ami/ennemi d'untel, etc...).
 
 Les fiascos et les exploits vont plutôt révéler des choses surprenantes. En effet, on peut également faire de l'obtention  d'un trait ou d'un avancement de jauge l'enjeu de l'opposition. Dans ce cas, il sera possible d'obtenir un trait de jauge ou un trait en cas de succès ou d'échec également. Et en cas de fiasco ou échec, il y aura une suprise négative ou positive en plus.
+
+Un truc qui marche aussi pour les fiascos c'est d'introduire un nouveau danger ou de faire avancer la menace immédiatement suite à l'échec du jet. Et pour les exploits, un autre truc qui marche c'est le cadeau inattendu.
 
 Dans certains cas, on ne veut pas jouer la situation mais juste en connaitre l'issue. Les résultats partiels peuvent être difficiles à interpréter mais on peut utiliser la table suivante pour les interpréter:
 

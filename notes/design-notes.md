@@ -45,61 +45,78 @@ Malgré son appartent simplicité, les statistiques apparaissent plutôt riches 
 
 ### Statistiques du moteur de résolution
 
+Le moteur a évolué pour avoir des statistiques cohérentes et équilibrées. 
 
-|Protagoniste|Obstacle|Succes|Echec|-3|-2|-1|+1|+2|+3|Fortunes|
-|---|---|---|---|---|---|---|---|---|---|---|
-|1D|1D|47|53|4|24|25|18|24|4|4|
-|1D|2D|35|65|20|32|13|19|14|2|2|
-|1D|3D|25|75|39|31|6|16|8|1|1|
-|1D|4D|16|84|56|25|3|11|4|~0|~0|
-|1D|5D|10|90|69|19|2|7|2|~0|~0|
-|1D|1D|46|54|4|24|25|18|24|4|4|
-|2D|1D|72|28|2|14|13|19|32|20|2|
-|3D|1D|85|15|1|8|6|16|30|39|1|
-|4D|1D|92|8|~0|4|3|11|25|56|~0|
-|5D|1D|96|4|~0|2|2|7|19|69|~0|
-|1D|1D|47|53|4|24|25|18|24|4|4|
-|2D|2D|59|41|12|23|6|25|23|12|12|
-|3D|3D|61|39|17|21|2|24|21|17|17|
-|4D|4D|61|39|20|19|~0|21|19|20|20|
-|5D|5D|60|40|23|17|~0|19|17|23|23|
-|8D|8D|58|42|28|14|~0|16|14|28|28|
-|1D|2D|36|64|20|32|12|20|14|2|2|
-|2D|3D|45|55|26|26|3|23|16|7|7|
-|3D|4D|47|53|29|23|~0|21|15|11|11|
-|4D|5D|48|52|31|20|~0|20|15|14|14|
-|7D|8D|49|51|36|16|~0|16|13|20|20|
-|2D|1D|72|28|2|14|13|19|32|20|2|
-|3D|2D|75|25|7|16|3|23|26|26|7|
-|4D|3D|73|27|11|15|~0|21|23|29|11|
-|5D|4D|71|29|14|15|~0|20|20|31|14|
-|8D|7D|67|33|20|13|~0|16|16|35|20|
-|1D|3D|25|75|39|30|6|16|8|1|1|
-|2D|4D|32|68|41|25|2|18|10|4|4|
-|3D|5D|36|64|42|22|~0|18|11|7|7|
-|4D|6D|37|63|43|20|~0|17|11|9|9|
-|7D|9D|40|60|45|15|~0|14|11|15|15|
-|3D|1D|85|15|1|8|6|16|31|39|1|
-|4D|2D|84|16|4|10|2|18|25|41|4|
-|5D|3D|82|18|7|11|~0|18|22|42|7|
-|6D|4D|79|21|9|11|~0|17|20|43|9|
-|9D|7D|74|26|15|11|~0|14|16|45|15|
-|1D|4D|16|84|56|25|3|11|4|~0|~0|
-|2D|5D|22|78|55|22|~0|14|7|2|2|
-|3D|6D|26|74|55|19|~0|14|8|4|4|
-|4D|7D|28|72|54|18|~0|14|8|6|6|
-|7D|10D|32|68|54|14|~0|12|9|11|11|
-|4D|1D|92|8|~0|4|3|11|25|56|~0|
-|5D|2D|90|10|2|7|~0|14|22|55|2|
-|6D|3D|88|12|4|8|~0|14|19|55|4|
-|7D|4D|86|14|6|8|~0|14|18|54|6|
-|10D|7D|80|20|11|9|~0|12|15|54|11|
+Par exemple, un bug d'une version précédente du moteur était que plus le nombre de dés étaient importants plus les fiascos/exploits l'étaient indépendamment de l'équilibre des forces en présence. La règle pour les fiascos/exploits a donc été revue. 
+
+On n'obtient un fiasco ou un exploit quand le nombre de pairs est strictement supérieur au nombre de pair de l'autre camp. Si l'autre camp n'a aucun pair, le fiasco/exploit est obtenu si la différence est supérieure ou égale à 2. 
+
+Les règles de fortune restent les mêmes: obtention en cas de fiasco sauf si l'on est outsider, dans ce cas, on obtient la fortune en cas d'exploit. 
+
+Ca devrait etre assez simple opérationnellement: 
+- on jette les dés (en tenant compte de dés de chance en plus)
+- on compte les pairs de chaque côté
+- on compare et on obtient le résultat - seul cas à prendre en compte quand la différence de pairs n'est pas zéro, il faut juste vérifier qu'on n'est pas dans un fiasco ou un exploit (ce qui est assez simple: on prend le nombre de pairs du perdant x 2 et si le nombre de pairs du gagnant est strictement supérieur alors on obtient un fiasco ou un exploit - si nombre de pair du perdant = 0, le fiasco aura lieu si le gagnant a 2 pairs ou plus). 
+
+Et voici les stats lissées: 
+
+|Protagoniste|Obstacle|Succes|Echec|-3|-2|-1|+1|+2|+3|Fortunes|Jets|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|1D|1D|47|53|4|24|25|18|24|4|4|1,3|
+|2D|2D|59|41|11|23|6|24|23|12|11|1,5|
+|3D|3D|61|39|15|23|2|24|23|15|15|1,7|
+|4D|4D|60|40|15|24|~0|21|24|15|15|1,8|
+|5D|5D|60|40|14|26|~0|19|26|14|14|1,8|
+|6D|6D|59|41|12|29|~0|18|29|12|12|1,9|
+|7D|7D|58|42|11|31|~0|17|31|11|11|1,9|
+|8D|8D|58|42|10|32|~0|16|32|10|10|1,9|
+|16D|16D|55|45|4|41|N/A|11|41|4|4|2|
+|1D|1D|46|54|4|24|25|18|24|4|4|1,3|
+|1D|2D|36|64|20|32|12|20|14|2|2|1,4|
+|1D|3D|25|75|38|31|6|16|8|1|1|1,5|
+|1D|4D|16|84|55|26|3|11|4|~0|~0|1,6|
+|1D|5D|10|90|68|21|2|7|2|~0|~0|1,7|
+|1D|1D|47|53|4|24|25|18|24|4|4|1,3|
+|2D|1D|72|28|2|14|13|20|32|20|2|1,4|
+|3D|1D|85|15|1|8|6|16|31|38|1|1,5|
+|4D|1D|92|8|~0|4|3|11|26|55|~0|1,6|
+|5D|1D|96|4|~0|2|2|7|20|68|~0|1,7|
+|1D|2D|35|65|20|32|12|20|14|2|2|1,4|
+|2D|3D|45|55|24|28|3|23|16|7|7|1,6|
+|3D|4D|47|53|24|28|~0|21|17|9|9|1,7|
+|4D|5D|48|52|22|30|~0|20|20|9|9|1,8|
+|7D|8D|49|51|15|36|~0|16|26|7|7|1,9|
+|2D|1D|72|28|2|14|13|19|32|20|2|1,4|
+|3D|2D|74|26|7|16|3|23|28|24|7|1,6|
+|4D|3D|73|27|9|17|~0|21|28|24|9|1,7|
+|5D|4D|71|29|9|20|~0|20|30|22|9|1,8|
+|8D|7D|67|33|7|26|~0|16|36|15|7|1,9|
+|1D|3D|25|75|38|31|6|16|8|1|1|1,5|
+|2D|4D|32|68|37|29|2|18|10|4|4|1,7|
+|3D|5D|35|65|34|30|~0|18|13|5|5|1,8|
+|4D|6D|37|63|29|33|~0|17|15|5|5|1,8|
+|7D|9D|40|60|19|41|~0|14|21|4|4|1,9|
+|3D|1D|85|15|1|8|6|16|31|38|1|1,5|
+|4D|2D|84|16|4|10|2|18|29|37|4|1,7|
+|5D|3D|82|18|5|13|~0|18|30|34|5|1,8|
+|6D|4D|79|21|5|15|~0|17|33|29|5|1,8|
+|9D|7D|74|26|4|21|~0|14|41|19|4|1,9|
+|1D|4D|16|84|55|26|3|11|4|~0|~0|1,6|
+|2D|5D|22|78|49|27|~0|14|7|2|2|1,7|
+|3D|6D|26|74|43|31|~0|14|9|3|3|1,8|
+|4D|7D|28|72|37|35|~0|14|11|3|3|1,9|
+|7D|10D|32|68|24|44|~0|12|17|3|3|2|
+|4D|1D|92|8|~0|4|3|11|26|55|~0|1,6|
+|5D|2D|90|10|2|7|~0|14|28|49|2|1,7|
+|6D|3D|88|12|3|9|~0|14|31|43|3|1,8|
+|7D|4D|86|14|3|11|~0|14|35|37|3|1,9|
+|10D|7D|80|20|3|17|~0|12|44|24|3|2|
+
 
 Il y a un léger avantage pour les protagonistes mais c'est assumé car ce sont eux les héros de l'histoire.
 
 La possibilité d'obtenir des fortunes augmentent plus il y a de dés dans les pools et cela reflète bien que c'est la complexité qui est pourvoyeuse d'expérience.
-
-On verra plus bas que ses statistiques ont poussé à revoir le moteur car les stats de fiasco/exploit sont trop déséquilibrées quand on augmente le nombre de dés des pools. 
+ 
 
 ### Moteur sans relance sur 6
 
@@ -109,80 +126,116 @@ Le fait de ne plus avoir de dés de chance permet par ailleurs d'utiliser n'impo
 
 A chacun ses dés fétiches donc.
 
-Par contre, cela fige un peu plus les statistiques. En particulier, il devient impossible de réaliser un fiasco/exploit sur une opposition 1/1. 
+Par contre, cela fige un peu plus les statistiques. En particulier, il devient impossible de réaliser un fiasco/exploit sur une opposition 1/1. Et de manière générale, quand un camp n'a un seul dé, il lui est impossible de réaliser un exploit ou un fiasco. Mais cela peut être assumé pour pousser les joueurs à poser plus d'un dé. 
+
+
+|Protagoniste|Obstacle|Succes|Echec|-3|-2|-1|+1|+2|+3|Fortunes|Jets|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|1D|1D|50|50|N/A|25|25|25|25|N/A|N/A|1|
+|2D|2D|62|38|6|25|6|31|25|6|6|1|
+|3D|3D|64|36|11|23|2|30|23|11|11|1|
+|4D|4D|63|37|12|24|~0|27|24|12|12|1|
+|5D|5D|62|38|11|26|~0|24|26|11|11|1|
+|6D|6D|61|39|10|29|~0|23|29|10|10|1|
+|7D|7D|60|40|9|31|~0|21|31|9|9|1|
+|8D|8D|60|40|8|32|~0|20|32|8|8|1|
+|16D|16D|57|43|3|40|N/A|14|40|3|3|1|
+|1D|1D|50|50|N/A|25|25|25|25|N/A|N/A|1|
+|1D|2D|37|63|12|38|13|25|12|N/A|N/A|1|
+|1D|3D|25|75|31|38|6|19|6|N/A|N/A|1|
+|1D|4D|16|84|50|31|3|13|3|N/A|N/A|1|
+|1D|5D|9|91|66|23|2|8|2|N/A|N/A|1|
+|1D|1D|50|50|N/A|25|25|25|25|N/A|N/A|1|
+|2D|1D|75|25|N/A|13|12|25|38|13|N/A|1|
+|3D|1D|87|13|N/A|6|6|19|38|31|N/A|1|
+|4D|1D|94|6|N/A|3|3|13|31|50|N/A|1|
+|5D|1D|97|3|N/A|2|2|8|23|65|N/A|1|
+|1D|2D|37|63|13|37|13|25|13|N/A|N/A|1|
+|2D|3D|47|53|19|31|3|28|16|3|3|1|
+|3D|4D|49|51|20|30|~0|27|16|6|6|1|
+|4D|5D|50|50|19|31|~0|24|18|7|7|1|
+|7D|8D|50|50|12|38|~0|20|25|5|5|1|
+|2D|1D|75|25|N/A|12|13|25|37|13|N/A|1|
+|3D|2D|78|22|3|16|3|28|31|19|3|1|
+|4D|3D|77|23|6|16|~0|27|30|20|6|1|
+|5D|4D|74|26|7|18|~0|24|31|19|7|1|
+|8D|7D|70|30|5|25|~0|20|38|12|5|1|
+|1D|3D|25|75|31|37|6|19|6|N/A|N/A|1|
+|2D|4D|33|67|33|33|2|22|9|2|2|1|
+|3D|5D|36|64|30|34|~0|21|11|3|3|1|
+|4D|6D|38|62|26|36|~0|20|13|4|4|1|
+|7D|9D|40|60|16|43|~0|17|19|3|3|1|
+|3D|1D|88|12|N/A|6|6|19|37|31|N/A|1|
+|4D|2D|88|12|2|9|2|22|33|33|2|1|
+|5D|3D|85|15|3|11|~0|22|34|30|3|1|
+|6D|4D|83|17|4|13|~0|20|36|26|4|1|
+|9D|7D|77|23|3|19|~0|17|43|16|3|1|
+|1D|4D|16|84|50|31|3|13|3|N/A|N/A|1|
+|2D|5D|22|78|46|31|~0|16|5|~0|~0|1|
+|3D|6D|25|75|40|35|~0|16|7|2|2|1|
+|4D|7D|27|73|34|39|~0|16|9|2|2|1|
+|7D|10D|31|69|21|47|~0|15|15|2|2|1|
+|4D|1D|94|6|N/A|3|3|13|31|50|N/A|1|
+|5D|2D|93|7|~0|5|~0|16|31|46|~0|1|
+|6D|3D|91|9|2|7|~0|16|35|40|2|1|
+|7D|4D|89|11|2|9|~0|16|39|34|2|1|
+|10D|7D|83|17|2|15|~0|15|47|21|2|1|
 
 ### Moteur sans limite de relance
 
 Dans cette version on relance autant de fois qu'un 6 sort. En pratique quand les pools sont importants, on se retrouve à relancer trop de fois.
 
-### Nouvelle version du moteur
-
-Un bug du moteur était que plus le nombre de dés étaient importants plus les fiascos/exploits l'étaient indépendamment de l'équilibre des forces en présence. 
-
-La règle pour les fiascos/exploits a donc été revue. 
-
-On n'obtient un fiasco ou un exploit quand le nombre de pairs est strictement supérieur au nombre de pair de l'autre camp. Si l'autre camp n'a aucun pair, le fiasco/exploit est obtenu si la différence est supérieure ou égale à 2. 
-
-Les règles de fortune restent les mêmes: obtention en cas de fiasco sauf si l'on est outsider, dans ce cas, on obtient la fortune en cas d'exploit. 
-
-Ca devrait etre assez simple opérationnellement: 
-- on jette les dés (en tenant compte de dés de chance en plus)
-- on compte les pairs de chaque côté
-- on compare et on obtient le résultat - seul cas à prendre en compte quand la différence de pairs n'est pas zéro, il faut juste vérifier qu'on n'est pas dans un fiasco ou un exploit (ce qui est assez simple: on prend le nombre de pair x 2 et si strictement supérieur alors on l'est - si nombre de pair = 0, il faut juste penser que c'est 2 ou plus). 
-
-Et voici les stats lissées: 
-
-|Protagoniste|Obstacle|Succes|Echec|-3|-2|-1|+1|+2|+3|Fortunes|
-|---|---|---|---|---|---|---|---|---|---|---|
-|1D|1D|46|54|4|24|25|18|24|4|4|
-|1D|2D|35|65|20|32|12|19|14|2|2|
-|1D|3D|25|75|38|31|6|16|8|1|1|
-|1D|4D|16|84|55|26|3|11|4|~0|~0|
-|1D|5D|10|90|68|20|2|7|2|~0|~0|
-|1D|1D|46|54|4|24|25|18|24|4|4|
-|2D|1D|72|28|2|14|13|19|32|20|2|
-|3D|1D|85|15|1|8|6|16|31|38|1|
-|4D|1D|92|8|~0|4|3|11|26|55|~0|
-|5D|1D|96|4|~0|2|2|7|20|68|~0|
-|1D|1D|47|53|4|24|25|18|24|4|4|
-|2D|2D|59|41|12|23|6|24|23|11|12|
-|3D|3D|61|39|15|23|2|24|22|15|15|
-|4D|4D|60|40|15|24|~0|22|24|15|15|
-|5D|5D|60|40|14|26|~0|20|26|14|14|
-|6D|6D|59|41|12|29|~0|18|29|12|12|
-|7D|7D|58|42|11|31|~0|17|31|11|11|
-|8D|8D|58|42|10|32|~0|16|32|10|10|
-|16D|16D|56|44|4|41|N/A|11|41|4|4|
-|1D|2D|35|65|20|32|13|19|14|2|2|
-|2D|3D|45|55|24|28|3|23|16|7|7|
-|3D|4D|48|52|24|28|~0|21|17|9|9|
-|4D|5D|48|52|22|30|~0|20|20|9|9|
-|7D|8D|49|51|15|36|~0|16|26|7|7|
-|2D|1D|72|28|2|14|12|20|32|20|2|
-|3D|2D|74|26|7|16|3|23|28|24|7|
-|4D|3D|73|27|9|17|~0|21|28|24|9|
-|5D|4D|71|29|9|20|~0|20|30|22|9|
-|8D|7D|67|33|7|26|~0|16|36|15|7|
-|1D|3D|25|75|38|31|6|16|8|1|1|
-|2D|4D|32|68|37|29|2|18|10|4|4|
-|3D|5D|35|65|34|31|~0|18|13|5|5|
-|4D|6D|37|63|29|33|~0|17|15|5|5|
-|7D|9D|40|60|19|41|~0|14|21|4|4|
-|3D|1D|85|15|1|8|6|16|31|38|1|
-|4D|2D|84|16|4|10|2|18|29|37|4|
-|5D|3D|82|18|5|13|~0|18|31|34|5|
-|6D|4D|79|21|5|15|~0|17|33|29|5|
-|9D|7D|74|26|4|21|~0|14|41|19|4|
-|1D|4D|16|84|55|26|3|11|4|~0|~0|
-|2D|5D|22|78|49|28|~0|14|7|2|2|
-|3D|6D|26|74|43|31|~0|14|9|3|3|
-|4D|7D|28|72|37|35|~0|14|11|3|3|
-|7D|10D|32|68|24|44|~0|12|17|3|3|
-|4D|1D|92|8|~0|4|3|11|26|55|~0|
-|5D|2D|90|10|2|7|~0|14|27|49|2|
-|6D|3D|88|12|3|9|~0|14|31|43|3|
-|7D|4D|86|14|3|11|~0|14|35|37|3|
-|10D|7D|80|20|3|17|~0|12|44|24|3|
+|Protagoniste|Obstacle|Succes|Echec|-3|-2|-1|+1|+2|+3|Fortunes|Jets|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|1D|1D|47|53|5|24|25|18|24|5|5|1,4|
+|2D|2D|59|41|12|23|6|24|23|12|12|1,6|
+|3D|3D|61|39|16|22|2|23|22|16|16|1,9|
+|4D|4D|60|40|16|24|~0|21|24|16|16|2|
+|5D|5D|59|41|15|26|~0|19|26|15|15|2,1|
+|6D|6D|58|42|13|28|~0|17|28|13|13|2,2|
+|7D|7D|58|42|12|30|~0|16|30|12|12|2,3|
+|8D|8D|57|43|11|32|~0|15|32|11|11|2,4|
+|16D|16D|55|45|5|40|N/A|10|40|5|5|2,8|
+|1D|1D|47|53|5|24|25|18|24|5|5|1,4|
+|1D|2D|35|65|20|32|13|19|14|3|3|1,5|
+|1D|3D|25|75|39|30|6|15|8|1|1|1,6|
+|1D|4D|16|84|55|26|3|11|4|~0|~0|1,8|
+|1D|5D|10|90|68|20|2|7|3|~0|~0|1,9|
+|1D|1D|46|54|5|24|25|18|24|5|5|1,4|
+|2D|1D|71|29|3|14|12|19|32|20|3|1,5|
+|3D|1D|84|16|1|8|6|15|30|39|1|1,6|
+|4D|1D|92|8|~0|5|3|11|25|55|~0|1,8|
+|5D|1D|95|5|~0|3|2|7|20|68|~0|1,9|
+|1D|2D|36|64|20|32|12|19|14|3|3|1,5|
+|2D|3D|45|55|25|27|3|22|16|7|7|1,8|
+|3D|4D|47|53|25|27|~0|21|17|9|9|1,9|
+|4D|5D|48|52|23|29|~0|19|20|10|10|2,1|
+|7D|8D|49|51|16|35|~0|15|26|8|8|2,4|
+|2D|1D|71|29|3|14|13|19|32|20|3|1,5|
+|3D|2D|74|26|7|16|3|22|27|25|7|1,8|
+|4D|3D|72|28|9|17|~0|21|27|25|9|1,9|
+|5D|4D|70|30|10|20|~0|19|29|23|10|2,1|
+|8D|7D|66|34|8|26|~0|15|36|16|8|2,4|
+|1D|3D|25|75|39|30|6|15|8|1|1|1,6|
+|2D|4D|33|67|38|28|2|18|11|4|4|1,9|
+|3D|5D|36|64|35|29|~0|17|13|6|6|2|
+|4D|6D|37|63|30|32|~0|16|15|6|6|2,1|
+|7D|9D|40|60|20|40|~0|13|22|5|5|2,4|
+|3D|1D|84|16|1|8|6|15|30|39|1|1,6|
+|4D|2D|84|16|4|11|2|18|28|38|4|1,9|
+|5D|3D|81|19|6|13|~0|17|29|35|6|2|
+|6D|4D|79|21|6|15|~0|16|32|30|6|2,1|
+|9D|7D|73|27|5|22|~0|13|40|20|5|2,4|
+|1D|4D|16|84|55|26|3|11|4|~0|~0|1,8|
+|2D|5D|23|77|50|26|~0|13|7|2|2|1,9|
+|3D|6D|26|74|44|30|~0|13|9|3|3|2,1|
+|4D|7D|28|72|38|34|~0|13|12|4|4|2,2|
+|7D|10D|32|68|25|42|~0|12|18|3|3|2,4|
+|4D|1D|92|8|~0|4|3|11|26|55|~0|1,8|
+|5D|2D|90|10|2|7|~0|13|26|50|2|1,9|
+|6D|3D|87|13|3|9|~0|13|30|44|3|2,1|
+|7D|4D|85|15|4|12|~0|13|34|38|4|2,2|
+|10D|7D|79|21|3|18|~0|12|42|25|3|2,4|
 
 ## Quand un protagoniste ou un obstacle n'a aucun trait ? 
 
@@ -192,7 +245,7 @@ Dans tout test, il y a des facteurs contre à prendre en compte et donc tous les
 
 * Les -/+3 (Fiasco/Exploit) sont de l'ordre de l'improbable, de la surprise
 * Les -/+2 (Echec/Succes) sont de l'ordre du plus évident.
-* Les -/+1 (Echec/Success partiels) sont entre les deux. Ils peuvent faire surgir le plus évident mais aussi faire intervenir quelque chose d'improbable. Ce qui caractérise le plus les -/+1 c'est le côté irrésolu, incomplet, partiel de la résolution.
+* Les -/+1 (Echec/Succes partiels) sont entre les deux. Ils peuvent faire surgir le plus évident mais aussi faire intervenir quelque chose d'improbable. Ce qui caractérise le plus les -/+1 c'est le côté irrésolu, incomplet, partiel de la résolution.
 
 Note: ce qui est notable c'est qu'a nouveau le pair (+/-2) apparait comme facteur prépondérant alors que l'impair (+/-1, +/-3) apparaissent plutot comme des facteurs rares, important a posteriori mais négligeables a priori.
 
@@ -203,17 +256,83 @@ La question se pose d'autant plus que le jeu permet de faire des jets sur à peu
 
 En particulier, le mode solo est a priori différent du mode groupe car par nature, le mode solo invite à plus de jets de dés pour faire émerger l'histoire. 
 
+Cette question traite aussi de la précédence. Le jet précède-t'il le récit ou est-ce l'inverse ? Cela dépend du récit en cours. Dans un récit très immersif, ca sera le récit qui précédera le jet mais sinon dans la plupart des cas, on fera des jets avant le récit pour savoir de quoi il retourne et lancer le récit en quelque sorte. 
+
 ## Jets derrière l'écran
 
 Possibilité ou pas d'introduire le fait que la Destinée jette des dés pour les protagonistes derrière l'écran.
 
 ## Revue des situations types 
 
+Les interprétations dépendent grandement du style de jeu. Un jeu préparé avec un scénario aura des réponses déjà prêtes en fonction du scénario. Par contre, un récit au fil de l'eau, générera des réponses improvisées. 
+
+
 ### Soin
+
+Les héros tentent de soigner un autre héros. Un héros peut également tenter de s'auto-soigner. Les héros peuvent aussi n'avoir aucune compétence de soin et faire appel à un tiers. 
+
+Quand le soin fonctionne on pourra alors diminuer la jauge concernée. 
+
+* Fiasco: la blessure empire. Attention, cela pourrait éliminer un personnage. Or si ce n'est pas encore son heure, il faut trouver une autre interprétation. Dans tous les cas, le soin n'a pas marché. Plusieurs pistes: le héros s'évanouit / Le personnage qui essayait de les soigner n'est qu'un escroc et va chercher à les duper, voler / On fait avancer une menace ou on introduit un danger : pendant que vous tentez de soigner machin, un bruit aux alentours se fait entendre. Vous n'êtes pas seuls apparemment ! / ...
+
+* Echec: le soin n'a pas marché. 
+
+* Echec partiel: le soin n'a pas marché mais une opportunité s'ouvre. Exemples: si les héros trouvent tel ou tel ingrédient alors le soin sera possible (avec avantage en plus cette fois) / le soin ne marche pas mais le héros découvre une puce qu'on lui implanté à son insu / ...
+
+* Succès partiel: le soin a marché (on peut donc diminuer la jauge concernée) mais il y a des effets secondaires / il faut se reposer 1 journée, 1 semaine sinon la blessure va se réouvrir / le soignant demande le double de ce qu'il avait annoncé / le soignant dénonce les héros aux autorités / ...
+
+* Succès: le soin a marché. 
+
+* Exploit: le soin a marché. Possibilité de diminuer 2 traits de jauge / Le soignant peut donner quelque chose aux héros (potion, implant, etc...) / Le héros peut découvrir une plante particulièrement rare qu'il peut garder pour une prochaine fois / ...
 
 ### Résister à 
 
+En gros il s'agit de réagir à une attaque extérieure et le jet n'est là que pour interpréter les résultats. 
+
+Opérationnellement: 
+- déterminer l'objectif de l'attaque (qui sera donc appliqué en cas d'échec)
+
+* Fiasco: on subit l'objectif de l'attaque avec quelque chose de négatif en plus:  perte de jauge mais aussi évanouissement / etre fait prisonnier / etre séparé / succomber a ses pulsions mais de maniere totalement amplifiée / obtention d'un trait allergie, sensibilité à ...  
+
+* Echec: on subit l'objectif de l'attaquant 
+
+* Echec partiel: on prend tout pour soi et les autres sont saufs / on arrive a temporiser pour les autres / on ne résiste pas mais on est immunisé / ...
+
+* Succès partiel: on résiste mais il y a des effets secondaires (trait allergie, sensibilité à ...) / on résiste mais il faudra refaire un jet plus tard / ...
+
+* Succès: on résiste 
+
+* Exploit: on résiste et on est immunisé 
+
 ### Perception 
+
+Il est important de demander au personnage qui cherche ce qu'il cherche avant de jeter le dé. Cela permet d'établir la difficulté du jet: plausibilité, dissimulation de l'information qu'on cherche, facteurs extérieurs qui peuvent gêner ou aider la recherche, etc...
+
+Une particularité de la perception c'est également de savoir si l'on jette les dés devant le héros ou pas. 
+
+L'option jet caché est intéressante car cela ouvre des possibilités de doute. Pour autant cela n'est pas la panacée non plus. En effet, un héros qui n'a eu que des impairs mettra plus volontiers en doute l'information car il se doutera bien qu'il n'a pas réussi. 
+
+Opérationnellement: 
+- réponse improvisée ou cadrée ? 
+- jet caché ou ouvert ? 
+
+Le mode opératoire est important car il impacte les interprétations. 
+
+* Fiasco: 
+    - déterministe: aucune info / l'objet de la recherche se rend compte qu'on l'observe et le prend mal / avancée d'une menace, introduction d'un danger / l'objet qu'on observe est détruit ou en cours de l'être / ...
+    - impro: comme au dessus mais aussi une info douloureuse à connaitre est révélée / révélation du pire 
+
+* Echec: 
+    - déterministe: aucune info 
+    - impro: comme au dessus mais aussi révélation de quelque chose de désagréable. On obtient l'infirmation de ce qu'on cherchait. Si l'on veut savoir que quelqu'un est digne de confiance, on découvrira que non donc. Et dans le cas d'un fiasco, il pourra meme se révéler un traitre. Si le jet a été caché, la destinée pourra ne donnait aucune info mais exploiter ce nouvel aspect révélé par les dés pour ce personnage.  
+    
+* Echec partiel: on ne remarque rien sur ce qu'on cherchait mais on remarque quelque chose d'autre / on se dit qu'en faisant telle ou telle chose on aura une meilleure perception (exemple: monter sur la statue pour mieux voir, aller voir un tel, etc...)
+
+* Succès partiel: on obtient l'info mais elle n'est pas tout à fait celle qu'on souhaitait / on sait qu'on sait meme si le résultat de l'info n'est pas celle qu'on voulait entendre (style impro avec jet caché) on obtient l'info mais on a été remarqué / on obtient l'info mais on a laissé des traces / on obtient l'info mais on a cassé quelque chose / ...
+
+* Succès: on obtient l'info. Dans le cas d'un style impro, on obtient la confirmation de ce qu'on cherchait et plutôt quelque chose de positif pour soi. Exemple: si l'on cherche si untel est honnête ou pas, on obtiendra qu'il l'est. 
+
+* Exploit: on obtient l'info et on en est sûr. Dans le cas d'un style impro, on obtient la confirmation de ce qu'on cherchait et plutôt quelque chose d'exceptionnement positif pour soi. Exemple: si l'on cherche si untel est honnête ou pas, on obtiendra que non seulement il l'est mais qu'en plus il est un allié.  
 
 ### Fabriquer 
 
