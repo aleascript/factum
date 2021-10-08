@@ -482,6 +482,10 @@ Et c'est donc pour cela que j'ai voulu inclure différents modes de jeu pour sor
 
 En effet, de manière courante, on entend par rôle, le roleplay, la capacité à incarner le rôle d'un personnage (un PJ ou un PNJ) mais d'un autre côté le rôle peut également désigner le rôle du joueur au sein du jeu: est-il meneur ou joueur ? Et cette ambivalence est d'autant plus présente quand on commence à travailler sur les différents modes: le joueur est-il le Chaos en charge des menaces sur les Héros, ou est-il un héros, ou encore est-il le Cosmos en charge de donner vie au monde ? Mais si l'on va meme plus loin, son rôle pourrait être DJ, spectateur, régisseur ? (voir tous les rôles de Cosmos?)
 
+A creuser:
+* Cosmos incarne le destin en tant que garant du monde mais aussi le hasard en tant que révélateur du monde. Le monde étant suffisamment complexe pour que tout ne puisse etre défini par avance. 
+* Chaos incarne le destin en tant que garant de l'intrigue et n'utilise par le hasard car il s'appuie pour cela sur Cosmos. C'est pour cela que les jets d'Oracle sont réalisés pour Cosmos. 
+
 # Organisation des ressources
 
 J'ai du mal à me satisfaire d'une organisation statique. J'ai donc tenté de simplifier en identifiant 2 types de ressources: 
@@ -529,5 +533,50 @@ Lexique développé:
 6. jovial 
 7. accablé
 
+# Storytelling 
 
+L'idée du  jeu est aussi de fournir tous les outils pour pouvoir inventer collectivement une histoire. 
 
+Le moteur de résolution est essentiel mais ne fait pas tout. 
+
+Il nous faut donc nous pencher sur d'autres outils. 
+
+En particulier l'objectif est aussi de pouvoir inventer facilement des histoires crédibles de façon improvisée. C'est tout l'objet du mode tresse qui enlève de la responsabilité au MJ classique pour faciliter l'improvisation. 
+
+Mais qu'est ce que l'improvisation ? 
+
+Déjà il faut être lucide et garder en tête qu'il y aura toujours une étape de préparation. Mais le but est de réduire la durée de cette dernière voire même idéalement de rendre celle-ci ludique. 
+
+Il nous faut donc étudier les techniques d'impro et voir comment les rendre disponibles pour le jeu. 
+
+## La méthode des 5 "pourquoi" et du "et si"
+
+Quand on prépare un élément d'intrigue, se poser au moins 5 pourquoi (ce qui permet de préparer le questionnement qu'auront les protagonistes). 
+
+Utiliser également le "et si" pour envisager d'autres embranchements possibles. 
+
+## Les éléments d'une bonne intrigue
+
+https://www.aproposdecriture.com/8-etapes-essentielles-pour-contruire-une-bonne-intrigue
+
+1. Le but ~ le pitch de l'intrigue 
+2. La conséquence ~ la catastrophe imminente d'une menace 
+3.  Les conditions ~ des jalons (les enjeux?)
+4. Les avertissements ~ les étapes d'une menace 
+5. Les coûts ~ les pertes dans les oppositions
+6. Les dividendes ~ les gains dans les oppositions 
+7. Les prérequis ~ pas d'équivalent (les scènes ?)
+8. Les conditions préalables ~ pas d'équivalent (les défis personnels?)
+
+Ce qui est intéressant c'est qu'on voit qu'on retrouve dans ces conseils les éléments modernes du JdR. 
+Ce n'est pas forcément opérationnel mais ca peut etre une base de travail. 
+
+## Les déclencheurs 
+
+L'élément déclencheur est un concept de dramaturgie qui a été adapté de maniere indirecte en PbtA. 
+
+En gros, il y a des éléments de l'histoire qui ont un impact important sur l'histoire. 
+
+Mais l'échelle est importante. Tous les éléments n'auront pas un impact important. 
+
+Idée: seuls les fiascos ou les exploits peuvent vraiment changer l'histoire quelque soit l'échelle. 
