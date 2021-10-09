@@ -60,6 +60,7 @@ Détermination du focus:
 22. prisonnier, cherche à s’évader, s'enfuir
 23. rejeté par les siens
 24. la personne est morte ou a disparu quand les héros arrivent
+25. a besoin d'aide
 
 === Lieu
 
