@@ -1,6 +1,6 @@
 = Factum
 aleascript@gmail.com
-Version 0.1
+Version 0.2
 :doctype: book
 //:sectnums:
 :toc:
