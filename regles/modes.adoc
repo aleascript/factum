@@ -110,19 +110,23 @@ Il fonctionne à partir de 3 joueurs mais une configuration à 4 ou 6 joueurs es
 
 Dans ce mode, on a:
 
-* **Cosmos**: le joueur responsable du monde et du destin
-* **Chaos**: le joueur responsable des menaces et de l'intrigue
+* **Cosmos**: le joueur responsable du monde et du destin (la norme en fait)
+* **Chaos**: le joueur responsable des menaces et de l'intrigue (l'inattendu en fait)
 * **Héros**: les joueurs responsable des protagonistes (un protagoniste par joueur)
 
 Le mode tresse c'est une sorte de jeu de rôles à 2 MJ mais qui ont tous les deux des responsabilités distinctes.
 
 Le mode tresse veut aussi faciliter les parties sur le pouce pour décharger le meneur.
 
+Les joueurs en mode tresse sont appelés les tresseurs.
+
+Les 3 responsabilités correspondent aussi aux 3 couleurs élémentaires: bleu (héros), rouge (chaos) et vert (cosmos). C'est avec ces 3 fils que les tresseurs tissent ensemble l'histoire.
+
 Note: personnalités des joueurs et responsabilités dans le mode tresse.
 
 - Héros = moi je, immersion
-- Chaos = le troll, aime jouer les méchants
-- Cosmos = le cinéphile, le littéraire, l'arbitre
+- Chaos = le troll, aime jouer les méchants, aime amener la surprise
+- Cosmos = le cinéphile, le littéraire, l'arbitre, aime développer un univers
 
 En mode tresse, c'est Cosmos qui gère le destin. Et dans les oppositions, il intervient pour ajouter des dés aux protagonistes ou à l'obstacle suivant les dés du destin qu'il a en main. Il doit bien sûr justifier les dés posés par des éléments du contexte.
 
