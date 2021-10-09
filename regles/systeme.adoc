@@ -154,8 +154,8 @@ _Exemple: dés rouges pour les obstacles et dés bleus pour les protagonistes. O
 - Il n'y a aucun pair: c'est un **échec partiel**.
 - Le nombre de pairs est supérieur à 0: c'est un **succès partiel**.
 * Le nombre de pairs du protagoniste est supérieur au nombre de pairs de l'obstacle:
-- strictement supérieur à deux fois le nombre de pairs de l'obstacle (ou supérieur ou égal à 2 si l'obstacle n'a obtenu aucun pair): c'est un *exploit**
-- sinon: c'est un **exploit**.
+- strictement supérieur à deux fois le nombre de pairs de l'obstacle (ou supérieur ou égal à 2 si l'obstacle n'a obtenu aucun pair): c'est un **exploit**
+- sinon: c'est un **succès**.
 * Le nombre de pairs de  l'obstacle est supérieur au nombre de pairs du protagoniste:
 - strictement supérieur à deux fois le nombre de pairs du protagoniste (ou supérieur ou égal à 2 si le protagoniste n'a obtenu aucun pair): c'est un **fiasco**.
 - sinon: c'est un **échec**.
@@ -163,12 +163,12 @@ _Exemple: dés rouges pour les obstacles et dés bleus pour les protagonistes. O
 
 == Interprétation
 
-* **Fiasco** (_Déplorable_): _(NON ET)_ l'objectif n'est pas atteint et le protagoniste subit une perte (jauge, trait, impact fictionnel désastreux).
+* **Fiasco** (_Oups_, _Déplorable_): _(NON ET)_ l'objectif n'est pas atteint et le protagoniste subit une perte (jauge, trait, impact fictionnel désastreux).
 * **Echec** (_Raté_): _(NON)_ l'objectif n'est pas atteint. Suivant la fiction, on peut subir une perte.
 * **Echec partiel** (_Gêné_): _(NON MAIS)_ l'objectif n'est pas atteint mais une opportunité s'ouvre (pour réessayer éventuellement avec un bonus).
 * **Succès partiel** (_Mitigé_): _(OUI MAIS)_ l'objectif est atteint mais revu à la baisse. Quand l'objectif ne peut pas être mitigé, l'objectif est alors atteint mais le protagoniste subit une perte (jauge, trait).
 * **Succès** (_Réussi_): _(OUI)_ l'objectif est atteint.
-* **Exploit** (_Formidable_): _(OUI ET)_ l'objectif est atteint et le protagoniste remporte un gain inattendu (jauge, trait, impact fictionnel exceptionnel).
+* **Exploit** (_Waouh_, _Formidable_): _(OUI ET)_ l'objectif est atteint et le protagoniste remporte un gain inattendu (jauge, trait, impact fictionnel exceptionnel).
 
 Les différents résultats sont dans la main de la Destinée. Il peut proposer des options mais c'est lui qui décide s'il y a lieu de proposer la fin de l'opposition ou pas ou s'il pense qu'à ce moment là ca serait bien de continuer.
 
