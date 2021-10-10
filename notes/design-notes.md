@@ -1,5 +1,8 @@
 # A propos du moteur de résolution
 
+Initialement le moteur s'appelait (_HaDes: Hasard & Destin_) mais finalement le nom de **factum** s'est imposé comme plus représentatif des facteurs clés matérialisés par les dés dans les résolutions. 
+
+_Factum: (n.m) 1. Exposé des faits d'un procès._ 
 
 ## Simplicité 
 
@@ -115,7 +118,7 @@ Et voici les stats lissées:
 
 Il y a un léger avantage pour les protagonistes mais c'est assumé car ce sont eux les héros de l'histoire.
 
-La possibilité d'obtenir des fortunes augmentent plus il y a de dés dans les pools et cela reflète bien que c'est la complexité qui est pourvoyeuse d'expérience.
+On obtient plus facilement des fortunes quand l'opposition est équilibrée. 
  
 Voici les stats mais en utilisant des D10 au lieu d'utiliser des D6.
  
