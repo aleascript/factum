@@ -27,11 +27,6 @@ ____
 
 include::regles/systeme.adoc[Système de résolution]
 
-include::regles/ressources.adoc[Ressources de jeu]
-
-include::regles/gameplay.adoc[Déroulement d'une partie]
-
-include::regles/modes.adoc[Modes de jeu]
 
 = Auteur & Remerciements
 
