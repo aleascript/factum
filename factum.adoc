@@ -212,7 +212,7 @@ On arrive donc à X + 2Y / N + X
 
 Cela permet de rendre presque impossible le succès d'une telle situation en cas d'éléments clés manquants. Le succès reste toujours possible bien sûr (la chance ça existe) ainsi que l'échec (la malchance ça existe aussi).
 
-_Note: on peut (surtout en *solo* mais pas que) ne pas savoir à l'avance si un facteur est OK ou KO. Et donc ça permet d'envisager des 3/3. Très utile pour jouer une proposition crédible des joueurs sans pour autant la valider automatiquement. En effet, ce n'est pas parce que c'est crédible que c'est la vérité. Dans le cas d'une enquête, un échec pourrait alors signifier l'alibi du coupable proposé ou meme il pourrait etre la prochaine victime ce qui pourrait l'innocenter, etc..._
+_Note: on peut (surtout en *solo* mais pas que) ne pas savoir à l'avance si un facteur est OK ou KO. Et donc ça permet d'envisager des oppositions équilibrée orientée par le choix d'éléments crédibles choisis par les protagonistes. Cette mécanique est dont très utile pour jouer une proposition crédible des joueurs sans pour autant la valider automatiquement. En effet, ce n'est pas parce que c'est crédible que c'est la vérité. Dans le cas d'une enquête, un échec pourrait alors signifier l'alibi du coupable proposé ou meme il pourrait etre la prochaine victime ce qui pourrait l'innocenter, etc..._
 
 === Choix du zoom: action, séquence ou script
 
